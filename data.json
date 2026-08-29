@@ -1317,6 +1317,20 @@
   },
   {
    "appliedOn": "2026-08-28",
+   "ats": "ashby",
+   "band": [
+    225000,
+    350000
+   ],
+   "bucket": "in-window",
+   "company": "Aleph",
+   "location": "On-site",
+   "role": "Staff+ Software Engineer, AI",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/aleph/5fe31833-c89e-405a-b9b3-53df20863295"
+  },
+  {
+   "appliedOn": "2026-08-28",
    "ats": "Ashby",
    "bucket": "in-window",
    "company": "Allara Health",
@@ -1376,6 +1390,20 @@
    "role": "Staff Software Engineer, Platform Infrastructure",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/astronomer/666377b7-a013-4163-bf4e-3f20d50a3a6e"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "ashby",
+   "band": [
+    250000,
+    350000
+   ],
+   "bucket": "in-window",
+   "company": "Auctor",
+   "location": "New York \u00b7 On-site 5 days",
+   "role": "Senior Software Engineer, Backend",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/auctor/c1386ffa-2d04-41ec-8410-33e61c546f1a"
   },
   {
    "appliedOn": "2026-08-28",
@@ -1501,6 +1529,20 @@
   },
   {
    "appliedOn": "2026-08-28",
+   "ats": "Rippling",
+   "band": [
+    205000,
+    265000
+   ],
+   "bucket": "in-window",
+   "company": "Button",
+   "location": "New York \u00b7 Remote",
+   "role": "Senior Staff Software Engineer, Full Stack",
+   "status": "applied",
+   "url": "https://ats.rippling.com/button/jobs/f80b2c80-5902-4a7f-9de0-6e213ad08982"
+  },
+  {
+   "appliedOn": "2026-08-28",
    "ats": "ashby",
    "band": [
     240000,
@@ -1512,6 +1554,20 @@
    "role": "Principal Security Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/candidhealth/a916ce1b-a86b-49d8-ab44-21beab4d502c"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "lever",
+   "band": [
+    181289,
+    285272
+   ],
+   "bucket": "in-window",
+   "company": "CaptivateIQ",
+   "location": "Hybrid",
+   "role": "Staff Software Engineer - AI Platform (Agentic SDK)",
+   "status": "applied",
+   "url": "https://jobs.lever.co/captivateiq/28da18cc-f325-4d62-a6d9-8d080960def5"
   },
   {
    "appliedOn": "2026-08-28",
@@ -1955,6 +2011,20 @@
   },
   {
    "appliedOn": "2026-08-28",
+   "ats": "Ashby",
+   "band": [
+    200000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Gecko Robotics",
+   "location": "New York \u00b7 On-site 5 days",
+   "role": "Software Engineer | Data Platform",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/gecko-robotics/9fcb98dc-cfb5-4ccb-8930-7e3c2b5ab368"
+  },
+  {
+   "appliedOn": "2026-08-28",
    "ats": "Greenhouse",
    "band": [
     192500,
@@ -1966,6 +2036,34 @@
    "role": "Principal Software Engineer, Tooling (Product)",
    "status": "applied",
    "url": "https://job-boards.greenhouse.io/embed/job_app?for=gemini&token=8076862"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "ashby",
+   "band": [
+    165000,
+    240000
+   ],
+   "bucket": "in-window",
+   "company": "Greenboard",
+   "location": "New York \u00b7 On-site 5 days",
+   "role": "Senior DevSecOps Engineer (first dedicated security hire)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/greenboard/f4bad55a-64e6-48e0-a3d7-f0fe7178a8c8"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "greenhouse",
+   "band": [
+    251000,
+    295000
+   ],
+   "bucket": "in-window",
+   "company": "Gusto",
+   "location": "New York",
+   "role": "Principal Software Engineer, Pay Group Engineering",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=gusto&token=7027020"
   },
   {
    "appliedOn": "2026-08-28",
@@ -2195,6 +2293,20 @@
    "appliedOn": "2026-08-28",
    "ats": "Ashby",
    "band": [
+    170000,
+    220000
+   ],
+   "bucket": "in-window",
+   "company": "Lumos",
+   "location": "On-site",
+   "role": "Software Engineer, Data Platform",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/lumos/74edcdf0-a366-4f21-92b5-d2f26f1b308f"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "Ashby",
+   "band": [
     200000,
     225000
    ],
@@ -2326,6 +2438,34 @@
    "role": "Member of Technical Staff - Platform Engineering",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/modal/84467a68-6876-4730-9d80-6c6f3d0c2d71/application"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "Ashby",
+   "band": [
+    150000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Modern Treasury",
+   "location": "New York \u00b7 On-site",
+   "role": "Software Engineer - Infrastructure",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/moderntreasury/bac5287c-66a1-4954-ab55-1c4c545a8ede"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "Ashby",
+   "band": [
+    150000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "ModernFi",
+   "location": "New York \u00b7 On-site",
+   "role": "Platform Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/modernfi/c89ebae8-8238-4de4-bf5e-ac5102bae4ad"
   },
   {
    "appliedOn": "2026-08-28",
@@ -2651,6 +2791,20 @@
   },
   {
    "appliedOn": "2026-08-28",
+   "ats": "Rippling",
+   "band": [
+    168600,
+    210700
+   ],
+   "bucket": "in-window",
+   "company": "Root Insurance",
+   "location": "Remote",
+   "role": "Staff Software Engineer, Build & Deploy",
+   "status": "applied",
+   "url": "https://ats.rippling.com/joinroot/jobs/913143f4-df5f-45e7-8ee8-652d907807b8"
+  },
+  {
+   "appliedOn": "2026-08-28",
    "ats": "ashby",
    "band": [
     150000,
@@ -2662,6 +2816,20 @@
    "role": "Site Reliability Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/runpod/1d14340c-c9bd-4754-80f4-5c83980cd413"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "greenhouse",
+   "band": [
+    250000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "Schonfeld",
+   "location": "New York",
+   "role": "Principal Software Engineer, Reference Data Technology",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=schonfeld&token=8010092"
   },
   {
    "appliedOn": "2026-08-28",
@@ -2875,6 +3043,20 @@
   },
   {
    "appliedOn": "2026-08-28",
+   "ats": "Rippling",
+   "band": [
+    190000,
+    210000
+   ],
+   "bucket": "in-window",
+   "company": "TheGuarantors",
+   "location": "New York \u00b7 Hybrid 3 days",
+   "role": "AI Solutions Architect",
+   "status": "applied",
+   "url": "https://ats.rippling.com/theguarantors-open-positions/jobs/0033b91a-171d-4fed-9ca9-67aabb1a5756"
+  },
+  {
+   "appliedOn": "2026-08-28",
    "ats": "ashby",
    "band": [
     150000,
@@ -2900,6 +3082,20 @@
    "role": "Staff Software Engineer (Applied AI)",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/traba/e8ceef29-38fd-4323-a37e-8113abaac281"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "ashby",
+   "band": [
+    200000,
+    275000
+   ],
+   "bucket": "in-window",
+   "company": "TRM Labs",
+   "location": "NYC \u00b7 Remote",
+   "role": "Staff Software Engineer, Agent Engineering - US Remote",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/trm-labs/eb560943-3adb-4839-bf64-4cbdeee9ae57"
   },
   {
    "appliedOn": "2026-08-28",
@@ -3072,15 +3268,15 @@
  ],
  "generatedFor": "2026-08-28",
  "stats": {
-  "clearing300k": 101,
-  "companies": 159,
-  "medianBandTop": 299000.0,
+  "clearing300k": 104,
+  "companies": 173,
+  "medianBandTop": 298700.0,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 222
+  "total": 236
  }
 }
