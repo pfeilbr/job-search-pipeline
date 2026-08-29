@@ -1287,6 +1287,20 @@
   },
   {
    "appliedOn": "2026-08-28",
+   "ats": "greenhouse",
+   "band": [
+    191000,
+    299000
+   ],
+   "bucket": "in-window",
+   "company": "Agility Robotics",
+   "location": "Hybrid",
+   "role": "Staff Software Engineer, Data Platform",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=agilityrobotics&token=6144405004"
+  },
+  {
+   "appliedOn": "2026-08-28",
    "ats": "lever",
    "bucket": "in-window",
    "company": "Aledade",
@@ -1348,6 +1362,20 @@
    "role": "Member of Technical Staff, Security",
    "status": "applied",
    "url": "https://jobs.lever.co/anchorage/74fb5f60-d964-416e-90a0-7f89f3b07676"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "greenhouse",
+   "band": [
+    215000,
+    265000
+   ],
+   "bucket": "in-window",
+   "company": "Arcesium",
+   "location": "New York",
+   "role": "Lead Infrastructure Engineer, Developer Experience",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=arcesiumllc&token=5209554007"
   },
   {
    "appliedOn": "2026-08-28",
@@ -1526,6 +1554,20 @@
    "role": "Principal AI Software Engineer, Product",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/brightwheel/918b98e2-bf78-4cab-be21-8ca7d37fc6e3"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "Ashby",
+   "band": [
+    183000,
+    237000
+   ],
+   "bucket": "in-window",
+   "company": "Bubble",
+   "location": "NYC \u00b7 On-site",
+   "role": "Senior Software Engineer, Backend (Platform team)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/bubble/242caaf7-dad8-4ffe-83f0-666972e5a031/application"
   },
   {
    "appliedOn": "2026-08-28",
@@ -2499,6 +2541,20 @@
    "appliedOn": "2026-08-28",
    "ats": "Ashby",
    "band": [
+    200000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Novig",
+   "location": "New York \u00b7 On-site 4 days",
+   "role": "Senior Security Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/novig/dcd03a49-2c7b-4e45-83f7-23313ddb7419/application"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "Ashby",
+   "band": [
     175000,
     300000
    ],
@@ -2525,6 +2581,20 @@
   },
   {
    "appliedOn": "2026-08-28",
+   "ats": "Ashby",
+   "band": [
+    240000,
+    290000
+   ],
+   "bucket": "in-window",
+   "company": "Onebrief",
+   "location": "On-site",
+   "role": "Principal Infrastructure Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/onebrief/28e9e96d-91fe-4da6-882c-283a59820b9e/application"
+  },
+  {
+   "appliedOn": "2026-08-28",
    "ats": "ashby",
    "band": [
     190000,
@@ -2536,6 +2606,20 @@
    "role": "Staff Software Engineer - Platform",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/opensea/8c242715-3ea6-47e9-8a9c-9972b57683a7"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "greenhouse",
+   "band": [
+    245916,
+    286902
+   ],
+   "bucket": "in-window",
+   "company": "Oscar Health",
+   "location": "New York \u00b7 Hybrid 3 days",
+   "role": "Staff Security Engineer, GRC",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=oscar&token=8131843"
   },
   {
    "appliedOn": "2026-08-28",
@@ -2863,6 +2947,20 @@
    "appliedOn": "2026-08-28",
    "ats": "greenhouse",
    "band": [
+    252000,
+    315000
+   ],
+   "bucket": "in-window",
+   "company": "Scale AI",
+   "location": "New York",
+   "role": "Staff Software Engineer, Data Platform",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=scaleai&token=4649903005"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "greenhouse",
+   "band": [
     250000,
     300000
    ],
@@ -2942,6 +3040,20 @@
    "role": "Deployed Infrastructure Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/sierra/d9c0aa93-e35d-4752-9cef-4c39dcad5365"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "greenhouse",
+   "band": [
+    240000,
+    270000
+   ],
+   "bucket": "in-window",
+   "company": "Sigma Computing",
+   "location": "New York \u00b7 On-site 4 days",
+   "role": "Staff Software Engineer, Backend",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=sigmacomputing&token=7767903003"
   },
   {
    "appliedOn": "2026-08-28",
@@ -3310,15 +3422,15 @@
  ],
  "generatedFor": "2026-08-28",
  "stats": {
-  "clearing300k": 105,
-  "companies": 176,
-  "medianBandTop": 298700,
+  "clearing300k": 106,
+  "companies": 184,
+  "medianBandTop": 297000,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 239
+  "total": 247
  }
 }
