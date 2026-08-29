@@ -1681,6 +1681,20 @@
    "appliedOn": "2026-08-28",
    "ats": "Ashby",
    "band": [
+    208000,
+    289000
+   ],
+   "bucket": "in-window",
+   "company": "Dave",
+   "location": "On-site",
+   "role": "Staff AI Acceleration Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/dave/68040c59-7a0c-4d33-bc07-ccdfa32b8eea"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "Ashby",
+   "band": [
     200000,
     400000
    ],
@@ -3059,14 +3073,14 @@
  "generatedFor": "2026-08-28",
  "stats": {
   "clearing300k": 101,
-  "companies": 158,
-  "medianBandTop": 299000,
+  "companies": 159,
+  "medianBandTop": 299000.0,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 221
+  "total": 222
  }
 }
