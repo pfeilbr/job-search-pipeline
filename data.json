@@ -4136,6 +4136,20 @@
    "appliedOn": "2026-08-29",
    "ats": "ashby",
    "band": [
+    190000,
+    210000
+   ],
+   "bucket": "in-window",
+   "company": "Jump",
+   "location": "Remote",
+   "role": "Senior Data Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/jump/fdd3464b-5508-4a92-b4fa-88af506f7cb4"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
     100000,
     250000
    ],
@@ -4201,6 +4215,20 @@
    "role": "Senior SRE/DevOps Engineer",
    "status": "applied",
    "url": "https://jobs.lever.co/metabase/1b702919-4d0b-4085-baec-8947f9b7e4ee"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    175000,
+    275000
+   ],
+   "bucket": "in-window",
+   "company": "Mirage",
+   "location": "New York \u00b7 On-site",
+   "role": "Software Engineer, Backend",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/mirage/8d5cc445-ff2b-41ca-8c42-feb690de4bf7"
   },
   {
    "appliedOn": "2026-08-29",
@@ -4369,6 +4397,20 @@
    "role": "Senior Backend Engineer, Prefect Cloud",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/prefect/5e9d904f-b4d4-46cd-ab77-a4b6d80dbce8/application"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    175000,
+    260000
+   ],
+   "bucket": "in-window",
+   "company": "Profound",
+   "location": "New York \u00b7 On-site 5 days",
+   "role": "Software Engineer, Backend",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/profound/043bb5b3-3f78-45d8-a115-fb10f4ed3b09"
   },
   {
    "appliedOn": "2026-08-29",
@@ -4646,11 +4688,11 @@
    ],
    [
     "$200-250k",
-    61
+    62
    ],
    [
     "$250-300k",
-    124
+    126
    ],
    [
     "$300-350k",
@@ -4668,7 +4710,7 @@
   "byAts": [
    [
     "ashby",
-    193
+    196
    ],
    [
     "greenhouse",
@@ -4760,8 +4802,8 @@
    ],
    [
     "2026-08-29",
-    77,
-    334
+    80,
+    337
    ]
   ],
   "latencies": [
@@ -4848,14 +4890,14 @@
  },
  "stats": {
   "clearing300k": 135,
-  "companies": 260,
-  "medianBandTop": 288500.0,
+  "companies": 263,
+  "medianBandTop": 286902,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 334
+  "total": 337
  }
 }
