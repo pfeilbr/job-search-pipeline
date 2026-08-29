@@ -92,7 +92,7 @@ function band(r){if(!r.band)return'not published';const[a,b]=r.band;
 // index.html against a STALE data.json, so the page rendered with the previous
 // day's payload and any newly-added field (e.g. `series`) came back undefined.
 // BUILD_STAMP is substituted at build time, so each publish gets a unique URL.
-fetch('./data.json?v=28872f92f781',{cache:'no-cache'}).then(r=>r.json()).then(d=>{D=d;init();});
+fetch('./data.json?v=c6d25667558a',{cache:'no-cache'}).then(r=>r.json()).then(d=>{D=d;init();});
 function init(){
   const s=D.stats,n={};D.applications.forEach(r=>n[r.bucket]=(n[r.bucket]||0)+1);
   document.getElementById('sub').textContent=`${s.total} applications across ${s.companies} companies · generated for ${D.generatedFor}`;
@@ -124,7 +124,7 @@ function init(){
 function hbar(el,rows,colorVar){
   const max=Math.max(...rows.map(r=>r[1]),1);
   document.querySelector(el).innerHTML='<div class="hbar">'+rows.map(r=>
-    `<span class="lab">${escapeHtml(r[0])}</span>`+
+    `<span class="lab">${esc(r[0])}</span>`+
     `<span class="track"><span class="fill" style="width:${(r[1]/max*100).toFixed(1)}%;background:var(${colorVar})"></span></span>`+
     `<span class="val">${r[1]}</span>`).join('')+'</div>';
 }

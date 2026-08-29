@@ -3712,6 +3712,20 @@
    "role": "Staff Engineer, Consumer Foundations",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/turquoise-health/0d6276ee-1970-4866-8b5c-bb6831f940e5"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "greenhouse",
+   "band": [
+    157500,
+    247500
+   ],
+   "bucket": "in-window",
+   "company": "ZoomInfo",
+   "location": "Remote",
+   "role": "Principal Cloud Architect",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=zoominfo&token=8626991002"
   }
  ],
  "generatedFor": "2026-08-29",
@@ -3723,7 +3737,7 @@
    ],
    [
     "$200-250k",
-    33
+    34
    ],
    [
     "$250-300k",
@@ -3749,7 +3763,7 @@
    ],
    [
     "greenhouse",
-    98
+    99
    ],
    [
     "lever",
@@ -3837,8 +3851,8 @@
    ],
    [
     "2026-08-29",
-    11,
-    268
+    12,
+    269
    ]
   ],
   "latencies": [
@@ -3925,14 +3939,14 @@
  },
  "stats": {
   "clearing300k": 118,
-  "companies": 195,
-  "medianBandTop": 297850.0,
+  "companies": 196,
+  "medianBandTop": 297000,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 268
+  "total": 269
  }
 }
