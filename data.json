@@ -4260,6 +4260,20 @@
   },
   {
    "appliedOn": "2026-08-29",
+   "ats": "workable",
+   "band": [
+    190576,
+    225324
+   ],
+   "bucket": "in-window",
+   "company": "Murmuration",
+   "location": "Remote",
+   "role": "Senior/Staff Software Engineer (P4/P5)",
+   "status": "applied",
+   "url": "https://apply.workable.com/murmuration/j/D029850682/"
+  },
+  {
+   "appliedOn": "2026-08-29",
    "ats": "ashby",
    "band": [
     140000,
@@ -4688,7 +4702,7 @@
    ],
    [
     "$200-250k",
-    62
+    63
    ],
    [
     "$250-300k",
@@ -4722,7 +4736,7 @@
    ],
    [
     "workable",
-    7
+    8
    ],
    [
     "rippling",
@@ -4802,8 +4816,8 @@
    ],
    [
     "2026-08-29",
-    80,
-    337
+    81,
+    338
    ]
   ],
   "latencies": [
@@ -4890,14 +4904,14 @@
  },
  "stats": {
   "clearing300k": 135,
-  "companies": 263,
-  "medianBandTop": 286902,
+  "companies": 264,
+  "medianBandTop": 286851.0,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 337
+  "total": 338
  }
 }
