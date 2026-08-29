@@ -4190,6 +4190,20 @@
   },
   {
    "appliedOn": "2026-08-29",
+   "ats": "workable",
+   "band": [
+    null,
+    220000
+   ],
+   "bucket": "in-window",
+   "company": "Renew Home",
+   "location": "On-site",
+   "role": "Staff Engineer, AI Developer Experience",
+   "status": "applied",
+   "url": "https://jobs.workable.com/view/iwsiNn1SZxyXJ3fM2vg3t4/staff-engineer%2C-ai-developer-experience-(remote%2C-us)-in-united-states-at-renew-home"
+  },
+  {
+   "appliedOn": "2026-08-29",
    "ats": "ashby",
    "band": [
     240000,
@@ -4338,7 +4352,7 @@
    ],
    [
     "$200-250k",
-    50
+    51
    ],
    [
     "$250-300k",
@@ -4372,7 +4386,7 @@
    ],
    [
     "workable",
-    6
+    7
    ],
    [
     "rippling",
@@ -4452,8 +4466,8 @@
    ],
    [
     "2026-08-29",
-    55,
-    312
+    56,
+    313
    ]
   ],
   "latencies": [
@@ -4540,14 +4554,14 @@
  },
  "stats": {
   "clearing300k": 130,
-  "companies": 238,
-  "medianBandTop": 290000.0,
+  "companies": 239,
+  "medianBandTop": 290000,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 312
+  "total": 313
  }
 }
