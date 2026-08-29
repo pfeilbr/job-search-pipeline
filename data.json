@@ -3558,19 +3558,117 @@
    "role": "Senior Staff Software Engineer, Interoperability",
    "status": "applied",
    "url": "https://job-boards.greenhouse.io/zocdoc/jobs/8072568"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "greenhouse",
+   "band": [
+    197000,
+    307000
+   ],
+   "bucket": "in-window",
+   "company": "Agility Robotics",
+   "location": "Remote",
+   "role": "Senior Software Engineer, AI/ML Platform",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=agilityrobotics&token=6148969004"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "greenhouse",
+   "band": [
+    185000,
+    265000
+   ],
+   "bucket": "in-window",
+   "company": "Charlie Health",
+   "location": "Remote",
+   "role": "Staff Platform Engineer (Core Platform)",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=charliehealth&token=5824765004"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "greenhouse",
+   "band": [
+    205000,
+    270000
+   ],
+   "bucket": "in-window",
+   "company": "Cresta",
+   "location": "Remote",
+   "role": "Senior Infrastructure Engineer / SRE",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=cresta&token=5137153008"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "greenhouse",
+   "band": [
+    190000,
+    261250
+   ],
+   "bucket": "in-window",
+   "company": "Databricks",
+   "location": "New York",
+   "role": "Staff Backend Software Engineer (AI Platform)",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=databricks&token=8468436002"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "greenhouse",
+   "band": [
+    193800,
+    285000
+   ],
+   "bucket": "in-window",
+   "company": "DoorDash",
+   "location": "Remote",
+   "role": "Staff Security Engineer, Proactive Security - AI",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=doordashusa&token=8154315"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "greenhouse",
+   "band": [
+    300000,
+    325000
+   ],
+   "bucket": "in-window",
+   "company": "Pendo",
+   "location": "New York \u00b7 Hybrid 3 days",
+   "role": "Staff Software Engineer (AI), Emerging Team",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=pendo&token=8533499002"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "greenhouse",
+   "band": [
+    230000,
+    368000
+   ],
+   "bucket": "in-window",
+   "company": "Toast",
+   "location": "Remote",
+   "role": "Principal Software Engineer (Team Suite - Payroll & Team Management)",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=toast&token=8159140"
   }
  ],
  "generatedFor": "2026-08-29",
  "stats": {
-  "clearing300k": 115,
-  "companies": 188,
-  "medianBandTop": 298800,
+  "clearing300k": 118,
+  "companies": 192,
+  "medianBandTop": 298750.0,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 257
+  "total": 264
  }
 }
