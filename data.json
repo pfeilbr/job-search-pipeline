@@ -4302,6 +4302,20 @@
   },
   {
    "appliedOn": "2026-08-29",
+   "ats": "workable",
+   "band": [
+    200000,
+    220000
+   ],
+   "bucket": "in-window",
+   "company": "Nitrogen",
+   "location": "Remote",
+   "role": "Staff AI Execution Engineer (Data & Services)",
+   "status": "applied",
+   "url": "https://apply.workable.com/nitrogenwealth/j/2B8C0A76AA/"
+  },
+  {
+   "appliedOn": "2026-08-29",
    "ats": "ashby",
    "band": [
     140000,
@@ -4702,7 +4716,7 @@
    ],
    [
     "$200-250k",
-    63
+    64
    ],
    [
     "$250-300k",
@@ -4736,7 +4750,7 @@
    ],
    [
     "workable",
-    8
+    9
    ],
    [
     "rippling",
@@ -4816,8 +4830,8 @@
    ],
    [
     "2026-08-29",
-    81,
-    338
+    82,
+    339
    ]
   ],
   "latencies": [
@@ -4904,14 +4918,14 @@
  },
  "stats": {
   "clearing300k": 135,
-  "companies": 264,
-  "medianBandTop": 286851.0,
+  "companies": 265,
+  "medianBandTop": 286800,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 338
+  "total": 339
  }
 }
