@@ -47,6 +47,13 @@
 <div class="grid" id="tiles"></div>
 <div class="bar" id="bar"></div>
 <div class="key" id="key"></div>
+<div class="charts">
+  <section class="card"><h3>Applications over time</h3><div id="c-time"></div></section>
+  <section class="card"><h3>Band tops</h3><div id="c-band"></div></section>
+  <section class="card"><h3>Most-applied companies</h3><div id="c-co"></div></section>
+  <section class="card"><h3>Applicant tracking systems</h3><div id="c-ats"></div></section>
+</div>
+
 <div class="controls">
   <input id="q" placeholder="Filter by company or role…">
   <select id="b"><option value="">All statuses</option></select>
@@ -89,11 +96,32 @@ function init(){
     So silence past ${8} days is <i>going quiet</i>, and past ${14} days is <i>presumed dead</i>.
     Salary figures are published base bands, not offers. Personal contact details, cover letters and
     per-application notes are deliberately excluded from this page.`;
+  renderCharts();
   document.getElementById('q').addEventListener('input',draw);
   sel.addEventListener('change',draw);
   document.querySelectorAll('th').forEach(th=>th.addEventListener('click',()=>{
     const k=th.dataset.k;sort.dir=sort.k===k?-sort.dir:1;sort.k=k;draw();}));
   draw();
+}
+function hbar(el,rows,colorVar){
+  const max=Math.max(...rows.map(r=>r[1]),1);
+  document.querySelector(el).innerHTML='<div class="hbar">'+rows.map(r=>
+    `<span class="lab">${escapeHtml(r[0])}</span>`+
+    `<span class="track"><span class="fill" style="width:${(r[1]/max*100).toFixed(1)}%;background:var(${colorVar})"></span></span>`+
+    `<span class="val">${r[1]}</span>`).join('')+'</div>';
+}
+function renderCharts(){
+  const s=D.series; if(!s) return;
+  // Applications over time -- daily bars, cumulative stated below.
+  const max=Math.max(...s.byDay.map(d=>d[1]),1);
+  document.querySelector('#c-time').innerHTML='<div class="spark">'+s.byDay.map(([day,n])=>
+    `<span class="col" title="${day}: ${n}"><span class="n">${n}</span>`+
+    `<span class="b" style="height:${(n/max*88).toFixed(1)}px"></span>`+
+    `<span class="d">${day.slice(5)}</span></span>`).join('')+'</div>'+
+    `<div class="cum">${s.byDay[s.byDay.length-1][2]} cumulative across ${s.byDay.length} active days</div>`;
+  hbar('#c-band',s.bandHistogram,'--active');
+  hbar('#c-co',s.topCompanies,'--window');
+  hbar('#c-ats',s.byAts,'--quiet');
 }
 const tile=(n,l,v)=>`<div class="stat"><div class="n"${v?` style="color:var(${v})"`:''}>${n}</div><div class="l">${l}</div></div>`;
 function draw(){
