@@ -43,7 +43,7 @@
   .card h3{margin:0 0 .9rem;font-size:.76rem;text-transform:uppercase;letter-spacing:.07em;color:var(--muted);font-weight:600}
   .hbar{display:grid;grid-template-columns:auto 1fr auto;gap:.5rem .7rem;align-items:center;font-size:.82rem}
   .hbar .lab{color:var(--muted);white-space:nowrap;text-align:right;font-variant-numeric:tabular-nums}
-  .hbar .track{background:var(--line);border-radius:99px;height:9px;overflow:hidden}
+  .hbar .track{background:var(--line);border-radius:99px;height:12px;overflow:hidden}
   .hbar .fill{height:100%;border-radius:99px}
   .hbar .val{font-variant-numeric:tabular-nums;font-size:.78rem;min-width:2.2em}
   .spark{display:flex;align-items:flex-end;gap:2px;height:120px}
@@ -92,7 +92,7 @@ function band(r){if(!r.band)return'not published';const[a,b]=r.band;
 // index.html against a STALE data.json, so the page rendered with the previous
 // day's payload and any newly-added field (e.g. `series`) came back undefined.
 // BUILD_STAMP is substituted at build time, so each publish gets a unique URL.
-fetch('./data.json?v=c6d25667558a',{cache:'no-cache'}).then(r=>r.json()).then(d=>{D=d;init();});
+fetch('./data.json?v=8700f0d474cd',{cache:'no-cache'}).then(r=>r.json()).then(d=>{D=d;init();});
 function init(){
   const s=D.stats,n={};D.applications.forEach(r=>n[r.bucket]=(n[r.bucket]||0)+1);
   document.getElementById('sub').textContent=`${s.total} applications across ${s.companies} companies · generated for ${D.generatedFor}`;

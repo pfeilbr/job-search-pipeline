@@ -3631,6 +3631,20 @@
   },
   {
    "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    260000,
+    360000
+   ],
+   "bucket": "in-window",
+   "company": "DeepL",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Senior Staff Software Engineer | API",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/deepl/904496a6-e696-487c-8678-fec0aee7fcc2"
+  },
+  {
+   "appliedOn": "2026-08-29",
    "ats": "greenhouse",
    "band": [
     193800,
@@ -3684,6 +3698,20 @@
    "role": "Staff Software Engineer (AI), Emerging Team",
    "status": "applied",
    "url": "https://job-boards.greenhouse.io/embed/job_app?for=pendo&token=8533499002"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    240000,
+    290000
+   ],
+   "bucket": "in-window",
+   "company": "Runway",
+   "location": "On-site",
+   "role": "Member of Technical Staff, Backend Engineer, API",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/runway-ml/8489a08a-f0cf-4418-968c-c7c803d538bc"
   },
   {
    "appliedOn": "2026-08-29",
@@ -3741,7 +3769,7 @@
    ],
    [
     "$250-300k",
-    103
+    104
    ],
    [
     "$300-350k",
@@ -3749,7 +3777,7 @@
    ],
    [
     "$350-400k",
-    21
+    22
    ],
    [
     "$400k+",
@@ -3759,7 +3787,7 @@
   "byAts": [
    [
     "ashby",
-    143
+    145
    ],
    [
     "greenhouse",
@@ -3851,8 +3879,8 @@
    ],
    [
     "2026-08-29",
-    12,
-    269
+    14,
+    271
    ]
   ],
   "latencies": [
@@ -3938,8 +3966,8 @@
   ]
  },
  "stats": {
-  "clearing300k": 118,
-  "companies": 196,
+  "clearing300k": 119,
+  "companies": 198,
   "medianBandTop": 297000,
   "rejectionLatency": {
    "max": 21,
@@ -3947,6 +3975,6 @@
    "n": 17,
    "p90": 8
   },
-  "total": 269
+  "total": 271
  }
 }
