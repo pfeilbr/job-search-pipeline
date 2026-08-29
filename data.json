@@ -3575,6 +3575,20 @@
   },
   {
    "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    135000,
+    240000
+   ],
+   "bucket": "in-window",
+   "company": "Alchemy",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Cloud Infrastructure Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/alchemy/42c849ce-8a9b-4015-92fb-b8dfad5c5d0d"
+  },
+  {
+   "appliedOn": "2026-08-29",
    "ats": "greenhouse",
    "band": [
     185000,
@@ -3633,6 +3647,34 @@
    "appliedOn": "2026-08-29",
    "ats": "greenhouse",
    "band": [
+    243000,
+    256500
+   ],
+   "bucket": "in-window",
+   "company": "Instacart",
+   "location": "Remote",
+   "role": "Staff Software Engineer, Orders Platform",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=instacart&token=8110286"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    100000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Kalshi",
+   "location": "New York \u00b7 On-site 5 days",
+   "role": "Infrastructure Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/kalshi/3d255a5d-7b0c-4a92-bae1-1ddb040f733e"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "greenhouse",
+   "band": [
     300000,
     325000
    ],
@@ -3656,6 +3698,20 @@
    "role": "Principal Software Engineer (Team Suite - Payroll & Team Management)",
    "status": "applied",
    "url": "https://job-boards.greenhouse.io/embed/job_app?for=toast&token=8159140"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    230000,
+    265000
+   ],
+   "bucket": "in-window",
+   "company": "Turquoise Health",
+   "location": "On-site",
+   "role": "Staff Engineer, Consumer Foundations",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/turquoise-health/0d6276ee-1970-4866-8b5c-bb6831f940e5"
   }
  ],
  "generatedFor": "2026-08-29",
@@ -3667,11 +3723,11 @@
    ],
    [
     "$200-250k",
-    32
+    33
    ],
    [
     "$250-300k",
-    100
+    103
    ],
    [
     "$300-350k",
@@ -3689,11 +3745,11 @@
   "byAts": [
    [
     "ashby",
-    140
+    143
    ],
    [
     "greenhouse",
-    97
+    98
    ],
    [
     "lever",
@@ -3781,8 +3837,8 @@
    ],
    [
     "2026-08-29",
-    7,
-    264
+    11,
+    268
    ]
   ],
   "latencies": [
@@ -3869,14 +3925,14 @@
  },
  "stats": {
   "clearing300k": 118,
-  "companies": 192,
-  "medianBandTop": 298750.0,
+  "companies": 195,
+  "medianBandTop": 297850.0,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 264
+  "total": 268
  }
 }

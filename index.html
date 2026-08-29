@@ -88,7 +88,11 @@ const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&
 const bandTop=r=>r.band?r.band[1]:null;
 function band(r){if(!r.band)return'not published';const[a,b]=r.band;
   if(a==null)return'up to '+usd(b);if(b==null)return'from '+usd(a);return usd(a)+' – '+usd(b);}
-fetch('./data.json').then(r=>r.json()).then(d=>{D=d;init();});
+// Cache-bust the data fetch. A republished dashboard reliably served a FRESH
+// index.html against a STALE data.json, so the page rendered with the previous
+// day's payload and any newly-added field (e.g. `series`) came back undefined.
+// BUILD_STAMP is substituted at build time, so each publish gets a unique URL.
+fetch('./data.json?v=28872f92f781',{cache:'no-cache'}).then(r=>r.json()).then(d=>{D=d;init();});
 function init(){
   const s=D.stats,n={};D.applications.forEach(r=>n[r.bucket]=(n[r.bucket]||0)+1);
   document.getElementById('sub').textContent=`${s.total} applications across ${s.companies} companies · generated for ${D.generatedFor}`;
