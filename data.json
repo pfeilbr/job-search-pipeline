@@ -3658,6 +3658,20 @@
   },
   {
    "appliedOn": "2026-08-29",
+   "ats": "greenhouse",
+   "band": [
+    200000,
+    260000
+   ],
+   "bucket": "in-window",
+   "company": "Cadence Solutions",
+   "location": "Remote",
+   "role": "Staff DevOps Engineer",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=Solutions&token=4679311006"
+  },
+  {
+   "appliedOn": "2026-08-29",
    "ats": "ashby",
    "band": [
     210000,
@@ -3795,6 +3809,20 @@
    "role": "Staff Security Engineer, Proactive Security - AI",
    "status": "applied",
    "url": "https://job-boards.greenhouse.io/embed/job_app?for=doordashusa&token=8154315"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "greenhouse",
+   "band": [
+    184000,
+    241500
+   ],
+   "bucket": "in-window",
+   "company": "FanDuel",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Staff AI Security Engineer",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=fanduel&token=7966551"
   },
   {
    "appliedOn": "2026-08-29",
@@ -4052,6 +4080,20 @@
    "appliedOn": "2026-08-29",
    "ats": "greenhouse",
    "band": [
+    200000,
+    275000
+   ],
+   "bucket": "in-window",
+   "company": "Via",
+   "location": "New York \u00b7 On-site",
+   "role": "Staff Engineer, AI Labs",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=via&token=8726312002"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "greenhouse",
+   "band": [
     157500,
     247500
    ],
@@ -4072,11 +4114,11 @@
    ],
    [
     "$200-250k",
-    44
+    45
    ],
    [
     "$250-300k",
-    111
+    113
    ],
    [
     "$300-350k",
@@ -4098,7 +4140,7 @@
    ],
    [
     "greenhouse",
-    99
+    102
    ],
    [
     "lever",
@@ -4186,8 +4228,8 @@
    ],
    [
     "2026-08-29",
-    36,
-    293
+    39,
+    296
    ]
   ],
   "latencies": [
@@ -4274,14 +4316,14 @@
  },
  "stats": {
   "clearing300k": 124,
-  "companies": 219,
-  "medianBandTop": 290000,
+  "companies": 222,
+  "medianBandTop": 290000.0,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 293
+  "total": 296
  }
 }
