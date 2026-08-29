@@ -92,7 +92,7 @@ function band(r){if(!r.band)return'not published';const[a,b]=r.band;
 // index.html against a STALE data.json, so the page rendered with the previous
 // day's payload and any newly-added field (e.g. `series`) came back undefined.
 // BUILD_STAMP is substituted at build time, so each publish gets a unique URL.
-fetch('./data.json?v=f030596e2861',{cache:'no-cache'}).then(r=>r.json()).then(d=>{D=d;init();});
+fetch('./data.json?v=dc222d42c64f',{cache:'no-cache'}).then(r=>r.json()).then(d=>{D=d;init();});
 function init(){
   const s=D.stats,n={};D.applications.forEach(r=>n[r.bucket]=(n[r.bucket]||0)+1);
   document.getElementById('sub').textContent=`${s.total} applications across ${s.companies} companies · generated for ${D.generatedFor}`;

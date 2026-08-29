@@ -3560,6 +3560,20 @@
   },
   {
    "appliedOn": "2026-08-29",
+   "ats": "workable",
+   "band": [
+    195000,
+    220000
+   ],
+   "bucket": "in-window",
+   "company": "A2Z Sync",
+   "location": "Denver \u00b7 On-site",
+   "role": "Principal Engineer",
+   "status": "applied",
+   "url": "https://jobs.workable.com/view/dL1MYSrnSgqg5Y3kLVhRck/remote-principal-engineer-in-denver-at-a2z-sync"
+  },
+  {
+   "appliedOn": "2026-08-29",
    "ats": "greenhouse",
    "band": [
     197000,
@@ -3585,6 +3599,20 @@
    "role": "Cloud Infrastructure Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/alchemy/42c849ce-8a9b-4015-92fb-b8dfad5c5d0d"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    260000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "Amigo",
+   "location": "New York \u00b7 On-site 5 days",
+   "role": "Staff Software Engineer - Backend/Infra",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/amigo/f35bc133-a682-4a20-8734-40fa546cc027"
   },
   {
    "appliedOn": "2026-08-29",
@@ -3632,6 +3660,48 @@
    "appliedOn": "2026-08-29",
    "ats": "ashby",
    "band": [
+    240000,
+    295000
+   ],
+   "bucket": "in-window",
+   "company": "Assort Health",
+   "location": "New York \u00b7 On-site 4 days",
+   "role": "Staff Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/assorthealth/fd49c83d-c0e8-4247-87f8-633d636e1472"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "workable",
+   "band": [
+    230000,
+    290000
+   ],
+   "bucket": "in-window",
+   "company": "Atria Health",
+   "location": "New York \u00b7 Hybrid 3 days",
+   "role": "Staff Software Engineer, Agentic AI",
+   "status": "applied",
+   "url": "https://apply.workable.com/j/D4996B1513"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "workable",
+   "band": [
+    200000,
+    280000
+   ],
+   "bucket": "in-window",
+   "company": "Atria Health and Research Institute",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Staff Software Engineer, Foundations",
+   "status": "applied",
+   "url": "https://jobs.workable.com/view/77p2Rv8WigouHmpiMdoMx5/hybrid-staff-software-engineer%2C-foundations-in-new-york-at-atria-health-and-research-institute"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
     210000,
     265000
    ],
@@ -3641,6 +3711,20 @@
    "role": "Senior/Staff Software Engineer, Data Platform",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/axion/682bf0bf-bff0-4836-8295-51c8d6289a17"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    100000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "Basis AI",
+   "location": "New York \u00b7 On-site 5 days",
+   "role": "Member of Technical Staff - SRE",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/basis-ai/86e7575d-f4c7-446f-aa47-357be21d061a"
   },
   {
    "appliedOn": "2026-08-29",
@@ -3728,6 +3812,20 @@
   },
   {
    "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    200000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Credit Genie",
+   "location": "New York \u00b7 On-site 5 days",
+   "role": "Staff Software Engineer, Financial Platform",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/creditgenie/ecff45ce-f688-4109-b545-8b3e1c47bb38"
+  },
+  {
+   "appliedOn": "2026-08-29",
    "ats": "greenhouse",
    "band": [
     205000,
@@ -3812,6 +3910,20 @@
   },
   {
    "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    120000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "Evertune",
+   "location": "New York \u00b7 Hybrid 3 days",
+   "role": "Senior Software Engineer, Back End & Infrastructure",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/evertune/c46e5b7b-e947-4df2-8944-ae3d4c40f32c"
+  },
+  {
+   "appliedOn": "2026-08-29",
    "ats": "greenhouse",
    "band": [
     184000,
@@ -3826,6 +3938,20 @@
   },
   {
    "appliedOn": "2026-08-29",
+   "ats": "lever",
+   "band": [
+    220000,
+    240000
+   ],
+   "bucket": "in-window",
+   "company": "Finch",
+   "location": "New York \u00b7 Hybrid 3 days",
+   "role": "Staff Software Engineer, Backend",
+   "status": "applied",
+   "url": "https://jobs.lever.co/finch/62ac428a-80ef-4469-9e06-0b87ed4f206f"
+  },
+  {
+   "appliedOn": "2026-08-29",
    "ats": "ashby",
    "band": [
     121000,
@@ -3837,6 +3963,20 @@
    "role": "Senior Product Security Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/hyperscience/a4a1e8fe-4ae5-4d3e-a2d1-ef4496fad5e4/application"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    180000,
+    240000
+   ],
+   "bucket": "in-window",
+   "company": "Inductive Bio",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Member of Technical Staff - Software Engineering",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/inductive-bio/02725e91-1a91-4da7-a4bb-b8e1867c9996"
   },
   {
    "appliedOn": "2026-08-29",
@@ -3879,6 +4019,34 @@
    "role": "Infrastructure Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/kalshi/3d255a5d-7b0c-4a92-bae1-1ddb040f733e"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    130000,
+    215000
+   ],
+   "bucket": "in-window",
+   "company": "Kustomer",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Software Engineer, Infrastructure",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/kustomer/ff55a88e-f510-4d9a-93fe-add4a50879ac/application"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    251000,
+    275000
+   ],
+   "bucket": "in-window",
+   "company": "Laurel",
+   "location": "Hybrid",
+   "role": "Staff Backend Engineer (Digital Foot Print)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/laurel/01c650a8-48b5-4baa-bd54-041b1f92f664"
   },
   {
    "appliedOn": "2026-08-29",
@@ -3935,6 +4103,20 @@
    "role": "Staff Software Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/nectar-social/05e8d2c1-a351-477c-ab7f-2910f6e4aa86"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "workable",
+   "band": [
+    233750,
+    343750
+   ],
+   "bucket": "in-window",
+   "company": "Panorama Education",
+   "location": "On-site",
+   "role": "Staff Engineer, Agentic Developer Platform",
+   "status": "applied",
+   "url": "https://apply.workable.com/panorama-education/j/9395146A8B/apply/"
   },
   {
    "appliedOn": "2026-08-29",
@@ -3996,6 +4178,20 @@
    "appliedOn": "2026-08-29",
    "ats": "ashby",
    "band": [
+    205000,
+    230000
+   ],
+   "bucket": "in-window",
+   "company": "Redpanda Data",
+   "location": "On-site",
+   "role": "Senior Software Engineer, Cloud",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/redpanda-data/0a0e7743-5b5a-4391-ad08-6e31808b5972/application"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
     240000,
     290000
    ],
@@ -4024,6 +4220,20 @@
    "appliedOn": "2026-08-29",
    "ats": "ashby",
    "band": [
+    284000,
+    325000
+   ],
+   "bucket": "in-window",
+   "company": "Siro",
+   "location": "New York \u00b7 Hybrid 3 days",
+   "role": "Staff Software Engineer, Backend",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/siro/0bbc84a2-5bde-472d-9349-b2c31139c7ac"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
     188000,
     248000
    ],
@@ -4047,6 +4257,20 @@
    "role": "Principal Software Engineer (Team Suite - Payroll & Team Management)",
    "status": "applied",
    "url": "https://job-boards.greenhouse.io/embed/job_app?for=toast&token=8159140"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    150000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "Traversal",
+   "location": "New York \u00b7 On-site 5 days",
+   "role": "Staff Full-Stack Product Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/traversal/1818acdb-6c77-42b2-bc4b-dfd678c8c3a2"
   },
   {
    "appliedOn": "2026-08-29",
@@ -4114,15 +4338,15 @@
    ],
    [
     "$200-250k",
-    45
+    50
    ],
    [
     "$250-300k",
-    113
+    118
    ],
    [
     "$300-350k",
-    91
+    97
    ],
    [
     "$350-400k",
@@ -4136,7 +4360,7 @@
   "byAts": [
    [
     "ashby",
-    165
+    176
    ],
    [
     "greenhouse",
@@ -4144,7 +4368,11 @@
    ],
    [
     "lever",
-    18
+    19
+   ],
+   [
+    "workable",
+    6
    ],
    [
     "rippling",
@@ -4152,10 +4380,6 @@
    ],
    [
     "clinch-(toast-careers-site)",
-    2
-   ],
-   [
-    "workable",
     2
    ],
    [
@@ -4228,8 +4452,8 @@
    ],
    [
     "2026-08-29",
-    39,
-    296
+    55,
+    312
    ]
   ],
   "latencies": [
@@ -4315,8 +4539,8 @@
   ]
  },
  "stats": {
-  "clearing300k": 124,
-  "companies": 222,
+  "clearing300k": 130,
+  "companies": 238,
   "medianBandTop": 290000.0,
   "rejectionLatency": {
    "max": 21,
@@ -4324,6 +4548,6 @@
    "n": 17,
    "p90": 8
   },
-  "total": 296
+  "total": 312
  }
 }
