@@ -226,7 +226,7 @@
     195000,
     290000
    ],
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "CrowdStrike",
    "location": "Remote",
    "role": "Principal Data Engineer, LLM/AI Platforms",
@@ -1625,6 +1625,34 @@
    "appliedOn": "2026-08-28",
    "ats": "greenhouse",
    "band": [
+    223000,
+    308000
+   ],
+   "bucket": "in-window",
+   "company": "Chime",
+   "location": "New York \u00b7 On-site 4 days",
+   "role": "Staff Full-Stack Software Engineer, AI & App Experience (Jade)",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=chime&token=8618419002"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "greenhouse",
+   "band": [
+    200000,
+    350000
+   ],
+   "bucket": "in-window",
+   "company": "Clear Street",
+   "location": "NYC \u00b7 Remote",
+   "role": "Senior / Staff AI Platform Engineer",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=clearstreet&token=8053475"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "greenhouse",
+   "band": [
     195000,
     270000
    ],
@@ -2008,6 +2036,34 @@
    "role": "Staff Software Engineer, App Platform",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/fieldguide/872e8499-56da-4a4c-88b9-a5e987aac456"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "Greenhouse",
+   "band": [
+    153000,
+    376000
+   ],
+   "bucket": "in-window",
+   "company": "Figma",
+   "location": "New York \u00b7 Remote",
+   "role": "Security Engineer (applying to the Platform Security track)",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/figma/jobs/5829751004"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "Greenhouse",
+   "band": [
+    153000,
+    376000
+   ],
+   "bucket": "in-window",
+   "company": "Figma",
+   "location": "New York \u00b7 Remote",
+   "role": "Software Engineer - Distributed Systems (Infrastructure)",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/figma/jobs/5552549004"
   },
   {
    "appliedOn": "2026-08-28",
@@ -2401,6 +2457,20 @@
    "appliedOn": "2026-08-28",
    "ats": "greenhouse",
    "band": [
+    220000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "Maven Clinic",
+   "location": "New York \u00b7 Hybrid 3 days",
+   "role": "Staff Software Engineer, AI/ML",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=mavenclinic&token=7674282002"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "greenhouse",
+   "band": [
     230000,
     270000
    ],
@@ -2763,6 +2833,20 @@
   },
   {
    "appliedOn": "2026-08-28",
+   "ats": "Greenhouse",
+   "band": [
+    250000,
+    310000
+   ],
+   "bucket": "in-window",
+   "company": "Postman",
+   "location": "New York \u00b7 On-site 5 days",
+   "role": "Staff Software Engineer - Fern",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/postman/jobs/7767126003"
+  },
+  {
+   "appliedOn": "2026-08-28",
    "ats": "ashby",
    "band": [
     220000,
@@ -2830,6 +2914,34 @@
    "role": "Software Engineer, Production Engineering",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/ramp/be496b52-cfbf-494e-b862-61fb4a188b24"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "Greenhouse",
+   "band": [
+    217000,
+    303900
+   ],
+   "bucket": "in-window",
+   "company": "Reddit",
+   "location": "On-site",
+   "role": "Staff Product Security Engineer",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/7868511"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "Greenhouse",
+   "band": [
+    217400,
+    304100
+   ],
+   "bucket": "in-window",
+   "company": "Reddit",
+   "location": "On-site",
+   "role": "Staff Software Engineer, Identity & Access Management (SPACE)",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8031491"
   },
   {
    "appliedOn": "2026-08-28",
@@ -2942,6 +3054,20 @@
    "role": "Site Reliability Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/runpod/1d14340c-c9bd-4754-80f4-5c83980cd413"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "greenhouse",
+   "band": [
+    237600,
+    297000
+   ],
+   "bucket": "in-window",
+   "company": "Scale AI",
+   "location": "New York",
+   "role": "Security Engineer, Infrastructure",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=scaleai&token=4646888005"
   },
   {
    "appliedOn": "2026-08-28",
@@ -3418,19 +3544,33 @@
    "role": "Infrastructure engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/writer/fec4202f-23ed-4378-a10a-62e55a762ff0"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "Greenhouse",
+   "band": [
+    201200,
+    304400
+   ],
+   "bucket": "in-window",
+   "company": "Zocdoc",
+   "location": "New York \u00b7 Remote",
+   "role": "Senior Staff Software Engineer, Interoperability",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/zocdoc/jobs/8072568"
   }
  ],
- "generatedFor": "2026-08-28",
+ "generatedFor": "2026-08-29",
  "stats": {
-  "clearing300k": 106,
-  "companies": 184,
-  "medianBandTop": 297000,
+  "clearing300k": 115,
+  "companies": 188,
+  "medianBandTop": 298800,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 247
+  "total": 257
  }
 }
