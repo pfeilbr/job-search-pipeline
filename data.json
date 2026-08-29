@@ -1198,8 +1198,7 @@
    "company": "AlphaSense",
    "location": "Remote",
    "role": "Principal Software Engineer",
-   "status": "applied",
-   "url": "https://job-boards.greenhouse.io/alphasense/jobs/8394619002"
+   "status": "applied"
   },
   {
    "appliedOn": "2026-08-27",
@@ -3589,6 +3588,90 @@
   },
   {
    "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    220000,
+    331000
+   ],
+   "bucket": "in-window",
+   "company": "Amplitude",
+   "location": "New York \u00b7 Remote",
+   "role": "Staff Software Engineer (Infrastructure)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/amplitude/76b5c221-b12d-42ac-b710-2f8ea3b7bf6f/application"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    275000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "Arlo",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Principal Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/arlo/3977c465-3d4d-41af-8760-1af438d3b24b"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "lever",
+   "band": [
+    180000,
+    240000
+   ],
+   "bucket": "in-window",
+   "company": "Artera",
+   "location": "Remote",
+   "role": "Senior/Staff Software Engineer - Python",
+   "status": "applied",
+   "url": "https://jobs.lever.co/artera/cc5cbc4d-c7e7-4573-993f-526cb33f5a81"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    280000,
+    380000
+   ],
+   "bucket": "in-window",
+   "company": "Blacksmith",
+   "location": "New York \u00b7 On-site",
+   "role": "Staff Systems Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/blacksmith/12926992-4e84-4730-88af-f67d5fbc0b2b/application"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    210000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Camber",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Staff Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/camber/8cf8ac95-3cc1-40ff-980a-4aca29d0d123"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    180000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Category Labs",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Senior DevOps / Infrastructure Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/category-labs/55b5fe17-e7b4-4679-b446-70e434a47405"
+  },
+  {
+   "appliedOn": "2026-08-29",
    "ats": "greenhouse",
    "band": [
     185000,
@@ -3600,6 +3683,20 @@
    "role": "Staff Platform Engineer (Core Platform)",
    "status": "applied",
    "url": "https://job-boards.greenhouse.io/embed/job_app?for=charliehealth&token=5824765004"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    146000,
+    215000
+   ],
+   "bucket": "in-window",
+   "company": "ClassDojo",
+   "location": "Remote",
+   "role": "Founding Senior Software Engineer, Developer Experience & AI Platform",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/classdojo/f17c9f24-3877-40c7-bf28-1d16c3267d2d"
   },
   {
    "appliedOn": "2026-08-29",
@@ -3645,6 +3742,34 @@
   },
   {
    "appliedOn": "2026-08-29",
+   "ats": "lever",
+   "band": [
+    185000,
+    260000
+   ],
+   "bucket": "in-window",
+   "company": "DELFI Diagnostics",
+   "location": "Remote",
+   "role": "Senior Staff, Software Engineer (Bioinformatics Pipeline)",
+   "status": "applied",
+   "url": "https://jobs.lever.co/delfidiagnostics/918b317d-debc-4fff-bf8c-e9b30db5108f"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    185000,
+    305000
+   ],
+   "bucket": "in-window",
+   "company": "Ditto",
+   "location": "San Francisco \u00b7 Remote",
+   "role": "Senior Software Engineer, Cloud (Distributed Systems)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/ditto/68370ffa-2884-4d5b-a424-f2110307dd08/application"
+  },
+  {
+   "appliedOn": "2026-08-29",
    "ats": "greenhouse",
    "band": [
     193800,
@@ -3656,6 +3781,20 @@
    "role": "Staff Security Engineer, Proactive Security - AI",
    "status": "applied",
    "url": "https://job-boards.greenhouse.io/embed/job_app?for=doordashusa&token=8154315"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    200000,
+    225000
+   ],
+   "bucket": "in-window",
+   "company": "Inspiren",
+   "location": "New York \u00b7 Remote",
+   "role": "Staff Software Engineer - Backend (Intelligence & Integrations)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/inspiren/01c40e68-8c2e-42e0-aaa4-b92d87b68c78"
   },
   {
    "appliedOn": "2026-08-29",
@@ -3687,6 +3826,62 @@
   },
   {
    "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    220000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Luminai",
+   "location": "New York",
+   "role": "Staff Software Engineer, Platform",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/luminai/da8b435c-3759-40a9-972b-eb402b185ebc"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    181000,
+    226000
+   ],
+   "bucket": "in-window",
+   "company": "Mural",
+   "location": "Remote",
+   "role": "Staff Backend Engineer, AI Systems",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/mural/7a781912-3c72-4843-8810-8a9d0c550569"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    140000,
+    220000
+   ],
+   "bucket": "in-window",
+   "company": "Nango",
+   "location": "Remote",
+   "role": "Staff Platform Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/nango/8df55632-71d5-481e-8424-1f7491f9e96d"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    240000,
+    400000
+   ],
+   "bucket": "in-window",
+   "company": "Nectar Social",
+   "location": "New York \u00b7 On-site",
+   "role": "Staff Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/nectar-social/05e8d2c1-a351-477c-ab7f-2910f6e4aa86"
+  },
+  {
+   "appliedOn": "2026-08-29",
    "ats": "greenhouse",
    "band": [
     300000,
@@ -3703,6 +3898,48 @@
    "appliedOn": "2026-08-29",
    "ats": "ashby",
    "band": [
+    200000,
+    275000
+   ],
+   "bucket": "in-window",
+   "company": "PermitFlow",
+   "location": "New York \u00b7 Hybrid 3 days",
+   "role": "Staff Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/permitflow/596578fa-47b5-4951-99b0-388683518b31"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    200000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Phantom",
+   "location": "Remote",
+   "role": "Staff Software Engineer (SRE)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/phantom/d480082b-a446-40fb-be24-f364c07ef8a9"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    172000,
+    214000
+   ],
+   "bucket": "in-window",
+   "company": "Prefect",
+   "location": "Remote",
+   "role": "Senior Backend Engineer, Prefect Cloud",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/prefect/5e9d904f-b4d4-46cd-ab77-a4b6d80dbce8/application"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
     240000,
     290000
    ],
@@ -3712,6 +3949,34 @@
    "role": "Member of Technical Staff, Backend Engineer, API",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/runway-ml/8489a08a-f0cf-4418-968c-c7c803d538bc"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    190000,
+    230000
+   ],
+   "bucket": "in-window",
+   "company": "Runway",
+   "location": "Remote",
+   "role": "Senior/Staff Platform Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/runway/950876a1-709e-49b7-93f3-6e130efdf6fa"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    188000,
+    248000
+   ],
+   "bucket": "in-window",
+   "company": "Stepful",
+   "location": "New York \u00b7 Hybrid 3 days",
+   "role": "Staff Software Engineer 1",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/stepful/1bcc5add-aebd-46c8-8bcc-3bcf60dda70e"
   },
   {
    "appliedOn": "2026-08-29",
@@ -3743,6 +4008,20 @@
   },
   {
    "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    200000,
+    240000
+   ],
+   "bucket": "in-window",
+   "company": "Verse Medical",
+   "location": "New York \u00b7 On-site 4 days",
+   "role": "Staff Data Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/versemedical/42d63248-e102-42aa-9fad-835f967223de/application"
+  },
+  {
+   "appliedOn": "2026-08-29",
    "ats": "greenhouse",
    "band": [
     157500,
@@ -3765,29 +4044,29 @@
    ],
    [
     "$200-250k",
-    34
+    43
    ],
    [
     "$250-300k",
-    104
+    110
    ],
    [
     "$300-350k",
-    88
+    91
    ],
    [
     "$350-400k",
-    22
+    23
    ],
    [
     "$400k+",
-    9
+    10
    ]
   ],
   "byAts": [
    [
     "ashby",
-    145
+    163
    ],
    [
     "greenhouse",
@@ -3795,7 +4074,7 @@
    ],
    [
     "lever",
-    16
+    18
    ],
    [
     "rippling",
@@ -3879,8 +4158,8 @@
    ],
    [
     "2026-08-29",
-    14,
-    271
+    34,
+    291
    ]
   ],
   "latencies": [
@@ -3966,15 +4245,15 @@
   ]
  },
  "stats": {
-  "clearing300k": 119,
-  "companies": 198,
-  "medianBandTop": 297000,
+  "clearing300k": 124,
+  "companies": 217,
+  "medianBandTop": 290000,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 271
+  "total": 291
  }
 }
