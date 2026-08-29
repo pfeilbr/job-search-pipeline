@@ -3632,6 +3632,20 @@
    "appliedOn": "2026-08-29",
    "ats": "ashby",
    "band": [
+    210000,
+    265000
+   ],
+   "bucket": "in-window",
+   "company": "Axion",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Senior/Staff Software Engineer, Data Platform",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/axion/682bf0bf-bff0-4836-8295-51c8d6289a17"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
     280000,
     380000
    ],
@@ -3781,6 +3795,20 @@
    "role": "Staff Security Engineer, Proactive Security - AI",
    "status": "applied",
    "url": "https://job-boards.greenhouse.io/embed/job_app?for=doordashusa&token=8154315"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "ashby",
+   "band": [
+    121000,
+    204500
+   ],
+   "bucket": "in-window",
+   "company": "Hyperscience",
+   "location": "Remote",
+   "role": "Senior Product Security Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/hyperscience/a4a1e8fe-4ae5-4d3e-a2d1-ef4496fad5e4/application"
   },
   {
    "appliedOn": "2026-08-29",
@@ -4044,11 +4072,11 @@
    ],
    [
     "$200-250k",
-    43
+    44
    ],
    [
     "$250-300k",
-    110
+    111
    ],
    [
     "$300-350k",
@@ -4066,7 +4094,7 @@
   "byAts": [
    [
     "ashby",
-    163
+    165
    ],
    [
     "greenhouse",
@@ -4158,8 +4186,8 @@
    ],
    [
     "2026-08-29",
-    34,
-    291
+    36,
+    293
    ]
   ],
   "latencies": [
@@ -4246,7 +4274,7 @@
  },
  "stats": {
   "clearing300k": 124,
-  "companies": 217,
+  "companies": 219,
   "medianBandTop": 290000,
   "rejectionLatency": {
    "max": 21,
@@ -4254,6 +4282,6 @@
    "n": 17,
    "p90": 8
   },
-  "total": 291
+  "total": 293
  }
 }
