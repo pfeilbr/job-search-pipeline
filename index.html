@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Job Search Pipeline</title>
+<style>
+  :root{--bg:#fbfaf9;--fg:#1c1a17;--muted:#6b6660;--line:#e2ded9;--card:#fff;
+    --active:#1a7f4b;--window:#2563a8;--quiet:#a86a1a;--dead:#8a2f2f;--rej:#6b6660;}
+  @media(prefers-color-scheme:dark){:root:not([data-theme=light]){--bg:#151412;--fg:#eae7e2;
+    --muted:#9a948c;--line:#2e2b28;--card:#1d1b19;--active:#5fcf92;--window:#7fb2e8;
+    --quiet:#e0a758;--dead:#e8807f;--rej:#9a948c;}}
+  *{box-sizing:border-box}
+  body{background:var(--bg);color:var(--fg);margin:0;padding:2.5rem 1.25rem 5rem;
+    font:15px/1.55 ui-sans-serif,-apple-system,"Segoe UI",Roboto,sans-serif}
+  .wrap{max-width:1200px;margin:0 auto}
+  h1{font-size:1.9rem;margin:0 0 .2rem;letter-spacing:-.02em}
+  .sub{color:var(--muted);margin:0 0 2rem}
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:.75rem;margin-bottom:2rem}
+  .stat{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:.85rem 1rem}
+  .stat .n{font-size:1.7rem;font-weight:650;letter-spacing:-.02em}
+  .stat .l{color:var(--muted);font-size:.75rem;text-transform:uppercase;letter-spacing:.06em}
+  .bar{display:flex;height:10px;border-radius:99px;overflow:hidden;margin-bottom:.5rem;border:1px solid var(--line)}
+  .bar i{display:block}
+  .key{display:flex;flex-wrap:wrap;gap:1rem;color:var(--muted);font-size:.82rem;margin-bottom:2rem}
+  .key b{font-weight:600;color:var(--fg)}
+  .dot{display:inline-block;width:9px;height:9px;border-radius:99px;margin-right:.35rem}
+  .controls{display:flex;gap:.6rem;flex-wrap:wrap;margin-bottom:1rem}
+  input,select{background:var(--card);color:var(--fg);border:1px solid var(--line);
+    border-radius:8px;padding:.45rem .7rem;font:inherit;font-size:.9rem}
+  input{flex:1;min-width:200px}
+  .scroll{overflow-x:auto;border:1px solid var(--line);border-radius:10px;background:var(--card)}
+  table{border-collapse:collapse;width:100%;font-size:.88rem}
+  th{text-align:left;font-weight:600;color:var(--muted);font-size:.72rem;text-transform:uppercase;
+    letter-spacing:.06em;padding:.6rem .8rem;border-bottom:1px solid var(--line);white-space:nowrap;cursor:pointer;user-select:none}
+  th:hover{color:var(--fg)}
+  td{padding:.5rem .8rem;border-bottom:1px solid var(--line);vertical-align:top}
+  tr:last-child td{border-bottom:none}
+  .co{font-weight:600;white-space:nowrap}
+  .num{font-variant-numeric:tabular-nums;white-space:nowrap}
+  .pill{font-size:.72rem;padding:.12rem .5rem;border-radius:99px;white-space:nowrap;border:1px solid}
+  .note{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--quiet);
+    border-radius:8px;padding:1rem 1.15rem;margin:2rem 0;color:var(--muted);font-size:.88rem}
+  a{color:inherit}
+</style></head><body><div class="wrap">
+<h1>Job search pipeline</h1>
+<p class="sub" id="sub">Loading…</p>
+<div class="grid" id="tiles"></div>
+<div class="bar" id="bar"></div>
+<div class="key" id="key"></div>
+<div class="controls">
+  <input id="q" placeholder="Filter by company or role…">
+  <select id="b"><option value="">All statuses</option></select>
+</div>
+<div class="scroll"><table>
+<thead><tr>
+  <th data-k="company">Company</th><th data-k="role">Role</th>
+  <th data-k="bandTop">Band (base)</th><th data-k="appliedOn">Applied</th>
+  <th data-k="location">Location</th><th data-k="bucket">Status</th>
+</tr></thead><tbody id="rows"></tbody></table></div>
+<div class="note" id="method"></div>
+</div><script>
+const C={active:'--active','in-window':'--window','going-quiet':'--quiet','presumed-dead':'--dead',rejected:'--rej'};
+const L={active:'In conversation','in-window':'In window','going-quiet':'Going quiet','presumed-dead':'Presumed dead',rejected:'Rejected'};
+const usd=n=>n==null?'—':'$'+n.toLocaleString('en-US');
+let D=null,sort={k:'appliedOn',dir:-1};
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const bandTop=r=>r.band?r.band[1]:null;
+function band(r){if(!r.band)return'not published';const[a,b]=r.band;
+  if(a==null)return'up to '+usd(b);if(b==null)return'from '+usd(a);return usd(a)+' – '+usd(b);}
+fetch('./data.json').then(r=>r.json()).then(d=>{D=d;init();});
+function init(){
+  const s=D.stats,n={};D.applications.forEach(r=>n[r.bucket]=(n[r.bucket]||0)+1);
+  document.getElementById('sub').textContent=`${s.total} applications across ${s.companies} companies · generated for ${D.generatedFor}`;
+  document.getElementById('tiles').innerHTML=
+    tile(n.active||0,'In conversation','--active')+tile(n['in-window']||0,'In window','--window')+
+    tile(n['going-quiet']||0,'Going quiet','--quiet')+tile(n['presumed-dead']||0,'Presumed dead','--dead')+
+    tile(n.rejected||0,'Rejected','--rej')+tile(usd(s.medianBandTop),'Median band top','')+
+    tile(s.clearing300k,'Clearing $300k','');
+  document.getElementById('bar').innerHTML=Object.keys(C).map(k=>
+    `<i style="width:${((n[k]||0)/s.total*100).toFixed(2)}%;background:var(${C[k]})"></i>`).join('');
+  document.getElementById('key').innerHTML=Object.keys(C).map(k=>
+    `<span><span class="dot" style="background:var(${C[k]})"></span>${L[k]} <b>${n[k]||0}</b></span>`).join('');
+  const sel=document.getElementById('b');
+  Object.keys(C).forEach(k=>{if(n[k])sel.insertAdjacentHTML('beforeend',`<option value="${k}">${L[k]} (${n[k]})</option>`)});
+  const r=s.rejectionLatency;
+  document.getElementById('method').innerHTML=`<b>How &ldquo;presumed dead&rdquo; is decided.</b> Not a guess &mdash;
+    it comes from this pipeline's own measured behaviour. Across ${r.n} explicit rejections the median arrived
+    <b>${r.median} day${r.median===1?'':'s'}</b> after submission, 90% within <b>${r.p90} days</b>, the slowest ever at ${r.max}.
+    So silence past ${8} days is <i>going quiet</i>, and past ${14} days is <i>presumed dead</i>.
+    Salary figures are published base bands, not offers. Personal contact details, cover letters and
+    per-application notes are deliberately excluded from this page.`;
+  document.getElementById('q').addEventListener('input',draw);
+  sel.addEventListener('change',draw);
+  document.querySelectorAll('th').forEach(th=>th.addEventListener('click',()=>{
+    const k=th.dataset.k;sort.dir=sort.k===k?-sort.dir:1;sort.k=k;draw();}));
+  draw();
+}
+const tile=(n,l,v)=>`<div class="stat"><div class="n"${v?` style="color:var(${v})"`:''}>${n}</div><div class="l">${l}</div></div>`;
+function draw(){
+  const q=document.getElementById('q').value.toLowerCase(),b=document.getElementById('b').value;
+  let rows=D.applications.filter(r=>(!b||r.bucket===b)&&
+    (!q||(r.company+' '+r.role).toLowerCase().includes(q)));
+  rows.sort((x,y)=>{const k=sort.k;let a=k==='bandTop'?bandTop(x):x[k],c=k==='bandTop'?bandTop(y):y[k];
+    a=a??(k==='bandTop'?-1:'');c=c??(k==='bandTop'?-1:'');return(a>c?1:a<c?-1:0)*sort.dir;});
+  document.getElementById('rows').innerHTML=rows.map(r=>`<tr>
+    <td class="co">${r.url?`<a href="${esc(r.url)}" target="_blank" rel="noopener noreferrer">${esc(r.company)}</a>`:esc(r.company)}</td>
+    <td>${esc(r.role)}</td><td class="num">${band(r)}</td>
+    <td class="num">${esc(r.appliedOn)}</td><td>${esc(r.location||'—')}</td>
+    <td><span class="pill" style="color:var(${C[r.bucket]});border-color:var(${C[r.bucket]})">${L[r.bucket]}</span></td>
+  </tr>`).join('')||`<tr><td colspan="6" style="color:var(--muted)">No matches.</td></tr>`;
+}
+</script></body></html>
