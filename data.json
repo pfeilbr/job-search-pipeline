@@ -1873,6 +1873,20 @@
    "appliedOn": "2026-08-28",
    "ats": "Ashby",
    "band": [
+    180000,
+    210000
+   ],
+   "bucket": "in-window",
+   "company": "Eight Sleep",
+   "location": "On-site",
+   "role": "Senior Backend Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/eightsleep/d48659e7-608b-4c0e-9e5f-4131b5df50ca"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "Ashby",
+   "band": [
     240000,
     300000
    ],
@@ -2513,6 +2527,20 @@
    "appliedOn": "2026-08-28",
    "ats": "ashby",
    "band": [
+    190000,
+    345000
+   ],
+   "bucket": "in-window",
+   "company": "OpenSea",
+   "location": "Remote",
+   "role": "Staff Software Engineer - Platform",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/opensea/8c242715-3ea6-47e9-8a9c-9972b57683a7"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "ashby",
+   "band": [
     150000,
     300000
    ],
@@ -2648,6 +2676,20 @@
    "role": "Principal Software Engineer - Big Data & Java",
    "status": "applied",
    "url": "https://jobs.lever.co/pointclickcare/27ea212e-092c-4567-bb56-fc17a71fcc4c"
+  },
+  {
+   "appliedOn": "2026-08-28",
+   "ats": "ashby",
+   "band": [
+    220000,
+    280000
+   ],
+   "bucket": "in-window",
+   "company": "Qualitate",
+   "location": "New York \u00b7 Hybrid 3 days",
+   "role": "Staff Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/qualitate/e147d797-86ee-4454-8d1d-6e77ca3b4189"
   },
   {
    "appliedOn": "2026-08-28",
@@ -3268,15 +3310,15 @@
  ],
  "generatedFor": "2026-08-28",
  "stats": {
-  "clearing300k": 104,
-  "companies": 173,
-  "medianBandTop": 298700.0,
+  "clearing300k": 105,
+  "companies": 176,
+  "medianBandTop": 298700,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 236
+  "total": 239
  }
 }
