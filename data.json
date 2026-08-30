@@ -5046,6 +5046,20 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    170000,
+    230000
+   ],
+   "bucket": "in-window",
+   "company": "Corvus Robotics",
+   "location": "Hybrid",
+   "role": "Senior Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/corvus-robotics/8a74fe87-4945-4116-b7e7-755b7b7035f2"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     150000,
     400000
    ],
@@ -5732,6 +5746,20 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    150000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Spur",
+   "location": "New York \u00b7 On-site",
+   "role": "Founding Applied AI Product Engineer (posted via the Pear VC portfolio board)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/pear-vc/b2a63365-4c19-4fd1-b277-7210e4ea8ea1/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     160000,
     240000
    ],
@@ -5962,11 +5990,11 @@
    ],
    [
     "$200-250k",
-    96
+    97
    ],
    [
     "$250-300k",
-    161
+    162
    ],
    [
     "$300-350k",
@@ -5984,7 +6012,7 @@
   "byAts": [
    [
     "ashby",
-    255
+    257
    ],
    [
     "greenhouse",
@@ -6085,8 +6113,8 @@
    ],
    [
     "2026-08-30",
-    86,
-    428
+    88,
+    430
    ]
   ],
   "latencies": [
@@ -6173,7 +6201,7 @@
  },
  "stats": {
   "clearing300k": 157,
-  "companies": 347,
+  "companies": 349,
   "medianBandTop": 275000.0,
   "rejectionLatency": {
    "max": 21,
@@ -6181,6 +6209,6 @@
    "n": 17,
    "p90": 8
   },
-  "total": 428
+  "total": 430
  }
 }
