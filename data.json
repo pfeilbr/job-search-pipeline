@@ -4750,6 +4750,20 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    160000,
+    200000
+   ],
+   "bucket": "in-window",
+   "company": "A Place for Mom",
+   "location": "Remote",
+   "role": "Staff Software Engineer - Full Stack",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/a-place-for-mom/b5ca9847-905d-4d13-897f-5e7f201ad22f"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "smartrecruiters",
    "band": [
     141500,
@@ -5900,6 +5914,20 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    null,
+    200000
+   ],
+   "bucket": "in-window",
+   "company": "Vector",
+   "location": "Remote",
+   "role": "Senior Software Engineer, Backend",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/vector/f04f0b14-a5a4-4234-9864-fc9ea5ba69c2/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     195000,
     245000
    ],
@@ -5934,7 +5962,7 @@
    ],
    [
     "$200-250k",
-    94
+    96
    ],
    [
     "$250-300k",
@@ -5956,7 +5984,7 @@
   "byAts": [
    [
     "ashby",
-    253
+    255
    ],
    [
     "greenhouse",
@@ -6057,8 +6085,8 @@
    ],
    [
     "2026-08-30",
-    84,
-    426
+    86,
+    428
    ]
   ],
   "latencies": [
@@ -6145,14 +6173,14 @@
  },
  "stats": {
   "clearing300k": 157,
-  "companies": 345,
-  "medianBandTop": 275275.0,
+  "companies": 347,
+  "medianBandTop": 275000.0,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 426
+  "total": 428
  }
 }
