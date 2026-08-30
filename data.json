@@ -3868,6 +3868,20 @@
   },
   {
    "appliedOn": "2026-08-29",
+   "ats": "greenhouse",
+   "band": [
+    325000,
+    500000
+   ],
+   "bucket": "in-window",
+   "company": "CLEAR",
+   "location": "New York \u00b7 On-site 5 days",
+   "role": "Staff Software Engineer",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=clear&token=8009883"
+  },
+  {
+   "appliedOn": "2026-08-29",
    "ats": "ashby",
    "band": [
     180000,
@@ -4512,6 +4526,34 @@
   },
   {
    "appliedOn": "2026-08-29",
+   "ats": "greenhouse",
+   "band": [
+    220000,
+    260000
+   ],
+   "bucket": "in-window",
+   "company": "Ripple",
+   "location": "New York",
+   "role": "Senior Staff DevOps Engineer",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=ripple&token=8002028"
+  },
+  {
+   "appliedOn": "2026-08-29",
+   "ats": "greenhouse",
+   "band": [
+    224000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "Ripple",
+   "location": "New York",
+   "role": "Senior Staff Security Engineer, Ripple Treasury",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=ripple&token=7997246"
+  },
+  {
+   "appliedOn": "2026-08-29",
    "ats": "ashby",
    "band": [
     240000,
@@ -4720,11 +4762,11 @@
    ],
    [
     "$250-300k",
-    126
+    127
    ],
    [
     "$300-350k",
-    99
+    100
    ],
    [
     "$350-400k",
@@ -4732,7 +4774,7 @@
    ],
    [
     "$400k+",
-    10
+    11
    ]
   ],
   "byAts": [
@@ -4742,7 +4784,7 @@
    ],
    [
     "greenhouse",
-    103
+    106
    ],
    [
     "lever",
@@ -4830,8 +4872,8 @@
    ],
    [
     "2026-08-29",
-    82,
-    339
+    85,
+    342
    ]
   ],
   "latencies": [
@@ -4917,15 +4959,15 @@
   ]
  },
  "stats": {
-  "clearing300k": 135,
-  "companies": 265,
-  "medianBandTop": 286800,
+  "clearing300k": 137,
+  "companies": 267,
+  "medianBandTop": 286851.0,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 339
+  "total": 342
  }
 }
