@@ -4837,6 +4837,20 @@
    "ats": "ashby",
    "band": [
     165000,
+    240000
+   ],
+   "bucket": "in-window",
+   "company": "Angi",
+   "location": "Remote",
+   "role": "Principal Analytics Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/angi/b4a666ff-56c9-4c94-b3b7-38aff7271c91"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    165000,
     250000
    ],
    "bucket": "in-window",
@@ -4859,6 +4873,20 @@
    "role": "Member of Technical Staff, Platform Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/arca/9310f793-c4e3-4ac6-905a-1bd411cd8096"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "rippling",
+   "band": [
+    131250,
+    235136
+   ],
+   "bucket": "in-window",
+   "company": "Arcadia (Energy)",
+   "location": "Remote",
+   "role": "Application Security Engineer",
+   "status": "applied",
+   "url": "https://ats.rippling.com/arcadiacareers/jobs/28de074d-a1ac-403b-a823-936bd26f7558"
   },
   {
    "appliedOn": "2026-08-30",
@@ -5850,7 +5878,7 @@
    ],
    [
     "$200-250k",
-    90
+    92
    ],
    [
     "$250-300k",
@@ -5872,7 +5900,7 @@
   "byAts": [
    [
     "ashby",
-    248
+    249
    ],
    [
     "greenhouse",
@@ -5888,7 +5916,7 @@
    ],
    [
     "rippling",
-    5
+    6
    ],
    [
     "smartrecruiters",
@@ -5973,8 +6001,8 @@
    ],
    [
     "2026-08-30",
-    78,
-    420
+    80,
+    422
    ]
   ],
   "latencies": [
@@ -6061,14 +6089,14 @@
  },
  "stats": {
   "clearing300k": 157,
-  "companies": 340,
-  "medianBandTop": 280000.0,
+  "companies": 341,
+  "medianBandTop": 277775.0,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 420
+  "total": 422
  }
 }
