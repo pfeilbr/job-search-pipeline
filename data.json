@@ -4834,6 +4834,20 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "greenhouse",
+   "band": [
+    200000,
+    230000
+   ],
+   "bucket": "in-window",
+   "company": "Canopy Works",
+   "location": "New York",
+   "role": "Staff Software Engineer - NYC Tri-State Area",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=canopyworks&token=4254537009"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
     200000,
@@ -5268,6 +5282,20 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    132000,
+    230000
+   ],
+   "bucket": "in-window",
+   "company": "Tensec",
+   "location": "New York \u00b7 Hybrid 3 days",
+   "role": "Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/tensec/6dcd87a5-e3c8-436f-839f-9ffebcf83371/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "greenhouse",
    "band": [
     207000,
@@ -5346,7 +5374,7 @@
    ],
    [
     "$200-250k",
-    77
+    79
    ],
    [
     "$250-300k",
@@ -5368,11 +5396,11 @@
   "byAts": [
    [
     "ashby",
-    226
+    227
    ],
    [
     "greenhouse",
-    114
+    115
    ],
    [
     "lever",
@@ -5465,8 +5493,8 @@
    ],
    [
     "2026-08-30",
-    42,
-    384
+    44,
+    386
    ]
   ],
   "latencies": [
@@ -5553,14 +5581,14 @@
  },
  "stats": {
   "clearing300k": 149,
-  "companies": 305,
-  "medianBandTop": 285000.0,
+  "companies": 307,
+  "medianBandTop": 284500.0,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 384
+  "total": 386
  }
 }
