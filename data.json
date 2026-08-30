@@ -4792,6 +4792,20 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "lever",
+   "band": [
+    148000,
+    203500
+   ],
+   "bucket": "in-window",
+   "company": "ActiveCampaign",
+   "location": "Remote",
+   "role": "Senior AI Engineer (AI Transformation Hub)",
+   "status": "applied",
+   "url": "https://jobs.lever.co/activecampaign/4f81223a-50ee-495d-a3b7-942659ca5d4a"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "greenhouse",
    "band": [
     159000,
@@ -4920,6 +4934,20 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    180000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Artemis",
+   "location": "New York \u00b7 On-site",
+   "role": "Senior Software Engineer, Infrastructure",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/artemis/6e9e4105-6595-47c1-b4d9-acc8488f85f2/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     150000,
     275000
    ],
@@ -5005,6 +5033,34 @@
    "ats": "ashby",
    "band": [
     190000,
+    260000
+   ],
+   "bucket": "in-window",
+   "company": "Centralize",
+   "location": "New York \u00b7 Remote",
+   "role": "Software Engineer (Infrastructure)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/centralize/79ee0fab-fbd7-4268-8244-a4a228262d99/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "lever",
+   "band": [
+    205000,
+    230000
+   ],
+   "bucket": "in-window",
+   "company": "Cents",
+   "location": "New York \u00b7 Remote",
+   "role": "Principal Engineer",
+   "status": "applied",
+   "url": "https://jobs.lever.co/cents/0efab4e9-cf0f-462c-aeee-7fc13fecab9d"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    190000,
     250000
    ],
    "bucket": "in-window",
@@ -5013,6 +5069,20 @@
    "role": "Senior Software Engineer - Full Stack",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/cinder/24e71fe0-69b8-4b7e-8eb9-0befbac9541d"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "lever",
+   "band": [
+    127000,
+    212000
+   ],
+   "bucket": "in-window",
+   "company": "Coalfire",
+   "location": "Remote",
+   "role": "Principal Google Cloud Security Consultant",
+   "status": "applied",
+   "url": "https://jobs.lever.co/coalfire/b70070a4-3f1d-46d2-8be9-2e598575ff62"
   },
   {
    "appliedOn": "2026-08-30",
@@ -5041,6 +5111,20 @@
    "role": "Software Engineer, Infrastructure",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/cognition/13fdacf7-b4dc-4b9a-ac43-addc87de79ec/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    160000,
+    230000
+   ],
+   "bucket": "in-window",
+   "company": "Commure",
+   "location": "San Francisco \u00b7 Remote",
+   "role": "Senior Fullstack Engineer, Commure Pro",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/commure/20b0d313-6c31-4e7d-a32f-65e1e338d537/application"
   },
   {
    "appliedOn": "2026-08-30",
@@ -5086,6 +5170,34 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "lever",
+   "band": [
+    120000,
+    200000
+   ],
+   "bucket": "in-window",
+   "company": "Distru",
+   "location": "Remote",
+   "role": "AI Product Engineer",
+   "status": "applied",
+   "url": "https://jobs.lever.co/distru/b7bb8662-3ede-4b41-bc98-b8ca5678f8d3"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    200000,
+    275000
+   ],
+   "bucket": "in-window",
+   "company": "Doctronic",
+   "location": "New York \u00b7 On-site",
+   "role": "Senior Data Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/doctronic/27a0e05a-c336-4daf-92bf-0e7961c4f2ae/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
     150000,
@@ -5111,6 +5223,20 @@
    "role": "Principal Software Development Engineer, Digital Assets & Web3",
    "status": "applied",
    "url": "https://job-boards.greenhouse.io/embed/job_app?for=drivewealth&token=7781508003"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "lever",
+   "band": [
+    180000,
+    200000
+   ],
+   "bucket": "in-window",
+   "company": "Duetti",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Lead Engineer",
+   "status": "applied",
+   "url": "https://jobs.lever.co/duetti/800fb3e6-9040-4d69-985b-03edd8b574f6"
   },
   {
    "appliedOn": "2026-08-30",
@@ -5228,6 +5354,20 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    125000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Fin",
+   "location": "New York \u00b7 Remote",
+   "role": "Senior Backend Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/fin/46d733e1-d8e8-4b28-b5f0-f8cde1dcbcc1/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     170000,
     300000
    ],
@@ -5293,6 +5433,20 @@
    "role": "Data Platform Architect",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/gravie/9a04c983-67d0-40e4-b3ea-c76d35a6078c"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    265000,
+    265000
+   ],
+   "bucket": "in-window",
+   "company": "Headstart",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Staff, Applied AI Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/headstart/a0f891b6-b05c-4724-90a3-601f5040df87/application"
   },
   {
    "appliedOn": "2026-08-30",
@@ -5506,6 +5660,20 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    200000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Leap",
+   "location": "New York \u00b7 Remote",
+   "role": "Founding Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/leap/70e11698-f1dc-456a-8b87-5152d3edc0e6/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "greenhouse",
    "band": [
     300000,
@@ -5564,6 +5732,20 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    190000,
+    235000
+   ],
+   "bucket": "in-window",
+   "company": "Material Security",
+   "location": "Remote",
+   "role": "Senior Software Engineer, Cloud Office Security",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/materialsecurity/c6b9b964-5926-437d-a7b6-c81d858e5d87/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     185000,
     310000
    ],
@@ -5615,6 +5797,34 @@
    "role": "Staff Software Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/neon-health/2ba6ce11-e634-4fef-9684-c8c6e4c87fd4"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    200000,
+    270000
+   ],
+   "bucket": "in-window",
+   "company": "NewtonX",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Senior Staff Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/newtonx/463365ed-d5cc-48ae-97a1-ac4d1ac65dfe/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    180000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Niva",
+   "location": "New York \u00b7 On-site",
+   "role": "AI Applied Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/niva/be18b51e-bd61-4209-9d9f-fbaa82efe3a7/application"
   },
   {
    "appliedOn": "2026-08-30",
@@ -5758,6 +5968,34 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "lever",
+   "band": [
+    135000,
+    200000
+   ],
+   "bucket": "in-window",
+   "company": "Palantir Technologies",
+   "location": "New York \u00b7 Hybrid",
+   "role": "DevOps Engineer (Compute Tools)",
+   "status": "applied",
+   "url": "https://jobs.lever.co/palantir/c3f40e41-6258-4233-a7f9-091bf67df30b"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "lever",
+   "band": [
+    135000,
+    200000
+   ],
+   "bucket": "in-window",
+   "company": "Palantir Technologies",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Senior Identity Security Engineer",
+   "status": "applied",
+   "url": "https://jobs.lever.co/palantir/144f32bc-21e5-42bd-9710-7165a22d51e1"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
     170000,
@@ -5783,6 +6021,20 @@
    "role": "Senior Dev Ops Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/realitydefender/7f6993f1-264c-415c-88a6-b7116ef7b63a/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    180000,
+    220000
+   ],
+   "bucket": "in-window",
+   "company": "Rearc",
+   "location": "Remote",
+   "role": "Lead Data Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/rearc/ba0a8e95-c9a5-4963-aae6-02b447261353/application"
   },
   {
    "appliedOn": "2026-08-30",
@@ -5830,6 +6082,20 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    175000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Sapien",
+   "location": "NYC \u00b7 On-site",
+   "role": "Full-Stack Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/sapien/501061fc-feb2-4201-ac60-a67bfe6dfaf9/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     210000,
     230000
    ],
@@ -5853,6 +6119,34 @@
    "role": "Staff Software Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/shepherd/123bc115-b814-43b2-8fca-8fe1585e60db"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "lever",
+   "band": [
+    150000,
+    200000
+   ],
+   "bucket": "in-window",
+   "company": "SnapLogic",
+   "location": "Remote",
+   "role": "Forward Deployed Engineer",
+   "status": "applied",
+   "url": "https://jobs.lever.co/snaplogic/04d14156-3078-49cc-8868-2c297f8ed5c5"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    210000,
+    260000
+   ],
+   "bucket": "in-window",
+   "company": "Spara",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Staff AI Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/spara/62ad31de-e815-4a02-93ae-28caa596ceaa/application"
   },
   {
    "appliedOn": "2026-08-30",
@@ -6110,6 +6404,34 @@
    "appliedOn": "2026-08-30",
    "ats": "lever",
    "band": [
+    180000,
+    215000
+   ],
+   "bucket": "in-window",
+   "company": "Very Good Security (VGS)",
+   "location": "Remote",
+   "role": "Staff Product Engineer",
+   "status": "applied",
+   "url": "https://jobs.lever.co/verygoodsecurity/ecdf920d-9ff2-49ce-9dbd-28aad6f36433"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    196000,
+    265000
+   ],
+   "bucket": "in-window",
+   "company": "Vibe",
+   "location": "New York \u00b7 Hybrid 3 days",
+   "role": "Senior Backend Engineer, Integrations",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/vibe/3055fa82-54c2-4bcd-bea4-bcd05533a20b/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "lever",
+   "band": [
     210000,
     258000
    ],
@@ -6152,6 +6474,20 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    170000,
+    220000
+   ],
+   "bucket": "in-window",
+   "company": "Yendo",
+   "location": "Remote",
+   "role": "Senior Backend Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/yendo/25480cd6-cf73-4898-826c-3aae4cfa2288/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     225000,
     300000
    ],
@@ -6186,11 +6522,11 @@
    ],
    [
     "$200-250k",
-    106
+    119
    ],
    [
     "$250-300k",
-    166
+    177
    ],
    [
     "$300-350k",
@@ -6208,7 +6544,7 @@
   "byAts": [
    [
     "ashby",
-    265
+    280
    ],
    [
     "greenhouse",
@@ -6216,7 +6552,7 @@
    ],
    [
     "lever",
-    35
+    44
    ],
    [
     "workable",
@@ -6309,8 +6645,8 @@
    ],
    [
     "2026-08-30",
-    102,
-    444
+    126,
+    468
    ]
   ],
   "latencies": [
@@ -6397,14 +6733,14 @@
  },
  "stats": {
   "clearing300k": 158,
-  "companies": 361,
-  "medianBandTop": 275000.0,
+  "companies": 384,
+  "medianBandTop": 273600.0,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 444
+  "total": 468
  }
 }
