@@ -4962,6 +4962,20 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    160000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "Codes Health",
+   "location": "New York \u00b7 On-site",
+   "role": "Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/codes-health/c7e866ec-6abe-4fcb-a472-47b1b4a7ee18"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     260000,
     300000
    ],
@@ -5055,6 +5069,20 @@
    "role": "Security Engineer (Remote)",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/etched/56400dde-55ea-43c8-862c-cb0b14eb063c"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "smartrecruiters",
+   "band": [
+    139844,
+    252267
+   ],
+   "bucket": "in-window",
+   "company": "Experian",
+   "location": "Remote",
+   "role": "Distinguished Platform Solutions Architect",
+   "status": "applied",
+   "url": "https://jobs.smartrecruiters.com/Experian/744000141720754-distinguished-platform-solutions-architect-remote"
   },
   {
    "appliedOn": "2026-08-30",
@@ -5562,6 +5590,20 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    160000,
+    240000
+   ],
+   "bucket": "in-window",
+   "company": "Stable",
+   "location": "New York \u00b7 Remote",
+   "role": "Product Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/stable/17ed97f1-7418-4bd0-9a83-2eaccb0212c7/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "greenhouse",
    "band": [
     189000,
@@ -5629,6 +5671,20 @@
    "role": "Staff Engineer",
    "status": "applied",
    "url": "https://job-boards.greenhouse.io/embed/job_app?for=thefarmersdog&token=8588756002"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    100000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Thera",
+   "location": "New York \u00b7 On-site",
+   "role": "Staff Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/thera/3b88d11b-84f4-492c-a3fe-03e94ff042b9/application"
   },
   {
    "appliedOn": "2026-08-30",
@@ -5738,15 +5794,15 @@
    ],
    [
     "$200-250k",
-    87
+    88
    ],
    [
     "$250-300k",
-    156
+    158
    ],
    [
     "$300-350k",
-    111
+    112
    ],
    [
     "$350-400k",
@@ -5760,7 +5816,7 @@
   "byAts": [
    [
     "ashby",
-    242
+    245
    ],
    [
     "greenhouse",
@@ -5783,6 +5839,10 @@
     2
    ],
    [
+    "smartrecruiters",
+    2
+   ],
+   [
     "eightfold",
     1
    ],
@@ -5796,10 +5856,6 @@
    ],
    [
     "icims",
-    1
-   ],
-   [
-    "smartrecruiters",
     1
    ]
   ],
@@ -5861,8 +5917,8 @@
    ],
    [
     "2026-08-30",
-    70,
-    412
+    74,
+    416
    ]
   ],
   "latencies": [
@@ -5948,8 +6004,8 @@
   ]
  },
  "stats": {
-  "clearing300k": 155,
-  "companies": 333,
+  "clearing300k": 156,
+  "companies": 337,
   "medianBandTop": 280000.0,
   "rejectionLatency": {
    "max": 21,
@@ -5957,6 +6013,6 @@
    "n": 17,
    "p90": 8
   },
-  "total": 412
+  "total": 416
  }
 }
