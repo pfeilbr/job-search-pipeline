@@ -4990,6 +4990,20 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    220000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "Conveo.ai",
+   "location": "New York \u00b7 Hybrid 3 days",
+   "role": "Senior Product Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/conveo/b06873ea-e085-4786-9c55-f78a28ab05c1"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     150000,
     400000
    ],
@@ -5436,6 +5450,20 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    185000,
+    275000
+   ],
+   "bucket": "in-window",
+   "company": "Northslope",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Full Stack Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/northslope-technologies/de39253f-7733-43ac-b92a-43aa52814786/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "greenhouse",
    "band": [
     223000,
@@ -5798,11 +5826,11 @@
    ],
    [
     "$250-300k",
-    158
+    159
    ],
    [
     "$300-350k",
-    112
+    113
    ],
    [
     "$350-400k",
@@ -5816,7 +5844,7 @@
   "byAts": [
    [
     "ashby",
-    245
+    247
    ],
    [
     "greenhouse",
@@ -5917,8 +5945,8 @@
    ],
    [
     "2026-08-30",
-    74,
-    416
+    76,
+    418
    ]
   ],
   "latencies": [
@@ -6004,8 +6032,8 @@
   ]
  },
  "stats": {
-  "clearing300k": 156,
-  "companies": 337,
+  "clearing300k": 157,
+  "companies": 339,
   "medianBandTop": 280000.0,
   "rejectionLatency": {
    "max": 21,
@@ -6013,6 +6041,6 @@
    "n": 17,
    "p90": 8
   },
-  "total": 416
+  "total": 418
  }
 }
