@@ -4752,6 +4752,48 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    164638,
+    259000
+   ],
+   "bucket": "in-window",
+   "company": "Achira",
+   "location": "New York \u00b7 Hybrid",
+   "role": "SWE - Distributed",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/achira/ae3f3253-d9f0-4581-ab27-513f570df5ad"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "greenhouse",
+   "band": [
+    159000,
+    249000
+   ],
+   "bucket": "in-window",
+   "company": "Addepar",
+   "location": "Remote",
+   "role": "Staff AI Security Engineer, Security Solutions",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=addepar1&token=8696485002"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "lever",
+   "band": [
+    165000,
+    220000
+   ],
+   "bucket": "in-window",
+   "company": "Addition Wealth",
+   "location": "New York \u00b7 Remote",
+   "role": "Staff Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.lever.co/additionwealth/b4f11bf6-6415-4974-b3b0-aab176c65a78"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     165000,
     250000
    ],
@@ -4794,6 +4836,20 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    190000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Cinder",
+   "location": "New York",
+   "role": "Senior Software Engineer - Full Stack",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/cinder/24e71fe0-69b8-4b7e-8eb9-0befbac9541d"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     150000,
     400000
    ],
@@ -4808,6 +4864,34 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    187000,
+    253000
+   ],
+   "bucket": "in-window",
+   "company": "Eigen Labs",
+   "location": "Seattle \u00b7 Remote",
+   "role": "Senior Agentic AI Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/eigen-labs/c02fa001-23c9-4d68-8c0a-e27a742d76a4"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "greenhouse",
+   "band": [
+    180000,
+    295000
+   ],
+   "bucket": "in-window",
+   "company": "Enigma",
+   "location": "New York",
+   "role": "Senior Software Engineer, Match Team",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=enigmaio&token=7963836"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     170000,
     300000
    ],
@@ -4817,6 +4901,90 @@
    "role": "Software Engineer, Platform & Infrastructure",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/forus/d6866955-460f-4328-86a6-1e66e628fb37"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    250000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "The General Intelligence Company of New York",
+   "location": "New York \u00b7 On-site",
+   "role": "Applied AI Engineer - Agent",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/generalintelligencecompany/4bc5d479-3bba-432d-887f-423847aa650a"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    160000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "Hebbia",
+   "location": "New York \u00b7 On-site",
+   "role": "Software Engineer, Infrastructure",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/hebbia-ai/6e802704-ce96-4110-9db3-6e02dc28d615"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    160000,
+    350000
+   ],
+   "bucket": "in-window",
+   "company": "Hebbia",
+   "location": "NYC \u00b7 On-site",
+   "role": "Software Engineer, Site Reliability",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/hebbia-ai/07730121-e344-4b07-a23e-47dcfd6b3678"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    175000,
+    200000
+   ],
+   "bucket": "in-window",
+   "company": "Ironclad",
+   "location": "NYC \u00b7 Remote",
+   "role": "Sr. Enterprise Architect",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/ironcladhq/9d44c8b0-8c81-4ad2-8ae6-8f7e916cfe8b"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    220000,
+    235000
+   ],
+   "bucket": "in-window",
+   "company": "Ironclad",
+   "location": "New York \u00b7 Hybrid 2-3 days",
+   "role": "Staff Site Reliability Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/ironcladhq/a460a920-d839-4bcb-9a05-3ea1f07b4742"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    150000,
+    275000
+   ],
+   "bucket": "in-window",
+   "company": "Joyful Health",
+   "location": "New York \u00b7 Hybrid 3 days",
+   "role": "Founding Infra Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/joyfulhealth/74d22f6d-12f7-42c0-9db0-ea011c314f08"
   },
   {
    "appliedOn": "2026-08-30",
@@ -4845,6 +5013,20 @@
    "role": "Software Engineer - Platform",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/koahlabs/729e2608-4a27-4aa7-895e-a427e55d466a"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    230000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Latitude",
+   "location": "Remote",
+   "role": "Senior Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/latitude-global/d5cfad42-d306-435d-903e-1556a160467d"
   },
   {
    "appliedOn": "2026-08-30",
@@ -4962,6 +5144,20 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    165000,
+    220000
+   ],
+   "bucket": "in-window",
+   "company": "Regard",
+   "location": "New York \u00b7 Hybrid 2-3 days",
+   "role": "Senior Backend Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/regard/6c167e5d-2c03-43f4-98bd-efd0fda5e6e9"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     225000,
     255000
    ],
@@ -5016,6 +5212,20 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    160000,
+    220000
+   ],
+   "bucket": "in-window",
+   "company": "Treeswift",
+   "location": "New York \u00b7 Hybrid 2-3 days",
+   "role": "Senior Site Reliability and Infrastructure Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/treeswift/3718c171-cf51-49c5-86a3-c5d8b0d31f4c"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "greenhouse",
    "band": [
     227200,
@@ -5066,19 +5276,19 @@
    ],
    [
     "$200-250k",
-    70
+    76
    ],
    [
     "$250-300k",
-    136
+    142
    ],
    [
     "$300-350k",
-    104
+    106
    ],
    [
     "$350-400k",
-    28
+    29
    ],
    [
     "$400k+",
@@ -5088,15 +5298,15 @@
   "byAts": [
    [
     "ashby",
-    212
+    224
    ],
    [
     "greenhouse",
-    109
+    111
    ],
    [
     "lever",
-    22
+    23
    ],
    [
     "workable",
@@ -5185,8 +5395,8 @@
    ],
    [
     "2026-08-30",
-    22,
-    364
+    37,
+    379
    ]
   ],
   "latencies": [
@@ -5272,15 +5482,15 @@
   ]
  },
  "stats": {
-  "clearing300k": 144,
-  "companies": 287,
-  "medianBandTop": 285136.0,
+  "clearing300k": 147,
+  "companies": 300,
+  "medianBandTop": 285000,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 364
+  "total": 379
  }
 }
