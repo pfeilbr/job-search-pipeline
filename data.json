@@ -4822,6 +4822,20 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    250000,
+    350000
+   ],
+   "bucket": "in-window",
+   "company": "Kepler",
+   "location": "New York \u00b7 On-site",
+   "role": "Agentic Systems Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/kepler-ai/3377f209-d1aa-4cec-9756-faeccec10588"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     180000,
     250000
    ],
@@ -4845,6 +4859,34 @@
    "role": "Software Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/manifest-os/7c8dca6c-9d88-48be-8179-e3a2333497d8"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    200000,
+    230000
+   ],
+   "bucket": "in-window",
+   "company": "Nebulock",
+   "location": "Remote",
+   "role": "Principal Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/nebulock/d12eb16d-22da-451e-9867-124d16286aab"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    184000,
+    260000
+   ],
+   "bucket": "in-window",
+   "company": "Neon Health",
+   "location": "San Francisco \u00b7 Remote",
+   "role": "Staff Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/neon-health/2ba6ce11-e634-4fef-9684-c8c6e4c87fd4"
   },
   {
    "appliedOn": "2026-08-30",
@@ -4878,6 +4920,34 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    180000,
+    220000
+   ],
+   "bucket": "in-window",
+   "company": "Odyssey",
+   "location": "New York \u00b7 Hybrid 3 days",
+   "role": "Founding Security Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/odyssey/68b8890a-2bad-4d09-96c6-292dd63b9c03"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    160000,
+    265000
+   ],
+   "bucket": "in-window",
+   "company": "Outtake",
+   "location": "New York \u00b7 On-site 5 days",
+   "role": "Software Engineer (Security)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/outtake/5198b769-c1a0-4411-aa44-da68b308f22b"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     190000,
     220000
    ],
@@ -4901,6 +4971,20 @@
    "role": "Staff Software Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/shepherd/123bc115-b814-43b2-8fca-8fe1585e60db"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    200000,
+    225000
+   ],
+   "bucket": "in-window",
+   "company": "SpruceID",
+   "location": "Remote",
+   "role": "Principal Forward Deployed Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/spruceid/ef6a9686-0985-431d-81e7-1445e0622a26"
   },
   {
    "appliedOn": "2026-08-30",
@@ -4929,6 +5013,20 @@
    "role": "Staff Engineer",
    "status": "applied",
    "url": "https://job-boards.greenhouse.io/embed/job_app?for=thefarmersdog&token=8588756002"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "greenhouse",
+   "band": [
+    227200,
+    324500
+   ],
+   "bucket": "in-window",
+   "company": "Tubi",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Staff Software Engineer, Internal Tools",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=tubitv&token=8013225"
   },
   {
    "appliedOn": "2026-08-30",
@@ -4968,19 +5066,19 @@
    ],
    [
     "$200-250k",
-    67
+    70
    ],
    [
     "$250-300k",
-    134
+    136
    ],
    [
     "$300-350k",
-    103
+    104
    ],
    [
     "$350-400k",
-    27
+    28
    ],
    [
     "$400k+",
@@ -4990,11 +5088,11 @@
   "byAts": [
    [
     "ashby",
-    206
+    212
    ],
    [
     "greenhouse",
-    108
+    109
    ],
    [
     "lever",
@@ -5087,8 +5185,8 @@
    ],
    [
     "2026-08-30",
-    15,
-    357
+    22,
+    364
    ]
   ],
   "latencies": [
@@ -5174,15 +5272,15 @@
   ]
  },
  "stats": {
-  "clearing300k": 142,
-  "companies": 281,
-  "medianBandTop": 286000,
+  "clearing300k": 144,
+  "companies": 287,
+  "medianBandTop": 285136.0,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 357
+  "total": 364
  }
 }
