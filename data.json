@@ -4747,9 +4747,205 @@
    "role": "Principal Cloud Architect",
    "status": "applied",
    "url": "https://job-boards.greenhouse.io/embed/job_app?for=zoominfo&token=8626991002"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    165000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Anrok",
+   "location": "New York \u00b7 Hybrid 3 days",
+   "role": "Software Engineer (7+ years of experience)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/anrok/d0087910-ab06-4ee7-a6c4-47ab9283780d"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    180000,
+    275000
+   ],
+   "bucket": "in-window",
+   "company": "Basic Capital",
+   "location": "New York \u00b7 On-site",
+   "role": "Software Engineer - Infrastructure & DevOps",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/basiccapital/b0b370c0-0797-4588-8223-8926331b03c0"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    200000,
+    255000
+   ],
+   "bucket": "in-window",
+   "company": "Cape",
+   "location": "New York \u00b7 Hybrid 3 days",
+   "role": "Security Engineer, Product Security",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/cape/6311bc82-157b-48f5-9b05-a4bf6c2d0b3f"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    150000,
+    400000
+   ],
+   "bucket": "in-window",
+   "company": "Doppel",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Software Engineer, Infrastructure",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/doppel/aba5c986-7e85-4f79-8553-e85634400b78"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    170000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "Forus",
+   "location": "New York \u00b7 On-site",
+   "role": "Software Engineer, Platform & Infrastructure",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/forus/d6866955-460f-4328-86a6-1e66e628fb37"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    180000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Koah Labs",
+   "location": "New York \u00b7 On-site",
+   "role": "Software Engineer - Platform",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/koahlabs/729e2608-4a27-4aa7-895e-a427e55d466a"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    200000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "Manifest OS",
+   "location": "New York \u00b7 On-site 5 days",
+   "role": "Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/manifest-os/7c8dca6c-9d88-48be-8179-e3a2333497d8"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    200000,
+    315000
+   ],
+   "bucket": "in-window",
+   "company": "Nooks",
+   "location": "San Francisco \u00b7 Hybrid",
+   "role": "Security Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/nooks/b2c97a00-5176-4faf-a3b5-9e55f495267a"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "greenhouse",
+   "band": [
+    223000,
+    239000
+   ],
+   "bucket": "in-window",
+   "company": "Obsidian Security",
+   "location": "Philadelphia",
+   "role": "Staff Software Engineer",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=obsidiansecurity&token=5374810008"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    225000,
+    255000
+   ],
+   "bucket": "in-window",
+   "company": "Shepherd",
+   "location": "New York \u00b7 On-site 5 days",
+   "role": "Staff Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/shepherd/123bc115-b814-43b2-8fca-8fe1585e60db"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "workable",
+   "band": [
+    165000,
+    215000
+   ],
+   "bucket": "in-window",
+   "company": "Stellar Cyber",
+   "location": "On-site",
+   "role": "Senior DevOps Engineer / Site Reliability Engineer - East Coast",
+   "status": "applied",
+   "url": "https://jobs.workable.com/view/tNaBSt9Mi7QyptjzPqYLPR/remote-senior-devops-engineer%2Fsite-reliability-engineer-east-coast-in-united-states-at-stellar-cyber"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "greenhouse",
+   "band": [
+    207000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "The Farmer's Dog",
+   "location": "New York \u00b7 On-site 5 days",
+   "role": "Staff Engineer",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=thefarmersdog&token=8588756002"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "workable",
+   "band": [
+    190000,
+    290000
+   ],
+   "bucket": "in-window",
+   "company": "TWG Global AI",
+   "location": "New York \u00b7 On-site",
+   "role": "Senior ML / AWS Engineer - Pipeline Hardening, Governance & Integrations",
+   "status": "applied",
+   "url": "https://jobs.workable.com/view/ez8YZuQ7y8fxcc5UtyAhfw/senior-ml-%2F-aws-engineer---pipeline-hardening%2C-governance-%26-integrations-in-new-york-at-twg-global-ai"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "workable",
+   "band": [
+    299000,
+    350000
+   ],
+   "bucket": "in-window",
+   "company": "TWG Global AI",
+   "location": "New York \u00b7 On-site",
+   "role": "VP, Solutions Architect",
+   "status": "applied",
+   "url": "https://jobs.workable.com/view/oyqcRwt3zAFs1LL7xVMv6y/vp%2C-solutions-architect-in-new-york-at-twg-global-ai"
   }
  ],
- "generatedFor": "2026-08-29",
+ "generatedFor": "2026-08-30",
  "series": {
   "bandHistogram": [
    [
@@ -4758,33 +4954,33 @@
    ],
    [
     "$200-250k",
-    64
+    66
    ],
    [
     "$250-300k",
-    127
+    134
    ],
    [
     "$300-350k",
-    100
+    103
    ],
    [
     "$350-400k",
-    26
+    27
    ],
    [
     "$400k+",
-    11
+    12
    ]
   ],
   "byAts": [
    [
     "ashby",
-    196
+    205
    ],
    [
     "greenhouse",
-    106
+    108
    ],
    [
     "lever",
@@ -4792,7 +4988,7 @@
    ],
    [
     "workable",
-    9
+    12
    ],
    [
     "rippling",
@@ -4874,6 +5070,11 @@
     "2026-08-29",
     85,
     342
+   ],
+   [
+    "2026-08-30",
+    14,
+    356
    ]
   ],
   "latencies": [
@@ -4959,15 +5160,15 @@
   ]
  },
  "stats": {
-  "clearing300k": 137,
-  "companies": 267,
-  "medianBandTop": 286851.0,
+  "clearing300k": 142,
+  "companies": 280,
+  "medianBandTop": 286400.0,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 342
+  "total": 356
  }
 }
