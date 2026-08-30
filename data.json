@@ -5662,6 +5662,20 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    170000,
+    200000
+   ],
+   "bucket": "in-window",
+   "company": "Reality Defender",
+   "location": "New York \u00b7 Remote",
+   "role": "Senior Dev Ops Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/realitydefender/7f6993f1-264c-415c-88a6-b7116ef7b63a/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     165000,
     220000
    ],
@@ -5816,6 +5830,20 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    150000,
+    200000
+   ],
+   "bucket": "in-window",
+   "company": "Synthesia",
+   "location": "Philadelphia \u00b7 Remote",
+   "role": "SecOps Security Engineer (Staff-level, L6)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/synthesia/c3c79cb1-3ead-46ac-abf2-04502e4655bd/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     132000,
     230000
    ],
@@ -5881,6 +5909,20 @@
    "role": "Senior Software Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/tremendous/bbcd8882-3fff-40c3-a376-63cc99b737ef/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    150000,
+    200000
+   ],
+   "bucket": "in-window",
+   "company": "Triomics",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Platform Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/triomics/c95b0e2f-798e-44fd-a45f-25ecd90ce242/application"
   },
   {
    "appliedOn": "2026-08-30",
@@ -5990,7 +6032,7 @@
    ],
    [
     "$200-250k",
-    97
+    100
    ],
    [
     "$250-300k",
@@ -6012,7 +6054,7 @@
   "byAts": [
    [
     "ashby",
-    257
+    260
    ],
    [
     "greenhouse",
@@ -6113,8 +6155,8 @@
    ],
    [
     "2026-08-30",
-    88,
-    430
+    91,
+    433
    ]
   ],
   "latencies": [
@@ -6201,14 +6243,14 @@
  },
  "stats": {
   "clearing300k": 157,
-  "companies": 349,
-  "medianBandTop": 275000.0,
+  "companies": 352,
+  "medianBandTop": 275000,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 430
+  "total": 433
  }
 }
