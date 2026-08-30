@@ -5648,6 +5648,20 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    150000,
+    200000
+   ],
+   "bucket": "in-window",
+   "company": "Rescale",
+   "location": "Remote",
+   "role": "Principal Security GRC Analyst",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/rescale/66146020-d7a6-4a71-8272-4c4b5f8f0dac/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     275000,
     400000
    ],
@@ -5920,7 +5934,7 @@
    ],
    [
     "$200-250k",
-    93
+    94
    ],
    [
     "$250-300k",
@@ -5942,7 +5956,7 @@
   "byAts": [
    [
     "ashby",
-    252
+    253
    ],
    [
     "greenhouse",
@@ -6043,8 +6057,8 @@
    ],
    [
     "2026-08-30",
-    83,
-    425
+    84,
+    426
    ]
   ],
   "latencies": [
@@ -6131,14 +6145,14 @@
  },
  "stats": {
   "clearing300k": 157,
-  "companies": 344,
-  "medianBandTop": 275550,
+  "companies": 345,
+  "medianBandTop": 275275.0,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 425
+  "total": 426
  }
 }
