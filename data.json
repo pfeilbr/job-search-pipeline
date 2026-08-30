@@ -5086,6 +5086,20 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    175000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Endra",
+   "location": "New York \u00b7 On-site",
+   "role": "Software Engineer - Product",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/endra/24c1b80b-e954-4c52-854e-386fd44bf068"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "greenhouse",
    "band": [
     180000,
@@ -5354,6 +5368,20 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    200000,
+    285000
+   ],
+   "bucket": "in-window",
+   "company": "Latent",
+   "location": "New York \u00b7 On-site",
+   "role": "Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/latent/37081ba7-cd44-4a40-bc5f-4a2829c0d079"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     230000,
     250000
    ],
@@ -5531,6 +5559,20 @@
    "role": "Founding Security Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/odyssey/68b8890a-2bad-4d09-96c6-292dd63b9c03"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    160000,
+    220000
+   ],
+   "bucket": "in-window",
+   "company": "Oneleet",
+   "location": "Philadelphia \u00b7 Remote",
+   "role": "Application Security Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/oneleet/e3859be5-74ea-4fb5-a1c3-7e54626b1dee/application"
   },
   {
    "appliedOn": "2026-08-30",
@@ -5878,11 +5920,11 @@
    ],
    [
     "$200-250k",
-    92
+    93
    ],
    [
     "$250-300k",
-    159
+    161
    ],
    [
     "$300-350k",
@@ -5900,7 +5942,7 @@
   "byAts": [
    [
     "ashby",
-    249
+    252
    ],
    [
     "greenhouse",
@@ -6001,8 +6043,8 @@
    ],
    [
     "2026-08-30",
-    80,
-    422
+    83,
+    425
    ]
   ],
   "latencies": [
@@ -6089,14 +6131,14 @@
  },
  "stats": {
   "clearing300k": 157,
-  "companies": 341,
-  "medianBandTop": 277775.0,
+  "companies": 344,
+  "medianBandTop": 275550,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 422
+  "total": 425
  }
 }
