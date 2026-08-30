@@ -4890,6 +4890,20 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "greenhouse",
+   "band": [
+    185000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Fay",
+   "location": "NYC \u00b7 Remote",
+   "role": "Software Engineer",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=fay&token=5231947008"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
     170000,
@@ -5280,7 +5294,7 @@
    ],
    [
     "$250-300k",
-    142
+    143
    ],
    [
     "$300-350k",
@@ -5302,7 +5316,7 @@
    ],
    [
     "greenhouse",
-    111
+    112
    ],
    [
     "lever",
@@ -5395,8 +5409,8 @@
    ],
    [
     "2026-08-30",
-    37,
-    379
+    38,
+    380
    ]
   ],
   "latencies": [
@@ -5483,14 +5497,14 @@
  },
  "stats": {
   "clearing300k": 147,
-  "companies": 300,
-  "medianBandTop": 285000,
+  "companies": 301,
+  "medianBandTop": 285000.0,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 379
+  "total": 380
  }
 }
