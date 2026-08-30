@@ -5100,6 +5100,20 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "smartrecruiters",
+   "band": [
+    137102,
+    246784
+   ],
+   "bucket": "in-window",
+   "company": "Experian",
+   "location": "Remote",
+   "role": "Staff Platform Architect, Data & AI",
+   "status": "applied",
+   "url": "https://jobs.smartrecruiters.com/Experian/744000142017679-staff-platform-architect-data-ai-remote-"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "greenhouse",
    "band": [
     185000,
@@ -5800,6 +5814,20 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    195000,
+    245000
+   ],
+   "bucket": "in-window",
+   "company": "Warp",
+   "location": "New York \u00b7 On-site",
+   "role": "Senior Software Engineer, Product",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/warp/1670f730-5ed7-4462-b2b8-0d0494758360/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "lever",
    "band": [
     170000,
@@ -5822,7 +5850,7 @@
    ],
    [
     "$200-250k",
-    88
+    90
    ],
    [
     "$250-300k",
@@ -5844,7 +5872,7 @@
   "byAts": [
    [
     "ashby",
-    247
+    248
    ],
    [
     "greenhouse",
@@ -5863,11 +5891,11 @@
     5
    ],
    [
-    "clinch-(toast-careers-site)",
-    2
+    "smartrecruiters",
+    3
    ],
    [
-    "smartrecruiters",
+    "clinch-(toast-careers-site)",
     2
    ],
    [
@@ -5945,8 +5973,8 @@
    ],
    [
     "2026-08-30",
-    76,
-    418
+    78,
+    420
    ]
   ],
   "latencies": [
@@ -6033,7 +6061,7 @@
  },
  "stats": {
   "clearing300k": 157,
-  "companies": 339,
+  "companies": 340,
   "medianBandTop": 280000.0,
   "rejectionLatency": {
    "max": 21,
@@ -6041,6 +6069,6 @@
    "n": 17,
    "p90": 8
   },
-  "total": 418
+  "total": 420
  }
 }
