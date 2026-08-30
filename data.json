@@ -4794,6 +4794,20 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    180000,
+    230000
+   ],
+   "bucket": "in-window",
+   "company": "AKASA",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Sr. Software Engineer, Backend",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/akasa/09c7bee7-6f13-4d4b-9726-3b0e198610f6/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     165000,
     250000
    ],
@@ -4864,6 +4878,20 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    260000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "Cognition",
+   "location": "New York \u00b7 On-site",
+   "role": "Software Engineer, Infrastructure",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/cognition/13fdacf7-b4dc-4b9a-ac43-addc87de79ec/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     150000,
     400000
    ],
@@ -4873,6 +4901,20 @@
    "role": "Software Engineer, Infrastructure",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/doppel/aba5c986-7e85-4f79-8553-e85634400b78"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "greenhouse",
+   "band": [
+    280000,
+    310000
+   ],
+   "bucket": "in-window",
+   "company": "DriveWealth",
+   "location": "New York \u00b7 Hybrid 3 days",
+   "role": "Principal Software Development Engineer, Digital Assets & Web3",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=drivewealth&token=7781508003"
   },
   {
    "appliedOn": "2026-08-30",
@@ -5304,7 +5346,7 @@
    ],
    [
     "$200-250k",
-    76
+    77
    ],
    [
     "$250-300k",
@@ -5312,7 +5354,7 @@
    ],
    [
     "$300-350k",
-    106
+    108
    ],
    [
     "$350-400k",
@@ -5326,11 +5368,11 @@
   "byAts": [
    [
     "ashby",
-    224
+    226
    ],
    [
     "greenhouse",
-    113
+    114
    ],
    [
     "lever",
@@ -5423,8 +5465,8 @@
    ],
    [
     "2026-08-30",
-    39,
-    381
+    42,
+    384
    ]
   ],
   "latencies": [
@@ -5510,15 +5552,15 @@
   ]
  },
  "stats": {
-  "clearing300k": 147,
-  "companies": 302,
-  "medianBandTop": 285000,
+  "clearing300k": 149,
+  "companies": 305,
+  "medianBandTop": 285000.0,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 381
+  "total": 384
  }
 }
