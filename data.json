@@ -4920,6 +4920,20 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    150000,
+    275000
+   ],
+   "bucket": "in-window",
+   "company": "ATG (Autonomous Technologies Group)",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Member of Technical Staff (Data Platform)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/atg/f3f3bb80-520f-48ab-9df1-4f19d7a387e5/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     180000,
     275000
    ],
@@ -5055,6 +5069,20 @@
    "role": "Senior Software Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/corvus-robotics/8a74fe87-4945-4116-b7e7-755b7b7035f2"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "lever",
+   "band": [
+    166666,
+    208333
+   ],
+   "bucket": "in-window",
+   "company": "Coupa Software",
+   "location": "Remote",
+   "role": "Sr Lead Network Reliability Engineer",
+   "status": "applied",
+   "url": "https://jobs.lever.co/coupa/b1d36ead-0c57-41a8-83db-0aa95bb5ac52"
   },
   {
    "appliedOn": "2026-08-30",
@@ -5226,6 +5254,20 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "lever",
+   "band": [
+    120000,
+    210000
+   ],
+   "bucket": "in-window",
+   "company": "Glass Health",
+   "location": "Remote",
+   "role": "Founding Software Engineer (Backend, Remote)",
+   "status": "applied",
+   "url": "https://jobs.lever.co/glass-health-inc/bf5e10db-5222-44df-a16f-f410f2b1e260"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
     190000,
@@ -5284,6 +5326,20 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    240570,
+    297000
+   ],
+   "bucket": "in-window",
+   "company": "Horizon3.ai",
+   "location": "Remote",
+   "role": "Principal Cloud FinOps Analyst",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/horizon3ai/a57e0bc0-0f60-4201-b86c-c89eea4ec10d/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     200000,
     350000
    ],
@@ -5326,6 +5382,20 @@
    "appliedOn": "2026-08-30",
    "ats": "lever",
    "band": [
+    190000,
+    222000
+   ],
+   "bucket": "in-window",
+   "company": "Jane Technologies",
+   "location": "Remote",
+   "role": "Lead Software Engineer, Ads",
+   "status": "applied",
+   "url": "https://jobs.lever.co/iheartjane/547d9f3d-9fe7-4e5b-a7e3-25bca4796df4"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "lever",
+   "band": [
     170000,
     205000
    ],
@@ -5335,6 +5405,20 @@
    "role": "Senior Software Engineer, eCommerce (Remote)",
    "status": "applied",
    "url": "https://jobs.lever.co/iheartjane/440b0596-62b8-4a25-b88e-1d6e2bb144d0"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "lever",
+   "band": [
+    200000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Jito Labs",
+   "location": "Remote",
+   "role": "Senior Software Engineer - JTX",
+   "status": "applied",
+   "url": "https://jobs.lever.co/jito.wtf/86939232-2bd9-41c4-b7a4-5ed629758f22"
   },
   {
    "appliedOn": "2026-08-30",
@@ -5604,6 +5688,20 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    170000,
+    210000
+   ],
+   "bucket": "in-window",
+   "company": "OnePay",
+   "location": "Remote",
+   "role": "Platform Engineer, Core Services",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/oneapp/60211bb5-bec1-4203-9fab-ad1fb1ba0c0f/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "rippling",
    "band": [
     180000,
@@ -5657,6 +5755,20 @@
    "role": "Data Platform Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/owner/cc6453a3-6cfe-4a4a-9bab-9dd170cb8c6c"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    170000,
+    240000
+   ],
+   "bucket": "in-window",
+   "company": "Propel",
+   "location": "NYC \u00b7 Remote",
+   "role": "Senior Platform Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/propel/11265618-fbca-405c-b52f-a9b85ffe6aed/application"
   },
   {
    "appliedOn": "2026-08-30",
@@ -5996,6 +6108,34 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "lever",
+   "band": [
+    210000,
+    258000
+   ],
+   "bucket": "in-window",
+   "company": "Waabi",
+   "location": "Remote",
+   "role": "Applied AI Security Engineer",
+   "status": "applied",
+   "url": "https://jobs.lever.co/waabi/c4559ea4-1912-4d77-a32c-1a32849e86a0"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "lever",
+   "band": [
+    180000,
+    234000
+   ],
+   "bucket": "in-window",
+   "company": "Waabi",
+   "location": "Remote",
+   "role": "Senior / Staff Machine Learning Infrastructure Engineer",
+   "status": "applied",
+   "url": "https://jobs.lever.co/waabi/1b9e7190-acb7-47bb-b6e4-d589d8561082"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
     195000,
@@ -6007,6 +6147,20 @@
    "role": "Senior Software Engineer, Product",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/warp/1670f730-5ed7-4462-b2b8-0d0494758360/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    225000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "Yobi",
+   "location": "Remote",
+   "role": "Tech Lead / Software Engineer - Yobi Ad Platform",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/yobi/84aacbf1-8248-4114-86ad-71fe8f68548c/application"
   },
   {
    "appliedOn": "2026-08-30",
@@ -6032,15 +6186,15 @@
    ],
    [
     "$200-250k",
-    100
+    106
    ],
    [
     "$250-300k",
-    162
+    166
    ],
    [
     "$300-350k",
-    113
+    114
    ],
    [
     "$350-400k",
@@ -6054,7 +6208,7 @@
   "byAts": [
    [
     "ashby",
-    260
+    265
    ],
    [
     "greenhouse",
@@ -6062,7 +6216,7 @@
    ],
    [
     "lever",
-    29
+    35
    ],
    [
     "workable",
@@ -6155,8 +6309,8 @@
    ],
    [
     "2026-08-30",
-    91,
-    433
+    102,
+    444
    ]
   ],
   "latencies": [
@@ -6242,15 +6396,15 @@
   ]
  },
  "stats": {
-  "clearing300k": 157,
-  "companies": 352,
-  "medianBandTop": 275000,
+  "clearing300k": 158,
+  "companies": 361,
+  "medianBandTop": 275000.0,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 433
+  "total": 444
  }
 }
