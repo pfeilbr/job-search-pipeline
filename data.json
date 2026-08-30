@@ -4792,6 +4792,20 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "lever",
+   "band": [
+    200000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "AHEAD",
+   "location": "Remote",
+   "role": "Senior AI Engineer, AI Services",
+   "status": "applied",
+   "url": "https://jobs.lever.co/thinkahead/1ffb36db-8d38-497e-8eb6-21ad13889464"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
     180000,
@@ -4845,6 +4859,20 @@
    "role": "Software Engineer - Infrastructure & DevOps",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/basiccapital/b0b370c0-0797-4588-8223-8926331b03c0"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "lever",
+   "band": [
+    190000,
+    200000
+   ],
+   "bucket": "in-window",
+   "company": "Bounteous",
+   "location": "Remote",
+   "role": "Principal Databricks Architect",
+   "status": "applied",
+   "url": "https://jobs.lever.co/bounteous/8984d596-d176-4268-b0b6-8334812ff41e"
   },
   {
    "appliedOn": "2026-08-30",
@@ -4957,6 +4985,20 @@
    "role": "Senior Agentic AI Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/eigen-labs/c02fa001-23c9-4d68-8c0a-e27a742d76a4"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    206000,
+    255000
+   ],
+   "bucket": "in-window",
+   "company": "Elliptic",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Senior Software Engineer - Data",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/elliptic/449ea855-3b3f-45cc-aa0d-90c084ec59eb"
   },
   {
    "appliedOn": "2026-08-30",
@@ -5074,6 +5116,20 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    200000,
+    350000
+   ],
+   "bucket": "in-window",
+   "company": "Hypha",
+   "location": "NYC \u00b7 On-site",
+   "role": "Senior/Staff Backend Engineer, Applied AI",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/hypha/a078143c-59f0-4dee-bf6e-d414120a1091"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     175000,
     200000
    ],
@@ -5156,6 +5212,20 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "greenhouse",
+   "band": [
+    300000,
+    385000
+   ],
+   "bucket": "in-window",
+   "company": "Legion Technologies",
+   "location": "Remote",
+   "role": "Chief Architect",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=legion&token=7763058003"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "lever",
    "band": [
     225000,
@@ -5181,6 +5251,20 @@
    "role": "Software Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/manifest-os/7c8dca6c-9d88-48be-8179-e3a2333497d8"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    185000,
+    310000
+   ],
+   "bucket": "in-window",
+   "company": "Maybern",
+   "location": "New York \u00b7 On-site",
+   "role": "Forward Deployed Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/maybern/a1d26967-16fc-4427-8cf1-bff632f6ed70/application"
   },
   {
    "appliedOn": "2026-08-30",
@@ -5254,6 +5338,34 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "rippling",
+   "band": [
+    180000,
+    220000
+   ],
+   "bucket": "in-window",
+   "company": "Order.co",
+   "location": "NYC \u00b7 Hybrid",
+   "role": "Staff Security Engineer",
+   "status": "applied",
+   "url": "https://ats.rippling.com/orderco/jobs/a7be5c5e-538d-4d03-8831-7e8733a43c7d"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    200000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "OuterSignal",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Senior Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/outersignal/5b6f5596-099b-4cc0-8196-42ad6270b780/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
     160000,
@@ -5293,6 +5405,20 @@
    "role": "Senior Backend Software Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/regard/6c167e5d-2c03-43f4-98bd-efd0fda5e6e9"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    275000,
+    400000
+   ],
+   "bucket": "in-window",
+   "company": "River Technologies",
+   "location": "NYC \u00b7 On-site",
+   "role": "Engineering Team (general engineering req)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/rivertechnologies/60f9606b-608e-4259-bdb8-1ebb637517d1/application"
   },
   {
    "appliedOn": "2026-08-30",
@@ -5349,6 +5475,20 @@
    "role": "Senior DevOps Engineer / Site Reliability Engineer - East Coast",
    "status": "applied",
    "url": "https://jobs.workable.com/view/tNaBSt9Mi7QyptjzPqYLPR/remote-senior-devops-engineer%2Fsite-reliability-engineer-east-coast-in-united-states-at-stellar-cyber"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    220000,
+    240000
+   ],
+   "bucket": "in-window",
+   "company": "Stellar Health",
+   "location": "Remote",
+   "role": "Staff Engineer (AutoProgression Team)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/stellar-health/e2a73a3b-2a1b-410f-89ae-b0d9851df565/application"
   },
   {
    "appliedOn": "2026-08-30",
@@ -5461,6 +5601,20 @@
    "role": "Principal Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/valid/c761108d-0eb7-4cd5-a039-6c0082d31dfe/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "lever",
+   "band": [
+    170000,
+    200000
+   ],
+   "bucket": "in-window",
+   "company": "Zus Health",
+   "location": "Remote",
+   "role": "Staff Software Engineer, Platform",
+   "status": "applied",
+   "url": "https://jobs.lever.co/zushealth/9b7d1e23-a50f-4c46-8813-5a7f79901a03"
   }
  ],
  "generatedFor": "2026-08-30",
@@ -5472,37 +5626,37 @@
    ],
    [
     "$200-250k",
-    80
+    84
    ],
    [
     "$250-300k",
-    150
+    152
    ],
    [
     "$300-350k",
-    108
+    110
    ],
    [
     "$350-400k",
-    29
+    31
    ],
    [
     "$400k+",
-    12
+    13
    ]
   ],
   "byAts": [
    [
     "ashby",
-    231
+    237
    ],
    [
     "greenhouse",
-    116
+    117
    ],
    [
     "lever",
-    24
+    27
    ],
    [
     "workable",
@@ -5510,7 +5664,7 @@
    ],
    [
     "rippling",
-    4
+    5
    ],
    [
     "clinch-(toast-careers-site)",
@@ -5591,8 +5745,8 @@
    ],
    [
     "2026-08-30",
-    51,
-    393
+    62,
+    404
    ]
   ],
   "latencies": [
@@ -5678,15 +5832,15 @@
   ]
  },
  "stats": {
-  "clearing300k": 149,
-  "companies": 314,
-  "medianBandTop": 280000,
+  "clearing300k": 154,
+  "companies": 325,
+  "medianBandTop": 280000.0,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 393
+  "total": 404
  }
 }
