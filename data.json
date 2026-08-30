@@ -4820,6 +4820,20 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "rippling",
+   "band": [
+    165000,
+    295000
+   ],
+   "bucket": "in-window",
+   "company": "Arcadia (Energy)",
+   "location": "Remote",
+   "role": "Staff Software Engineer, Energy Analytics",
+   "status": "applied",
+   "url": "https://ats.rippling.com/arcadiacareers/jobs/1cef4fca-862c-4fa3-af88-f4b96958b317"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
     180000,
@@ -4960,6 +4974,20 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    150000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Etched",
+   "location": "Remote",
+   "role": "Security Engineer (Remote)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/etched/56400dde-55ea-43c8-862c-cb0b14eb063c"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "greenhouse",
    "band": [
     185000,
@@ -4999,6 +5027,20 @@
    "role": "Applied AI Engineer - Agent",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/generalintelligencecompany/4bc5d479-3bba-432d-887f-423847aa650a"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    190000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "GovDash",
+   "location": "New York \u00b7 On-site",
+   "role": "Product Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/govdash/c603a21b-a84b-445c-8163-a70ae03ec599"
   },
   {
    "appliedOn": "2026-08-30",
@@ -5111,6 +5153,20 @@
    "role": "Senior Software Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/latitude-global/d5cfad42-d306-435d-903e-1556a160467d"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "lever",
+   "band": [
+    225000,
+    260000
+   ],
+   "bucket": "in-window",
+   "company": "LogRocket",
+   "location": "NYC \u00b7 Hybrid",
+   "role": "Lead Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.lever.co/logrocket/42d82bcb-7645-4efd-be5a-4983060e1571"
   },
   {
    "appliedOn": "2026-08-30",
@@ -5268,6 +5324,20 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "greenhouse",
+   "band": [
+    189000,
+    231000
+   ],
+   "bucket": "in-window",
+   "company": "Stacklok",
+   "location": "Remote",
+   "role": "Sr. Software Engineer - Platform",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=stacklok&token=5193565007"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "workable",
    "band": [
     165000,
@@ -5324,6 +5394,20 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    150000,
+    280000
+   ],
+   "bucket": "in-window",
+   "company": "Tremendous",
+   "location": "Remote",
+   "role": "Senior Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/tremendous/bbcd8882-3fff-40c3-a376-63cc99b737ef/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "greenhouse",
    "band": [
     227200,
@@ -5363,6 +5447,20 @@
    "role": "VP, Solutions Architect",
    "status": "applied",
    "url": "https://jobs.workable.com/view/oyqcRwt3zAFs1LL7xVMv6y/vp%2C-solutions-architect-in-new-york-at-twg-global-ai"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    220000,
+    280000
+   ],
+   "bucket": "in-window",
+   "company": "Valid",
+   "location": "Remote",
+   "role": "Principal Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/valid/c761108d-0eb7-4cd5-a039-6c0082d31dfe/application"
   }
  ],
  "generatedFor": "2026-08-30",
@@ -5374,11 +5472,11 @@
    ],
    [
     "$200-250k",
-    79
+    80
    ],
    [
     "$250-300k",
-    144
+    150
    ],
    [
     "$300-350k",
@@ -5396,15 +5494,15 @@
   "byAts": [
    [
     "ashby",
-    227
+    231
    ],
    [
     "greenhouse",
-    115
+    116
    ],
    [
     "lever",
-    23
+    24
    ],
    [
     "workable",
@@ -5412,7 +5510,7 @@
    ],
    [
     "rippling",
-    3
+    4
    ],
    [
     "clinch-(toast-careers-site)",
@@ -5493,8 +5591,8 @@
    ],
    [
     "2026-08-30",
-    44,
-    386
+    51,
+    393
    ]
   ],
   "latencies": [
@@ -5581,14 +5679,14 @@
  },
  "stats": {
   "clearing300k": 149,
-  "companies": 307,
-  "medianBandTop": 284500.0,
+  "companies": 314,
+  "medianBandTop": 280000,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 386
+  "total": 393
  }
 }
