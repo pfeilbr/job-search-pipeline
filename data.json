@@ -4878,6 +4878,20 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    190000,
+    220000
+   ],
+   "bucket": "in-window",
+   "company": "Owner.com",
+   "location": "San Francisco \u00b7 On-site",
+   "role": "Data Platform Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/owner/cc6453a3-6cfe-4a4a-9bab-9dd170cb8c6c"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     225000,
     255000
    ],
@@ -4954,7 +4968,7 @@
    ],
    [
     "$200-250k",
-    66
+    67
    ],
    [
     "$250-300k",
@@ -4976,7 +4990,7 @@
   "byAts": [
    [
     "ashby",
-    205
+    206
    ],
    [
     "greenhouse",
@@ -5073,8 +5087,8 @@
    ],
    [
     "2026-08-30",
-    14,
-    356
+    15,
+    357
    ]
   ],
   "latencies": [
@@ -5161,14 +5175,14 @@
  },
  "stats": {
   "clearing300k": 142,
-  "companies": 280,
-  "medianBandTop": 286400.0,
+  "companies": 281,
+  "medianBandTop": 286000,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 356
+  "total": 357
  }
 }
