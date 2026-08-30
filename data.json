@@ -4834,6 +4834,20 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "greenhouse",
+   "band": [
+    180000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Carta",
+   "location": "New York \u00b7 Hybrid 3 days",
+   "role": "Senior Software Engineer II, Developer Experience",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=carta&token=7713882003"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
     190000,
@@ -5294,7 +5308,7 @@
    ],
    [
     "$250-300k",
-    143
+    144
    ],
    [
     "$300-350k",
@@ -5316,7 +5330,7 @@
    ],
    [
     "greenhouse",
-    112
+    113
    ],
    [
     "lever",
@@ -5409,8 +5423,8 @@
    ],
    [
     "2026-08-30",
-    38,
-    380
+    39,
+    381
    ]
   ],
   "latencies": [
@@ -5497,14 +5511,14 @@
  },
  "stats": {
   "clearing300k": 147,
-  "companies": 301,
-  "medianBandTop": 285000.0,
+  "companies": 302,
+  "medianBandTop": 285000,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 380
+  "total": 381
  }
 }
