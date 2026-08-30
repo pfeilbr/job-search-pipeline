@@ -4750,6 +4750,20 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "smartrecruiters",
+   "band": [
+    141500,
+    268500
+   ],
+   "bucket": "in-window",
+   "company": "AbbVie",
+   "location": "Chicago \u00b7 Remote",
+   "role": "Application & Platform Security Architect",
+   "status": "applied",
+   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990013813546-application-platform-security-architect"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
     164638,
@@ -4831,6 +4845,20 @@
    "role": "Software Engineer (7+ years of experience)",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/anrok/d0087910-ab06-4ee7-a6c4-47ab9283780d"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    200000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "Arca",
+   "location": "New York \u00b7 On-site 5 days",
+   "role": "Member of Technical Staff, Platform Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/arca/9310f793-c4e3-4ac6-905a-1bd411cd8096"
   },
   {
    "appliedOn": "2026-08-30",
@@ -5088,6 +5116,20 @@
    "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
+    170250,
+    227000
+   ],
+   "bucket": "in-window",
+   "company": "Gravie",
+   "location": "Remote",
+   "role": "Data Platform Architect",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/gravie/9a04c983-67d0-40e4-b3ea-c76d35a6078c"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
     160000,
     300000
    ],
@@ -5156,6 +5198,20 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "lever",
+   "band": [
+    170000,
+    205000
+   ],
+   "bucket": "in-window",
+   "company": "Jane Technologies",
+   "location": "Remote",
+   "role": "Senior Software Engineer, eCommerce (Remote)",
+   "status": "applied",
+   "url": "https://jobs.lever.co/iheartjane/440b0596-62b8-4a25-b88e-1d6e2bb144d0"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
     150000,
@@ -5181,6 +5237,20 @@
    "role": "Agentic Systems Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/kepler-ai/3377f209-d1aa-4cec-9756-faeccec10588"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    210000,
+    260000
+   ],
+   "bucket": "in-window",
+   "company": "Kindo",
+   "location": "San Francisco \u00b7 Hybrid",
+   "role": "Senior / Staff Software Engineer, AI",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/kindo/48be4891-d9c8-4819-9e7f-1ac1b186c5ee"
   },
   {
    "appliedOn": "2026-08-30",
@@ -5240,6 +5310,20 @@
   },
   {
    "appliedOn": "2026-08-30",
+   "ats": "lever",
+   "band": [
+    227500,
+    280000
+   ],
+   "bucket": "in-window",
+   "company": "Mainspring Energy",
+   "location": "Remote",
+   "role": "Principal Software Architect - AI & Security",
+   "status": "applied",
+   "url": "https://jobs.lever.co/mainspringenergy/10007e43-c98f-4016-98ab-015f60e5ef21"
+  },
+  {
+   "appliedOn": "2026-08-30",
    "ats": "ashby",
    "band": [
     200000,
@@ -5265,6 +5349,20 @@
    "role": "Forward Deployed Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/maybern/a1d26967-16fc-4427-8cf1-bff632f6ed70/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    190000,
+    260000
+   ],
+   "bucket": "in-window",
+   "company": "Moonshot AI",
+   "location": "New York \u00b7 On-site",
+   "role": "Staff Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/moonshot-ai/54aea9c8-267f-437a-b061-02f48cf48450/application"
   },
   {
    "appliedOn": "2026-08-30",
@@ -5419,6 +5517,20 @@
    "role": "Engineering Team (general engineering req)",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/rivertechnologies/60f9606b-608e-4259-bdb8-1ebb637517d1/application"
+  },
+  {
+   "appliedOn": "2026-08-30",
+   "ats": "ashby",
+   "band": [
+    210000,
+    230000
+   ],
+   "bucket": "in-window",
+   "company": "Sequence",
+   "location": "New York \u00b7 Hybrid 3 days",
+   "role": "Senior Software Engineer - NYC",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/sequence/6b195d54-ce0c-4d8e-9489-ae817554e5bf/application"
   },
   {
    "appliedOn": "2026-08-30",
@@ -5626,15 +5738,15 @@
    ],
    [
     "$200-250k",
-    84
+    87
    ],
    [
     "$250-300k",
-    152
+    156
    ],
    [
     "$300-350k",
-    110
+    111
    ],
    [
     "$350-400k",
@@ -5648,7 +5760,7 @@
   "byAts": [
    [
     "ashby",
-    237
+    242
    ],
    [
     "greenhouse",
@@ -5656,7 +5768,7 @@
    ],
    [
     "lever",
-    27
+    29
    ],
    [
     "workable",
@@ -5684,6 +5796,10 @@
    ],
    [
     "icims",
+    1
+   ],
+   [
+    "smartrecruiters",
     1
    ]
   ],
@@ -5745,8 +5861,8 @@
    ],
    [
     "2026-08-30",
-    62,
-    404
+    70,
+    412
    ]
   ],
   "latencies": [
@@ -5832,8 +5948,8 @@
   ]
  },
  "stats": {
-  "clearing300k": 154,
-  "companies": 325,
+  "clearing300k": 155,
+  "companies": 333,
   "medianBandTop": 280000.0,
   "rejectionLatency": {
    "max": 21,
@@ -5841,6 +5957,6 @@
    "n": 17,
    "p90": 8
   },
-  "total": 404
+  "total": 412
  }
 }
