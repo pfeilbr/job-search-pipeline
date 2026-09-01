@@ -6511,9 +6511,877 @@
    "role": "Staff Software Engineer, Platform",
    "status": "applied",
    "url": "https://jobs.lever.co/zushealth/9b7d1e23-a50f-4c46-8813-5a7f79901a03"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    182000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Grow Therapy",
+   "location": "NYC \u00b7 Hybrid 3 days",
+   "role": "Senior Software Engineer, Backend",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/grow-therapy/16179a07-5099-4034-941c-7b2f28d91e83/application"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    180000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "Linero",
+   "location": "New York \u00b7 On-site",
+   "role": "Staff Engineer, Infrastructure & Security",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/linero/639f5ea3-0f1e-4fc2-80bc-98d3d381d010/application"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    152000,
+    282000
+   ],
+   "bucket": "in-window",
+   "company": "NerdWallet",
+   "location": "Remote",
+   "role": "Staff Software Engineer, Product Focused, Consumer Marketplaces",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/nerdwallet/86d3520d-151c-4ff7-9670-0bad9f6e307a"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    200000,
+    290000
+   ],
+   "bucket": "in-window",
+   "company": "Cape",
+   "location": "New York \u00b7 Hybrid 3 days",
+   "role": "Software Engineer, Product Platform",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/cape/87e4fac9-9193-40d7-9b28-dbc73e55615c/application"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    170000,
+    270000
+   ],
+   "bucket": "in-window",
+   "company": "Rain",
+   "location": "New York \u00b7 Hybrid 3 days",
+   "role": "Security Engineer (Application Security)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/rain/9044a08f-f19b-47fe-a2cd-791f0675434d"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    200000,
+    600000
+   ],
+   "bucket": "in-window",
+   "company": "Aaru",
+   "location": "NYC \u00b7 On-site 5 days",
+   "role": "Platform Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/aaru/79ac154e-6a2d-4bd6-a181-a21e849bab57"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    200000,
+    600000
+   ],
+   "bucket": "in-window",
+   "company": "Aaru",
+   "location": "NYC \u00b7 On-site 5 days",
+   "role": "Product Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/aaru/5e63f037-0c5f-4cc2-ace4-9460b52c285d"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    143800,
+    231900
+   ],
+   "bucket": "in-window",
+   "company": "Camunda",
+   "location": "Remote",
+   "role": "Senior Software Engineer, Backend - Distributed Systems",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/camunda/af27a3de-d3ba-40dd-976f-9767bdc1e7e8/application"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    195000,
+    400000
+   ],
+   "bucket": "in-window",
+   "company": "Agentio",
+   "location": "New York",
+   "role": "Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/agentio/d22f7e19-cf51-4b48-9e5c-0e663dcfd389"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    180000,
+    220000
+   ],
+   "bucket": "in-window",
+   "company": "Ajax",
+   "location": "New York \u00b7 On-site",
+   "role": "Full Stack Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/ajax/d7b2cd49-f068-488b-9b0d-ad87c71adc4d/application"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "greenhouse",
+   "band": [
+    166000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Alloy",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Founding Forward Deployed Engineer",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=alloy&token=8610085002"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    150000,
+    225000
+   ],
+   "bucket": "in-window",
+   "company": "Ambral",
+   "location": "New York",
+   "role": "Founding Member of Technical Staff",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/ambral/e25c7426-a2a5-4a1e-a4b3-b7f402118711"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "lever",
+   "band": [
+    200000,
+    null
+   ],
+   "bucket": "in-window",
+   "company": "AngelList",
+   "location": "New York \u00b7 Hybrid 2-3 days",
+   "role": "Senior Platform Engineer, Banking (Nova)",
+   "status": "applied",
+   "url": "https://jobs.lever.co/angellist/715b6b72-3ea8-40c5-afc0-3870a301b224/apply"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    180000,
+    230000
+   ],
+   "bucket": "in-window",
+   "company": "Antioch",
+   "location": "New York \u00b7 On-site 5 days",
+   "role": "Member of Technical Staff, Core Platform",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/antioch/e1addc39-2020-4096-91e6-25541f37dfb8"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    160000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "Applied Labs",
+   "location": "New York \u00b7 On-site",
+   "role": "Founding Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/appliedlabs/add6d376-a634-4c81-9b01-c30328c2bdf0"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    180000,
+    260000
+   ],
+   "bucket": "in-window",
+   "company": "ATG (Autonomous Technologies Group)",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Member of Technical Staff (Backend)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/atg/a37e306f-edf5-4baf-8743-75d7d75bb7a4"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    160000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "ATG (Autonomous Technologies Group)",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Member of Technical Staff (Full Stack)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/atg/5c79aca9-d4f8-4ba3-89ab-0a56f5e08e91"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    165000,
+    270000
+   ],
+   "bucket": "in-window",
+   "company": "Avallon",
+   "location": "New York \u00b7 On-site",
+   "role": "Founding Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/avallon/8e97bb07-6120-4bc0-8376-f9e0d6998ef8"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    180000,
+    230000
+   ],
+   "bucket": "in-window",
+   "company": "Baton",
+   "location": "New York \u00b7 On-site",
+   "role": "Senior Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/baton/12c9b4a1-d31a-435c-a3b0-a2d3f8aa7358/application"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    160000,
+    210000
+   ],
+   "bucket": "in-window",
+   "company": "Blee",
+   "location": "New York \u00b7 Hybrid 3 days",
+   "role": "Full Stack Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/blee/18d456d1-587a-4cb2-8faa-5f43af7f700a/application"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    190000,
+    225000
+   ],
+   "bucket": "in-window",
+   "company": "Blockdaemon",
+   "location": "Not stated",
+   "role": "Solutions Architect, US",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/blockdaemon/31fe43de-f087-4d94-8c87-9f31a813c5aa"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    160000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "ConductorAI",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Full Stack Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/conductorai/3c518501-fc9e-4585-ad50-051fdc7df838"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "greenhouse",
+   "band": [
+    170000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Current",
+   "location": "New York",
+   "role": "Senior Software Engineer (Senior Backend Engineer)",
+   "status": "applied",
+   "url": "https://current.com/careers/open-positions/?id=8052027&gh_jid=8052027"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    182000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Grow Therapy",
+   "location": "NYC \u00b7 Hybrid 3 days",
+   "role": "Senior Software Engineer - Full Stack",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/grow-therapy/d4732124-9e19-47dd-8fdd-c37cffbeaadc/application"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "greenhouse",
+   "band": [
+    null,
+    252800
+   ],
+   "bucket": "in-window",
+   "company": "Elastic",
+   "location": "Remote",
+   "role": "GenAI Security - Principal Security Research Engineer (TRaDE)",
+   "status": "applied",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8079640"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    125000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "Adaptive Security",
+   "location": "NYC \u00b7 On-site 5 days",
+   "role": "Software Engineer, Product & Platform",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/adaptivesecurity/f68039ab-5904-41e0-b8e4-605ec642bfd3/application"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "lever",
+   "band": [
+    150000,
+    200000
+   ],
+   "bucket": "in-window",
+   "company": "Foodsmart",
+   "location": "Remote",
+   "role": "Senior Data Engineer",
+   "status": "applied",
+   "url": "https://jobs.lever.co/foodsmart/24ff9250-2abf-46a4-aae5-59bcc0667645/apply"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    185000,
+    225000
+   ],
+   "bucket": "in-window",
+   "company": "G2",
+   "location": "Remote",
+   "role": "Senior Software Engineer, Full-Stack",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/g2/0ea59abf-fcb1-4750-bc55-0998e3beb84a"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "greenhouse",
+   "band": [
+    180000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Genius Sports",
+   "location": "New York \u00b7 On-site 4 days",
+   "role": "Senior Software Engineer, Infrastructure Platform",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/geniussports/jobs/7860939003"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "greenhouse",
+   "band": [
+    241000,
+    284000
+   ],
+   "bucket": "in-window",
+   "company": "GlossGenius",
+   "location": "NYC \u00b7 On-site 4 days",
+   "role": "Staff Software Engineer, Backend",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/glossgenius/jobs/7765120003"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    200000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "GovWell",
+   "location": "New York \u00b7 Hybrid",
+   "role": "AI Product Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/govwell/7c4cff34-bd8d-41d7-a54b-8f9ee0d96ac3"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    200000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "GovWell",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Senior Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/govwell/743018f7-6752-4570-92ee-b1e80c1813ef"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    200000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "GovWell",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Senior Software Engineer, Payments",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/govwell/4d5a429f-5d8c-42b4-a39a-6f1c7868b648"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    150000,
+    225000
+   ],
+   "bucket": "in-window",
+   "company": "Granted",
+   "location": "Remote",
+   "role": "Backend Engineer, Agentic AI (Staff+ Level)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/granted/8b792376-42d1-4f6d-99cc-2bbac0ce63a3"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    250000,
+    270000
+   ],
+   "bucket": "in-window",
+   "company": "Haus",
+   "location": "New York",
+   "role": "Staff Machine Learning Engineer - New York",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/haus/3388c93e-3033-4a5b-9690-dcc6bb6a681c"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    174000,
+    210000
+   ],
+   "bucket": "in-window",
+   "company": "HealthSherpa",
+   "location": "Remote",
+   "role": "Senior Product Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/healthsherpa/5b29182e-076e-4dce-a6bd-861271065a47"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    200000,
+    275000
+   ],
+   "bucket": "in-window",
+   "company": "Highbeam",
+   "location": "New York \u00b7 On-site 5 days",
+   "role": "Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/highbeam/aa2a6a4e-1fb0-4a1e-a3e1-ffb36d40860b/application"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    200000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Hopper",
+   "location": "New York \u00b7 Remote",
+   "role": "Senior Full Stack Engineer (Realtime & Voice), Customer Experience Platform",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/hopper/4b87c936-a0e4-4c83-93b9-c74d1fefb24e/application"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    160000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Interfere",
+   "location": "New York \u00b7 On-site",
+   "role": "Software Engineer, Data",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/interfere/f09a5246-a6d7-4de4-8556-e2e8f23f7420/application"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    200000,
+    234000
+   ],
+   "bucket": "in-window",
+   "company": "January",
+   "location": "New York \u00b7 Hybrid 3 days",
+   "role": "Senior Security Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/january/625fa8a5-0427-4d0e-9b49-fdcfaa7123a6"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "greenhouse",
+   "band": [
+    188000,
+    275000
+   ],
+   "bucket": "in-window",
+   "company": "Lightning AI",
+   "location": "New York \u00b7 Hybrid 2-3 days",
+   "role": "Data Engineer (first data hire)",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/lightningai/jobs/7790915003"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    194650,
+    263350
+   ],
+   "bucket": "in-window",
+   "company": "Mapbox",
+   "location": "Not stated",
+   "role": "Software Development Engineer III, Search API (Places)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/mapbox/5e2dc48a-42c6-4d3f-ae68-b51682d62bca"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    195000,
+    235000
+   ],
+   "bucket": "in-window",
+   "company": "Method Financial",
+   "location": "New York",
+   "role": "Senior Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/method/22f6e56e-e983-4eaf-b00a-4598ba99e590"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    200000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Minerva",
+   "location": "New York \u00b7 On-site",
+   "role": "Staff Data Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/minerva/632fa6ea-fc58-4474-b361-73b9fbefc598/application"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    200000,
+    400000
+   ],
+   "bucket": "in-window",
+   "company": "Moment",
+   "location": "New York \u00b7 On-site",
+   "role": "Distributed Systems Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/moment/b13c29c2-fe72-4055-86c8-fa8efbae416f"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    200000,
+    400000
+   ],
+   "bucket": "in-window",
+   "company": "Moment",
+   "location": "New York \u00b7 On-site",
+   "role": "Platform Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/moment/93c2d5e1-0a40-42bc-a4c9-a71449f3a6e2"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    190000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Norm Ai",
+   "location": "New York \u00b7 Hybrid",
+   "role": "Forward Deployed Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/norm-ai/366d4079-4842-469d-a5e0-3cc891a136b4/application"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "lever",
+   "band": [
+    161000,
+    220000
+   ],
+   "bucket": "in-window",
+   "company": "Olo",
+   "location": "NYC \u00b7 Remote",
+   "role": "Staff Security Engineer (Blue Team)",
+   "status": "applied",
+   "url": "https://jobs.lever.co/olo/b19e4037-f645-47d0-bc29-10a714fa19e7/apply"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    160000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Omni",
+   "location": "Not stated",
+   "role": "Product Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/omni/f2e510bf-82dd-4a86-94cf-d0a3b29b5889"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    150000,
+    220000
+   ],
+   "bucket": "in-window",
+   "company": "OnePay (OneApp)",
+   "location": "Remote",
+   "role": "Software Engineer, Lending",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/oneapp/b0d1f783-72a8-43e9-a383-03ab3f8e5d61"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "greenhouse",
+   "band": [
+    0,
+    232000
+   ],
+   "bucket": "in-window",
+   "company": "Pantheon Systems",
+   "location": "Remote",
+   "role": "Staff Software Engineer - Data Platform",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=pantheon&token=8054337"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "workable",
+   "band": [
+    180000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Raydar",
+   "location": "New York \u00b7 On-site 5 days",
+   "role": "Forward Deployed Engineer",
+   "status": "applied",
+   "url": "https://jobs.workable.com/view/pirDj8g8754zjrAn4UUzbe/forward-deployed-engineer-in-new-york-at-raydar"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    150000,
+    275000
+   ],
+   "bucket": "in-window",
+   "company": "Rowspace",
+   "location": "New York \u00b7 On-site",
+   "role": "Forward Deployed Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/rowspace/3b4dfc78-d672-4499-88ad-6826346bef26/application"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    150000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "Rowspace",
+   "location": "New York \u00b7 On-site",
+   "role": "Infrastructure Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/rowspace/cdc52b29-dad6-4dbb-81ba-b2088a2fbf8d/application"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    160000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Ryvn",
+   "location": "New York \u00b7 On-site 5 days",
+   "role": "Founding Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/ryvn/fc9bac77-7913-4182-bbe6-c7889ec7ca76"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    150000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "Sailor Health",
+   "location": "New York \u00b7 On-site 5 days",
+   "role": "Founding Data & Analytics Engineer (NYC)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/sailorhealth/55702dde-a7c4-458c-96aa-487c0f4b3561"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    150000,
+    200000
+   ],
+   "bucket": "in-window",
+   "company": "Short Story",
+   "location": "Remote",
+   "role": "Senior Software Engineer, Full Stack (US, Canada, SF)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/shortstory/a341b692-67e5-4c28-a910-763d0886a123"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    150000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "Sola",
+   "location": "New York \u00b7 On-site 5 days",
+   "role": "Software Engineer, Backend",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/sola/8ae775b2-e137-4d93-8d54-4ce876c7afe0"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    150000,
+    350000
+   ],
+   "bucket": "in-window",
+   "company": "Sola",
+   "location": "New York \u00b7 On-site 5 days",
+   "role": "Software Engineer, ML Platform",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/sola/eecbf467-dc2a-44b2-a167-44299b688c5b"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    160000,
+    300000
+   ],
+   "bucket": "in-window",
+   "company": "Sola",
+   "location": "New York \u00b7 On-site",
+   "role": "Software Engineer, Windows AI Automation",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/sola/9a9c39a9-6a15-4b76-b538-f7d219fdb92e"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "ashby",
+   "band": [
+    215000,
+    250000
+   ],
+   "bucket": "in-window",
+   "company": "Standard Bots",
+   "location": "New York \u00b7 Hybrid 3 days",
+   "role": "Staff Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/standardbots/386e370d-9166-44da-bcf7-c1951a347836"
+  },
+  {
+   "appliedOn": "2026-08-31",
+   "ats": "lever",
+   "band": [
+    140000,
+    220000
+   ],
+   "bucket": "in-window",
+   "company": "Sword Health",
+   "location": "Remote",
+   "role": "Senior DevOps Engineer",
+   "status": "applied",
+   "url": "https://jobs.lever.co/swordhealth/1dcd9aa9-3432-4664-8ca6-ab8b9655b2a3/apply"
   }
  ],
- "generatedFor": "2026-08-30",
+ "generatedFor": "2026-09-01",
  "series": {
   "bandHistogram": [
    [
@@ -6522,41 +7390,41 @@
    ],
    [
     "$200-250k",
-    119
+    137
    ],
    [
     "$250-300k",
-    177
+    204
    ],
    [
     "$300-350k",
-    114
+    124
    ],
    [
     "$350-400k",
-    31
+    32
    ],
    [
     "$400k+",
-    13
+    18
    ]
   ],
   "byAts": [
    [
     "ashby",
-    280
+    330
    ],
    [
     "greenhouse",
-    117
+    124
    ],
    [
     "lever",
-    44
+    48
    ],
    [
     "workable",
-    12
+    13
    ],
    [
     "rippling",
@@ -6647,6 +7515,11 @@
     "2026-08-30",
     126,
     468
+   ],
+   [
+    "2026-08-31",
+    62,
+    530
    ]
   ],
   "latencies": [
@@ -6690,11 +7563,19 @@
     4
    ],
    [
+    "ATG (Autonomous Technologies Group)",
+    3
+   ],
+   [
     "Aledade",
     3
    ],
    [
     "EliseAI",
+    3
+   ],
+   [
+    "GovWell",
     3
    ],
    [
@@ -6720,27 +7601,19 @@
    [
     "Socure",
     3
-   ],
-   [
-    "Toast",
-    3
-   ],
-   [
-    "Agility Robotics",
-    2
    ]
   ]
  },
  "stats": {
-  "clearing300k": 158,
-  "companies": 384,
-  "medianBandTop": 273600.0,
+  "clearing300k": 174,
+  "companies": 435,
+  "medianBandTop": 270000,
   "rejectionLatency": {
    "max": 21,
    "median": 2,
    "n": 17,
    "p90": 8
   },
-  "total": 468
+  "total": 530
  }
 }
