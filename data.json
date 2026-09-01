@@ -7379,6 +7379,126 @@
    "role": "Senior DevOps Engineer",
    "status": "applied",
    "url": "https://jobs.lever.co/swordhealth/1dcd9aa9-3432-4664-8ca6-ab8b9655b2a3/apply"
+  },
+  {
+   "appliedOn": "2026-09-01",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Aura",
+   "location": "New York",
+   "role": "Senior Software Engineer, Infrastructure - Scaling & Performance",
+   "status": "applied",
+   "url": "https://auraframes.com/careers?gh_jid=4090425002"
+  },
+  {
+   "appliedOn": "2026-09-01",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Coder",
+   "location": "Remote",
+   "role": "Senior Forward Deployed Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/coder/afb0b507-24ba-4f39-ac51-739e23ce8938"
+  },
+  {
+   "appliedOn": "2026-09-01",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Crexi",
+   "location": "Remote",
+   "role": "Senior AI Engineer",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/crexi/jobs/4723615005"
+  },
+  {
+   "appliedOn": "2026-09-01",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Dandy",
+   "location": "Remote",
+   "role": "Senior Full Stack Engineer, Web & 3D Integrations",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/dandy/c6e3a2f0-55b4-45bb-9553-a4e981fb9f61"
+  },
+  {
+   "appliedOn": "2026-09-01",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Future",
+   "location": "Remote",
+   "role": "Applied AI Engineer",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/future/jobs/4683133005"
+  },
+  {
+   "appliedOn": "2026-09-01",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Garage",
+   "location": "New York \u00b7 On-site",
+   "role": "Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/garage/f4018670-2c66-4da9-acac-2aa0af432abb"
+  },
+  {
+   "appliedOn": "2026-09-01",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Honeycomb.io",
+   "location": "Remote",
+   "role": "Senior Software Engineer II - Agentic Intelligence",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/honeycomb/jobs/5373987008"
+  },
+  {
+   "appliedOn": "2026-09-01",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "LeafLink",
+   "location": "Remote",
+   "role": "Staff Data Engineer",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/leaflink/jobs/8657226002"
+  },
+  {
+   "appliedOn": "2026-09-01",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Mattermost",
+   "location": "Remote",
+   "role": "Staff Full Stack Engineer",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/mattermost/jobs/5405811008"
+  },
+  {
+   "appliedOn": "2026-09-01",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Tebra",
+   "location": "Remote",
+   "role": "Staff Software Engineer, AI Engineering",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/tebra/jobs/4666555005"
+  },
+  {
+   "appliedOn": "2026-09-01",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Vannevar",
+   "location": "Remote",
+   "role": "Senior Software Engineer, Full-Stack - Security Platform",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/vannevarlabs/jobs/5196044007"
+  },
+  {
+   "appliedOn": "2026-09-01",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Zeta Global",
+   "location": "Remote",
+   "role": "Lead Software Engineer - Core AI",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/zetaglobal/jobs/5689115004"
   }
  ],
  "generatedFor": "2026-09-01",
@@ -7412,11 +7532,11 @@
   "byAts": [
    [
     "ashby",
-    330
+    333
    ],
    [
     "greenhouse",
-    124
+    133
    ],
    [
     "lever",
@@ -7520,6 +7640,11 @@
     "2026-08-31",
     62,
     530
+   ],
+   [
+    "2026-09-01",
+    12,
+    542
    ]
   ],
   "latencies": [
@@ -7606,7 +7731,7 @@
  },
  "stats": {
   "clearing300k": 174,
-  "companies": 435,
+  "companies": 447,
   "medianBandTop": 270000,
   "rejectionLatency": {
    "max": 21,
@@ -7614,6 +7739,6 @@
    "n": 17,
    "p90": 8
   },
-  "total": 530
+  "total": 542
  }
 }
