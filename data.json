@@ -8388,6 +8388,186 @@
    "role": "Site Reliability Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/workos/cff5a16f-fd1c-4b64-9b66-8a8321122375"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Axion",
+   "location": "",
+   "role": "Senior Infrastructure Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/axion/bbf4a041-5933-47dc-9dda-c35f7e960598"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Cohere",
+   "location": "",
+   "role": "Software Engineer, Data Infrastructure",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/cohere/6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Confluent",
+   "location": "",
+   "role": "Staff Software Engineer I (Tableflow / Kora storage)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/confluent/bef7f6a5-2481-4eb6-a760-86e3746600bb"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Crosby",
+   "location": "",
+   "role": "Member of Technical Staff, Platform",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/crosby/e5e089e9-7074-4fd8-99aa-fbb067d0b6cd"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Hex",
+   "location": "",
+   "role": "Software Engineer, Backend (Platform)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/hex/a059b174-d3ac-4916-b66b-eacdcf436500"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Horizon3.ai",
+   "location": "",
+   "role": "Principal Engineer, Tech Lead - Platform Integration Team",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/horizon3ai/c4bc25ed-f7cf-488a-8490-7827d05d207b"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "lever",
+   "bucket": "in-window",
+   "company": "Istari Digital",
+   "location": "",
+   "role": "DevSecOps Engineer",
+   "status": "applied",
+   "url": "https://jobs.lever.co/istaridigital.ai/69e4b6ad-dc1a-4b84-991d-2f293c766769"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Kalshi",
+   "location": "",
+   "role": "Software Engineer, Trading Platform",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/kalshi/13c4b111-5dab-4560-9843-70c06c1acf6e"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "lever",
+   "bucket": "in-window",
+   "company": "LogRocket",
+   "location": "",
+   "role": "Senior Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.lever.co/logrocket/0aa8b60f-1a74-4e53-b23a-8d5dc7c497a8"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "lever",
+   "bucket": "in-window",
+   "company": "Match Group (Hinge)",
+   "location": "",
+   "role": "Senior Backend Engineer",
+   "status": "applied",
+   "url": "https://jobs.lever.co/matchgroup/eee3f501-72ed-4d28-a25b-8a18288a60d6"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Notion",
+   "location": "",
+   "role": "Software Engineer, Developer Experience (Go Lead)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/notion/876c69a9-be0a-4a71-bf4a-04cbc9c6328e"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Onebrief",
+   "location": "",
+   "role": "Staff Infrastructure Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/onebrief/d0a2a49a-e1e4-4fcb-90ab-9e76238c9b5f"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Reddit",
+   "location": "",
+   "role": "Senior Staff Machine Learning Systems Engineer, Ads ML Platform",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/reddit/jobs/8157275"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Render",
+   "location": "",
+   "role": "Software Engineer, Network Infrastructure",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/render/88cb74a4-bc28-40b1-b792-d3041e3e17d3"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Teleport",
+   "location": "",
+   "role": "Senior Backend Engineer - Application Access",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/goteleport/b7c4e513-7c41-4c39-8247-c5a3360a8e8a"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Traversal",
+   "location": "",
+   "role": "AI Engineer - Backend",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/traversal/24a6c836-ccb6-4702-800a-4087c01296d8"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Traversal",
+   "location": "",
+   "role": "AI Engineer - Cloud Infrastructure",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/traversal/17fc1806-b28f-409e-b7b3-6a4f6b415553"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Upside",
+   "location": "",
+   "role": "Staff Forward Deployed Engineer, GTM Platform",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/upside/3399cd25-3cc1-45f9-98da-4cf60c8f3123"
   }
  ],
  "generatedFor": "2026-09-09",
@@ -8421,15 +8601,15 @@
   "byAts": [
    [
     "ashby",
-    381
+    395
    ],
    [
     "greenhouse",
-    157
+    158
    ],
    [
     "lever",
-    48
+    51
    ],
    [
     "workable",
@@ -8549,6 +8729,11 @@
     "2026-09-04",
     52,
     615
+   ],
+   [
+    "2026-09-09",
+    18,
+    633
    ]
   ],
   "latencies": [
@@ -8659,11 +8844,11 @@
     5
    ],
    [
-    "Polymarket",
-    4
+    "Reddit",
+    5
    ],
    [
-    "Reddit",
+    "Polymarket",
     4
    ],
    [
@@ -8683,6 +8868,18 @@
     3
    ],
    [
+    "Cohere",
+    3
+   ],
+   [
+    "Confluent",
+    3
+   ],
+   [
+    "Crosby",
+    3
+   ],
+   [
     "Doppel",
     3
    ],
@@ -8692,18 +8889,6 @@
    ],
    [
     "GitLab",
-    3
-   ],
-   [
-    "GovWell",
-    3
-   ],
-   [
-    "Harvey",
-    3
-   ],
-   [
-    "Hebbia",
     3
    ]
   ]
@@ -8718,6 +8903,6 @@
    "n": 92,
    "p90": 8
   },
-  "total": 615
+  "total": 633
  }
 }
