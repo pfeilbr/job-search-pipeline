@@ -8443,6 +8443,16 @@
    "appliedOn": "2026-09-09",
    "ats": "ashby",
    "bucket": "in-window",
+   "company": "Arlo",
+   "location": "",
+   "role": "Senior ML Infrastructure Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/arlo/e7ff21eb-689e-47d4-973f-d5c77d8c2ad0"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "ashby",
+   "bucket": "in-window",
    "company": "Astra",
    "location": "",
    "role": "Senior Backend Engineer",
@@ -8511,6 +8521,26 @@
   },
   {
    "appliedOn": "2026-09-09",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Databricks",
+   "location": "",
+   "role": "Specialist Solutions Architect - Data Warehousing (Healthcare & Life Sciences)",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/databricks/jobs/8604472002"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "EliseAI",
+   "location": "",
+   "role": "Senior Platform Operations Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/eliseai/754c4912-a2db-47b0-a42e-411fa9d72b0c"
+  },
+  {
+   "appliedOn": "2026-09-09",
    "ats": "ashby",
    "bucket": "in-window",
    "company": "Harvey",
@@ -8518,6 +8548,16 @@
    "role": "Senior Software Engineer, Data Platform",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/harvey/79bef873-33b0-4b8b-b5f0-2256b2751907"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Hebbia AI",
+   "location": "",
+   "role": "Backend Engineer, Growth and Data",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/hebbia-ai/1710a563-14df-45c5-a6b1-a62adcdead89"
   },
   {
    "appliedOn": "2026-09-09",
@@ -8568,6 +8608,16 @@
    "role": "Software Engineer, Trading Platform",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/kalshi/13c4b111-5dab-4560-9843-70c06c1acf6e"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Linero",
+   "location": "",
+   "role": "Senior Engineer, Backend",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/linero/ea444499-dc8e-4980-807b-b93baf7a5ef2"
   },
   {
    "appliedOn": "2026-09-09",
@@ -8791,11 +8841,11 @@
   "byAts": [
    [
     "ashby",
-    411
+    415
    ],
    [
     "greenhouse",
-    160
+    161
    ],
    [
     "lever",
@@ -8922,8 +8972,8 @@
    ],
    [
     "2026-09-09",
-    34,
-    652
+    39,
+    657
    ]
   ],
   "latencies": [
@@ -9038,6 +9088,10 @@
     5
    ],
    [
+    "EliseAI",
+    4
+   ],
+   [
     "Harvey",
     4
    ],
@@ -9062,6 +9116,10 @@
     3
    ],
    [
+    "Arlo",
+    3
+   ],
+   [
     "Astronomer",
     3
    ],
@@ -9072,20 +9130,12 @@
    [
     "Confluent",
     3
-   ],
-   [
-    "Crosby",
-    3
-   ],
-   [
-    "Doppel",
-    3
    ]
   ]
  },
  "stats": {
   "clearing300k": 179,
-  "companies": 481,
+  "companies": 482,
   "medianBandTop": 270000.0,
   "rejectionLatency": {
    "max": 21,
@@ -9093,6 +9143,6 @@
    "n": 92,
    "p90": 8
   },
-  "total": 652
+  "total": 657
  }
 }
