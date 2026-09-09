@@ -7814,6 +7814,16 @@
   },
   {
    "appliedOn": "2026-09-03",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "AcuityMD",
+   "location": "",
+   "role": "(role not stated in the acknowledgement)",
+   "status": "applied",
+   "url": "https://boards.greenhouse.io/acuitymd"
+  },
+  {
+   "appliedOn": "2026-09-03",
    "ats": "ashby",
    "band": [
     120000,
@@ -7825,6 +7835,16 @@
    "role": "Staff Software Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/compound/cc720738-cc92-43cb-a7ae-d021ea7757d7/application"
+  },
+  {
+   "appliedOn": "2026-09-03",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Compound",
+   "location": "",
+   "role": "Staff Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/compound"
   },
   {
    "appliedOn": "2026-09-03",
@@ -8373,6 +8393,16 @@
    "appliedOn": "2026-09-04",
    "ats": "ashby",
    "bucket": "in-window",
+   "company": "Teleport",
+   "location": "",
+   "role": "Site Reliability Engineer (Forward Deployed)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/goteleport"
+  },
+  {
+   "appliedOn": "2026-09-04",
+   "ats": "ashby",
+   "bucket": "in-window",
    "company": "Titan",
    "location": "",
    "role": "Senior Backend / Infrastructure Engineer - TypeScript",
@@ -8398,6 +8428,16 @@
    "role": "Staff Platform Engineer, Core Cloud Platform",
    "status": "applied",
    "url": "https://job-boards.greenhouse.io/alphasense/jobs/8687627002"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Arca",
+   "location": "",
+   "role": "Member of Technical Staff, Agent Platform",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/arca/214a5d9c-a046-4a4b-9cdb-b301a8a8e8cf"
   },
   {
    "appliedOn": "2026-09-09",
@@ -8551,6 +8591,16 @@
   },
   {
    "appliedOn": "2026-09-09",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Manifest OS",
+   "location": "",
+   "role": "Staff Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/manifest-os/2b9dbd08-c917-486d-90a7-723aba68c169"
+  },
+  {
+   "appliedOn": "2026-09-09",
    "ats": "lever",
    "bucket": "in-window",
    "company": "Match Group (Hinge)",
@@ -8588,6 +8638,16 @@
    "role": "Staff Infrastructure Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/onebrief/d0a2a49a-e1e4-4fcb-90ab-9e76238c9b5f"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Phantom",
+   "location": "",
+   "role": "Software Engineer, Backend (Trading)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/phantom/d8ee7f59-0f80-437f-908e-bfe603cb078a"
   },
   {
    "appliedOn": "2026-09-09",
@@ -8731,11 +8791,11 @@
   "byAts": [
    [
     "ashby",
-    406
+    411
    ],
    [
     "greenhouse",
-    159
+    160
    ],
    [
     "lever",
@@ -8852,18 +8912,18 @@
    ],
    [
     "2026-09-03",
-    4,
-    563
+    6,
+    565
    ],
    [
     "2026-09-04",
-    52,
-    615
+    53,
+    618
    ],
    [
     "2026-09-09",
-    31,
-    646
+    34,
+    652
    ]
   ],
   "latencies": [
@@ -8998,6 +9058,10 @@
     3
    ],
    [
+    "Arca",
+    3
+   ],
+   [
     "Astronomer",
     3
    ],
@@ -9016,16 +9080,12 @@
    [
     "Doppel",
     3
-   ],
-   [
-    "EliseAI",
-    3
    ]
   ]
  },
  "stats": {
   "clearing300k": 179,
-  "companies": 479,
+  "companies": 481,
   "medianBandTop": 270000.0,
   "rejectionLatency": {
    "max": 21,
@@ -9033,6 +9093,6 @@
    "n": 92,
    "p90": 8
   },
-  "total": 646
+  "total": 652
  }
 }
