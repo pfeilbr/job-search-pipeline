@@ -923,7 +923,7 @@
     204000,
     264000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Affirm",
    "location": "Remote",
    "role": "Staff Software Engineer, Backend (Lake Analytics Platform)",
@@ -937,7 +937,7 @@
     204000,
     264000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Affirm",
    "location": "Remote",
    "role": "Staff Software Engineer, Backend (Online Storage)",
@@ -951,7 +951,7 @@
     204000,
     264000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Affirm",
    "location": "Remote",
    "role": "Staff Software Engineer, Backend (Order Platform)",
@@ -980,7 +980,7 @@
     246000,
     339000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "AlphaSense",
    "location": "Remote",
    "role": "Principal Cloud DX Software Engineer (CI/CD)",
@@ -994,7 +994,7 @@
     246000,
     339000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "AlphaSense",
    "location": "Remote",
    "role": "Principal Engineer, Developer Experience (DevEx)",
@@ -1008,7 +1008,7 @@
     246000,
     339000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "AlphaSense",
    "location": "Remote",
    "role": "Principal Software Engineer, Financial Data Platform & GenSearch Agent",
@@ -1022,7 +1022,7 @@
     246000,
     339000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "AlphaSense",
    "location": "Remote",
    "role": "Principal Software Engineer \u2013 Platform Engineering",
@@ -1036,7 +1036,7 @@
     238968,
     347488
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Calendly",
    "location": "Remote",
    "role": "Staff Platform Engineer",
@@ -1050,7 +1050,7 @@
     250000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "ClickUp",
    "location": "Remote",
    "role": "Staff AI Engineer, AI Product",
@@ -1064,7 +1064,7 @@
     200000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "ClickUp",
    "location": "Remote",
    "role": "Staff Backend Engineer, Hierarchy",
@@ -1078,7 +1078,7 @@
     265000,
     331000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Headway",
    "location": "Remote",
    "role": "Staff Software Engineer - Experimentation",
@@ -1092,7 +1092,7 @@
     240000,
     280000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Hims & Hers",
    "location": "Remote",
    "role": "Sr. Staff Engineer (Backend)",
@@ -1106,7 +1106,7 @@
     190000,
     240000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Hims & Hers",
    "location": "Remote",
    "role": "Staff Engineer, AI-Assisted Engineering Practices",
@@ -1120,7 +1120,7 @@
     190000,
     270000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Pinecone",
    "location": "Remote",
    "role": "Senior/Staff Software Engineer, Experience",
@@ -1130,7 +1130,7 @@
   {
    "appliedOn": "2026-08-26",
    "ats": "greenhouse",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "SentinelOne",
    "location": "Remote",
    "role": "Principal Architect, AI Developer Experience Platform",
@@ -1140,7 +1140,7 @@
   {
    "appliedOn": "2026-08-26",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Surge AI",
    "location": "Remote",
    "role": "Staff Fullstack Engineer",
@@ -3199,11 +3199,12 @@
     240000,
     270000
    ],
-   "bucket": "going-quiet",
+   "bucket": "rejected",
    "company": "Sigma Computing",
    "location": "New York \u00b7 On-site 4 days",
+   "rejectedOn": "2026-09-09",
    "role": "Staff Software Engineer, Backend",
-   "status": "applied",
+   "status": "rejected",
    "url": "https://job-boards.greenhouse.io/embed/job_app?for=sigmacomputing&token=7767903003"
   },
   {
@@ -7451,7 +7452,7 @@
   {
    "appliedOn": "2026-09-01",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Aura",
    "location": "New York",
    "role": "Senior Software Engineer, Infrastructure - Scaling & Performance",
@@ -7461,7 +7462,7 @@
   {
    "appliedOn": "2026-09-01",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Coder",
    "location": "Remote",
    "role": "Senior Forward Deployed Engineer",
@@ -7471,7 +7472,7 @@
   {
    "appliedOn": "2026-09-01",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Crexi",
    "location": "Remote",
    "role": "Senior AI Engineer",
@@ -7481,7 +7482,7 @@
   {
    "appliedOn": "2026-09-01",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Dandy",
    "location": "Remote",
    "role": "Senior Full Stack Engineer, Web & 3D Integrations",
@@ -7491,7 +7492,7 @@
   {
    "appliedOn": "2026-09-01",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Future",
    "location": "Remote",
    "role": "Applied AI Engineer",
@@ -7501,7 +7502,7 @@
   {
    "appliedOn": "2026-09-01",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Garage",
    "location": "New York \u00b7 On-site",
    "role": "Software Engineer",
@@ -7511,7 +7512,7 @@
   {
    "appliedOn": "2026-09-01",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Honeycomb.io",
    "location": "Remote",
    "role": "Senior Software Engineer II - Agentic Intelligence",
@@ -7521,7 +7522,7 @@
   {
    "appliedOn": "2026-09-01",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "LeafLink",
    "location": "Remote",
    "role": "Staff Data Engineer",
@@ -7553,7 +7554,7 @@
   {
    "appliedOn": "2026-09-01",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Vannevar",
    "location": "Remote",
    "role": "Senior Software Engineer, Full-Stack - Security Platform",
@@ -7563,7 +7564,7 @@
   {
    "appliedOn": "2026-09-01",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Zeta Global",
    "location": "Remote",
    "role": "Lead Software Engineer - Core AI",
@@ -8491,6 +8492,16 @@
   },
   {
    "appliedOn": "2026-09-09",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Clear Street",
+   "location": "",
+   "role": "Senior / Staff Full-Stack Product Engineer",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/clearstreet/jobs/8053489"
+  },
+  {
+   "appliedOn": "2026-09-09",
    "ats": "ashby",
    "bucket": "in-window",
    "company": "Cohere",
@@ -8508,6 +8519,16 @@
    "role": "Staff Software Engineer I (Tableflow / Kora storage)",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/confluent/bef7f6a5-2481-4eb6-a760-86e3746600bb"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Cresta",
+   "location": "",
+   "role": "Senior Software Engineer, Backend (AI Agent)",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/cresta/jobs/5133464008"
   },
   {
    "appliedOn": "2026-09-09",
@@ -8538,6 +8559,16 @@
    "role": "Senior Platform Operations Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/eliseai/754c4912-a2db-47b0-a42e-411fa9d72b0c"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Gemini",
+   "location": "",
+   "role": "Staff Platform Security Engineer",
+   "status": "applied",
+   "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7905050&gh_jid=7905050"
   },
   {
    "appliedOn": "2026-09-09",
@@ -8661,6 +8692,16 @@
   },
   {
    "appliedOn": "2026-09-09",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Maven Clinic",
+   "location": "",
+   "role": "Staff Software Engineer, Backend Engineering",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/mavenclinic/jobs/7068148002"
+  },
+  {
+   "appliedOn": "2026-09-09",
    "ats": "ashby",
    "bucket": "in-window",
    "company": "Northslope Technologies",
@@ -8672,11 +8713,12 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "rejected",
    "company": "Notion",
    "location": "",
+   "rejectedOn": "2026-09-10",
    "role": "Software Engineer, Developer Experience (Go Lead)",
-   "status": "applied",
+   "status": "rejected",
    "url": "https://jobs.ashbyhq.com/notion/876c69a9-be0a-4a71-bf4a-04cbc9c6328e"
   },
   {
@@ -8808,9 +8850,29 @@
    "role": "Staff Forward Deployed Engineer, GTM Platform",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/upside/3399cd25-3cc1-45f9-98da-4cf60c8f3123"
+  },
+  {
+   "appliedOn": "2026-09-09",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Zeta Global",
+   "location": "",
+   "role": "Lead Application Security Engineer",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/zetaglobal/jobs/6115724004"
+  },
+  {
+   "appliedOn": "2026-09-10",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Sigma Computing",
+   "location": "",
+   "role": "Staff Software Engineer - Fullstack",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7767911003"
   }
  ],
- "generatedFor": "2026-09-09",
+ "generatedFor": "2026-09-10",
  "series": {
   "bandHistogram": [
    [
@@ -8845,7 +8907,7 @@
    ],
    [
     "greenhouse",
-    161
+    167
    ],
    [
     "lever",
@@ -8972,13 +9034,19 @@
    ],
    [
     "2026-09-09",
-    39,
-    657
+    44,
+    662
+   ],
+   [
+    "2026-09-10",
+    1,
+    663
    ]
   ],
   "latencies": [
    0,
    0,
+   1,
    1,
    1,
    1,
@@ -9067,6 +9135,7 @@
    10,
    10,
    11,
+   12,
    18,
    21
   ],
@@ -9093,6 +9162,10 @@
    ],
    [
     "Harvey",
+    4
+   ],
+   [
+    "Maven Clinic",
     4
    ],
    [
@@ -9126,10 +9199,6 @@
    [
     "Cohere",
     3
-   ],
-   [
-    "Confluent",
-    3
    ]
   ]
  },
@@ -9140,9 +9209,9 @@
   "rejectionLatency": {
    "max": 21,
    "median": 5.0,
-   "n": 92,
+   "n": 94,
    "p90": 8
   },
-  "total": 657
+  "total": 663
  }
 }
