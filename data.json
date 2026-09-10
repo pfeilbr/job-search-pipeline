@@ -1915,11 +1915,12 @@
     168000,
     286000
    ],
-   "bucket": "active",
+   "bucket": "rejected",
    "company": "DoubleVerify",
    "location": "New York \u00b7 Hybrid 3 days",
+   "rejectedOn": "2026-09-10",
    "role": "Staff Enterprise Architect (Business Domains & Systems)",
-   "status": "screening",
+   "status": "rejected",
    "url": "https://job-boards.greenhouse.io/doubleverify/jobs/8525337002"
   },
   {
@@ -2986,11 +2987,12 @@
     170000,
     270000
    ],
-   "bucket": "going-quiet",
+   "bucket": "rejected",
    "company": "Rho",
    "location": "NYC \u00b7 On-site 5 days",
+   "rejectedOn": "2026-09-10",
    "role": "Senior Software Engineer",
-   "status": "applied",
+   "status": "rejected",
    "url": "https://jobs.ashbyhq.com/rho/6a9e17f7-7239-44f8-afc0-3988a237d8d4"
   },
   {
@@ -3298,11 +3300,12 @@
     185500,
     299000
    ],
-   "bucket": "going-quiet",
+   "bucket": "rejected",
    "company": "Squarespace",
    "location": "New York",
+   "rejectedOn": "2026-09-10",
    "role": "Staff Software Engineer, Backend (Revenue Systems)",
-   "status": "applied",
+   "status": "rejected",
    "url": "http://www.squarespace.com/about/careers?gh_jid=8125420"
   },
   {
@@ -3876,11 +3879,12 @@
     210000,
     270000
    ],
-   "bucket": "going-quiet",
+   "bucket": "rejected",
    "company": "Charta Health",
    "location": "New York \u00b7 On-site 5 days",
+   "rejectedOn": "2026-09-10",
    "role": "Software Engineer, Staff",
-   "status": "applied",
+   "status": "rejected",
    "url": "https://jobs.ashbyhq.com/chartahealth/445c6835-dc8e-4d66-997f-cb0052137938"
   },
   {
@@ -6765,11 +6769,11 @@
     180000,
     230000
    ],
-   "bucket": "going-quiet",
+   "bucket": "active",
    "company": "Antioch",
    "location": "New York \u00b7 On-site 5 days",
    "role": "Member of Technical Staff, Core Platform",
-   "status": "applied",
+   "status": "screening",
    "url": "https://jobs.ashbyhq.com/antioch/e1addc39-2020-4096-91e6-25541f37dfb8"
   },
   {
@@ -6919,11 +6923,12 @@
     null,
     252800
    ],
-   "bucket": "going-quiet",
+   "bucket": "rejected",
    "company": "Elastic",
    "location": "Remote",
+   "rejectedOn": "2026-09-10",
    "role": "GenAI Security - Principal Security Research Engineer (TRaDE)",
-   "status": "applied",
+   "status": "rejected",
    "url": "https://jobs.elastic.co/jobs?gh_jid=8079640"
   },
   {
@@ -9134,8 +9139,13 @@
    10,
    10,
    10,
+   10,
    11,
    12,
+   12,
+   13,
+   13,
+   13,
    18,
    21
   ],
@@ -9208,9 +9218,9 @@
   "medianBandTop": 270000.0,
   "rejectionLatency": {
    "max": 21,
-   "median": 5.0,
-   "n": 94,
-   "p90": 8
+   "median": 5,
+   "n": 99,
+   "p90": 10
   },
   "total": 663
  }
