@@ -1169,7 +1169,7 @@
     204000,
     264000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Affirm",
    "location": "Remote",
    "role": "Staff Software Engineer, Affirm Bank",
@@ -1183,7 +1183,7 @@
     204000,
     264000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Affirm",
    "location": "Remote",
    "role": "Staff Software Engineer (Continuous Integration)",
@@ -1197,7 +1197,7 @@
     246000,
     339000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "AlphaSense",
    "location": "Remote",
    "role": "Principal Software Engineer",
@@ -1210,7 +1210,7 @@
     232000,
     299000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Ashby",
    "location": "Remote",
    "role": "Staff Product Engineer, Americas",
@@ -1224,7 +1224,7 @@
     285000,
     342000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Confluent",
    "location": "Remote",
    "role": "Principal Engineer I, Governance",
@@ -1238,7 +1238,7 @@
     225000,
     265000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Cribl",
    "location": "Remote",
    "role": "Staff Software Engineer, Cribl AI",
@@ -1252,7 +1252,7 @@
     200700,
     298800
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Mercury",
    "location": "Remote",
    "role": "Staff Software Engineer, Fraud",
@@ -7583,7 +7583,7 @@
     248000,
     310000
    ],
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Airbnb",
    "location": "Remote",
    "role": "Senior Staff Data Engineer - Data Stewardship",
@@ -7597,7 +7597,7 @@
     190000,
     225000
    ],
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "AssemblyAI",
    "location": "New York",
    "role": "Senior Software Engineer, Inference",
@@ -7611,7 +7611,7 @@
     170000,
     205000
    ],
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Beyond Finance",
    "location": "Remote",
    "role": "Lead Data Platform Engineer",
@@ -7625,7 +7625,7 @@
     140000,
     210000
    ],
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Close",
    "location": "Remote",
    "role": "Senior Backend Engineer - Backend Platform (USA Only, 100% Remote)",
@@ -7654,7 +7654,7 @@
     196033,
     245041
    ],
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Fivetran",
    "location": "New York \u00b7 Hybrid 2-3 days",
    "role": "Staff R&D Software Engineer, Fivetran AI",
@@ -7668,7 +7668,7 @@
     200000,
     265000
    ],
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Hex",
    "location": "Remote",
    "role": "Cloud Security Engineer",
@@ -7682,7 +7682,7 @@
     190000,
     230000
    ],
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Human Interest",
    "location": "Remote",
    "role": "Senior Software Engineer",
@@ -7696,7 +7696,7 @@
     211000,
     248000
    ],
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Liftoff",
    "location": "Remote",
    "role": "Senior Gen AI Software Engineer",
@@ -7710,7 +7710,7 @@
     197500,
     220000
    ],
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Lob",
    "location": "Remote",
    "role": "Staff Security Engineer, Cloud and Product Security",
@@ -7724,7 +7724,7 @@
     130000,
     500000
    ],
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Mercor",
    "location": "New York \u00b7 On-site 5 days",
    "role": "Software Engineer, Platform (Contracts / Identity & Access)",
@@ -7753,7 +7753,7 @@
     232000,
     347500
    ],
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Patreon",
    "location": "New York \u00b7 On-site",
    "role": "Staff Software Engineer, Data Infrastructure",
@@ -7797,7 +7797,7 @@
     144000,
     209000
    ],
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "SeatGeek",
    "location": "Remote",
    "role": "Senior Software Engineer",
@@ -7811,7 +7811,7 @@
     179500,
     224300
    ],
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Tavily",
    "location": "New York \u00b7 On-site",
    "role": "Forward Deployed Engineer, Enterprise",
@@ -8868,6 +8868,26 @@
   },
   {
    "appliedOn": "2026-09-10",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Cape",
+   "location": "",
+   "role": "Lead Distributed Systems Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/cape/7d19a584-40c0-47ea-9729-53a82d70a625"
+  },
+  {
+   "appliedOn": "2026-09-10",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Komodo Health",
+   "location": "",
+   "role": "Senior/Staff Platform Engineer",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/komodohealth/jobs/8546790002"
+  },
+  {
+   "appliedOn": "2026-09-10",
    "ats": "greenhouse",
    "bucket": "in-window",
    "company": "Sigma Computing",
@@ -8875,9 +8895,99 @@
    "role": "Staff Software Engineer - Fullstack",
    "status": "applied",
    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7767911003"
+  },
+  {
+   "appliedOn": "2026-09-11",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Addepar",
+   "location": "",
+   "role": "Staff Backend Software Engineer - Platform Integration",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/addepar1/jobs/8569217002"
+  },
+  {
+   "appliedOn": "2026-09-11",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Alloy",
+   "location": "",
+   "role": "Lead Site Reliability Engineer",
+   "status": "applied",
+   "url": "https://www.alloy.com/about/jobs/detail?gh_jid=8494881002"
+  },
+  {
+   "appliedOn": "2026-09-11",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Clover Health",
+   "location": "",
+   "role": "Senior Site Reliability Engineer",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/cloverhealth/jobs/8074957"
+  },
+  {
+   "appliedOn": "2026-09-11",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "CoreWeave",
+   "location": "",
+   "role": "Staff Systems Engineer (Architect)",
+   "status": "applied",
+   "url": "https://coreweave.com/careers/job?4674279006&board=coreweave&gh_jid=4674279006"
+  },
+  {
+   "appliedOn": "2026-09-11",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "DoorDash",
+   "location": "",
+   "role": "Software Engineer, Cloud Infrastructure",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8180903"
+  },
+  {
+   "appliedOn": "2026-09-11",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Fastly",
+   "location": "",
+   "role": "Staff Software Engineer - Control Systems",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=fastly&token=8094476"
+  },
+  {
+   "appliedOn": "2026-09-11",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "LaunchDarkly",
+   "location": "",
+   "role": "Senior Backend Engineer, Flag Delivery",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7861200003"
+  },
+  {
+   "appliedOn": "2026-09-11",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Lightning AI",
+   "location": "",
+   "role": "Senior Backend Engineer, Managed Services",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/lightningai/jobs/7816026003"
+  },
+  {
+   "appliedOn": "2026-09-11",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Oscar Health",
+   "location": "",
+   "role": "Senior Software Engineer, Cloud Infrastructure / SRE",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/embed/job_app?for=oscar&token=7572045"
   }
  ],
- "generatedFor": "2026-09-10",
+ "generatedFor": "2026-09-11",
  "series": {
   "bandHistogram": [
    [
@@ -8908,11 +9018,11 @@
   "byAts": [
    [
     "ashby",
-    415
+    416
    ],
    [
     "greenhouse",
-    167
+    177
    ],
    [
     "lever",
@@ -9044,8 +9154,13 @@
    ],
    [
     "2026-09-10",
-    1,
-    663
+    3,
+    665
+   ],
+   [
+    "2026-09-11",
+    9,
+    674
    ]
   ],
   "latencies": [
@@ -9207,7 +9322,7 @@
     3
    ],
    [
-    "Cohere",
+    "Cape",
     3
    ]
   ]
@@ -9222,6 +9337,6 @@
    "n": 99,
    "p90": 10
   },
-  "total": 663
+  "total": 674
  }
 }
