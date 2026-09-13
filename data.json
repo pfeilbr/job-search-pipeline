@@ -1266,7 +1266,7 @@
     228000,
     290000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Abridge",
    "location": "NYC",
    "role": "Staff Platform Engineer",
@@ -1280,7 +1280,7 @@
     220000,
     270000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Adaptive",
    "location": "New York \u00b7 On-site",
    "role": "Staff Software Engineer",
@@ -1294,7 +1294,7 @@
     191000,
     299000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Agility Robotics",
    "location": "Hybrid",
    "role": "Staff Software Engineer, Data Platform",
@@ -1315,7 +1315,7 @@
   {
    "appliedOn": "2026-08-28",
    "ats": "lever",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Aledade",
    "location": "Remote",
    "role": "Principal Engineer - AI Products & Platform",
@@ -1325,7 +1325,7 @@
   {
    "appliedOn": "2026-08-28",
    "ats": "lever",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Aledade",
    "location": "Remote",
    "role": "Staff Software Engineer - Data Ingestion",
@@ -1339,7 +1339,7 @@
     225000,
     350000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Aleph",
    "location": "On-site",
    "role": "Staff+ Software Engineer, AI",
@@ -1349,7 +1349,7 @@
   {
    "appliedOn": "2026-08-28",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Allara Health",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Staff Software Engineer",
@@ -1359,7 +1359,7 @@
   {
    "appliedOn": "2026-08-28",
    "ats": "lever",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Anchorage Digital",
    "location": "New York \u00b7 On-site",
    "role": "Member of Technical Staff, Security",
@@ -1403,7 +1403,7 @@
     277000,
     390000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Astronomer",
    "location": "New York \u00b7 Hybrid",
    "role": "Principal Software Engineer",
@@ -1417,7 +1417,7 @@
     275000,
     377000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Astronomer",
    "location": "New York \u00b7 Hybrid",
    "role": "Staff Software Engineer, Platform Infrastructure",
@@ -1431,7 +1431,7 @@
     250000,
     350000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Auctor",
    "location": "New York \u00b7 On-site 5 days",
    "role": "Senior Software Engineer, Backend",
@@ -1441,7 +1441,7 @@
   {
    "appliedOn": "2026-08-28",
    "ats": "icims",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Bank of China, USA",
    "location": "New York \u00b7 Hybrid",
    "role": "Chief Data Office - Data Analytics VP",
@@ -1455,7 +1455,7 @@
     165000,
     330000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Baseten",
    "location": "New York \u00b7 Hybrid",
    "role": "Cloud Platform Engineer",
@@ -1469,7 +1469,7 @@
     190000,
     220000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Benepass",
    "location": "Remote",
    "role": "Lead AI Systems Engineer",
@@ -1483,7 +1483,7 @@
     202000,
     237500
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Bestow",
    "location": "Remote",
    "role": "Staff Backend Engineer (IPC Engineering)",
@@ -1497,7 +1497,7 @@
     230000,
     270000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Betterment",
    "location": "New York \u00b7 Hybrid",
    "role": "Sr. Staff Engineer (AI Platform)",
@@ -1511,7 +1511,7 @@
     240000,
     330000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Binti",
    "location": "Remote",
    "role": "Staff/Principal Application Security Engineer",
@@ -1540,7 +1540,7 @@
     230000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Brellium",
    "location": "New York \u00b7 On-site 4 days",
    "role": "Senior Backend / Infrastructure Engineer",
@@ -1554,7 +1554,7 @@
     194000,
     263000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Brightwheel",
    "location": "Remote",
    "role": "Principal AI Software Engineer, Product",
@@ -1568,7 +1568,7 @@
     183000,
     237000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Bubble",
    "location": "NYC \u00b7 On-site",
    "role": "Senior Software Engineer, Backend (Platform team)",
@@ -1582,7 +1582,7 @@
     205000,
     265000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Button",
    "location": "New York \u00b7 Remote",
    "role": "Senior Staff Software Engineer, Full Stack",
@@ -1596,7 +1596,7 @@
     240000,
     310000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Candid Health",
    "location": "New York \u00b7 On-site",
    "role": "Principal Security Engineer",
@@ -1610,7 +1610,7 @@
     181289,
     285272
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "CaptivateIQ",
    "location": "Hybrid",
    "role": "Staff Software Engineer - AI Platform (Agentic SDK)",
@@ -1620,7 +1620,7 @@
   {
    "appliedOn": "2026-08-28",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Cerebras Systems",
    "location": "Remote",
    "role": "Principal Engineer, AI Inference Reliability",
@@ -1634,7 +1634,7 @@
     223000,
     308000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Chime",
    "location": "New York \u00b7 On-site 4 days",
    "role": "Staff Full-Stack Software Engineer, AI & App Experience (Jade)",
@@ -1648,7 +1648,7 @@
     200000,
     350000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Clear Street",
    "location": "NYC \u00b7 Remote",
    "role": "Senior / Staff AI Platform Engineer",
@@ -1662,7 +1662,7 @@
     195000,
     270000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Clover Health",
    "location": "Remote",
    "role": "Principal Engineer, Cloud Infrastructure",
@@ -1691,7 +1691,7 @@
     180000,
     275000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Cohere",
    "location": "Remote",
    "role": "Senior/Staff Software Engineer, Developer Experience",
@@ -1705,7 +1705,7 @@
     185000,
     225000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Cohere Health",
    "location": "Boston \u00b7 On-site",
    "role": "Staff Software Engineer - Platform Engineering",
@@ -1719,7 +1719,7 @@
     300000,
     330000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Confido",
    "location": "NYC \u00b7 On-site 5 days",
    "role": "Staff Software Engineer",
@@ -1748,7 +1748,7 @@
     250000,
     360000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Crosby",
    "location": "New York \u00b7 On-site 5 days",
    "role": "Member of Technical Staff, Infrastructure",
@@ -1777,7 +1777,7 @@
     190000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "DailyPay",
    "location": "NYC \u00b7 Hybrid",
    "role": "Senior Machine Learning Engineer",
@@ -1806,7 +1806,7 @@
     272000,
     340000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Datadog",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Senior Staff Software Engineer",
@@ -1835,7 +1835,7 @@
     200000,
     400000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Decagon",
    "location": "New York \u00b7 On-site 5 days",
    "role": "Senior Software Engineer, Cloud Infrastructure",
@@ -1849,7 +1849,7 @@
     246000,
     307000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Deepgram",
    "location": "New York \u00b7 On-site",
    "role": "Software Engineer - Applied AI (Senior or Staff Level)",
@@ -1863,7 +1863,7 @@
     160000,
     239000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Deepgram",
    "location": "Remote",
    "role": "Systems Architect, AI/ML Infrastructure",
@@ -1877,7 +1877,7 @@
     100000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Depot",
    "location": "On-site",
    "role": "Staff Software Engineer",
@@ -1887,7 +1887,7 @@
   {
    "appliedOn": "2026-08-28",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Docker",
    "location": "Remote",
    "role": "Principal Software Engineer, Docker Hardened Images",
@@ -1901,7 +1901,7 @@
     268600,
     395000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "DoorDash",
    "location": "New York",
    "role": "Principal Software Engineer, Ads",
@@ -1930,11 +1930,12 @@
     153600,
     259800
    ],
-   "bucket": "going-quiet",
+   "bucket": "rejected",
    "company": "Drata",
    "location": "New York \u00b7 Hybrid",
+   "rejectedOn": "2026-09-11",
    "role": "Senior AI Engineer",
-   "status": "applied",
+   "status": "rejected",
    "url": "https://jobs.ashbyhq.com/drata/938b5802-714a-4843-bf43-4b03b3c0bf12"
   },
   {
@@ -1944,7 +1945,7 @@
     176600,
     298800
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Drata",
    "location": "San Francisco \u00b7 Hybrid",
    "role": "Staff AI Engineer",
@@ -1958,7 +1959,7 @@
     180000,
     210000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Eight Sleep",
    "location": "On-site",
    "role": "Senior Backend Engineer",
@@ -1972,7 +1973,7 @@
     240000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "EliseAI",
    "location": "New York \u00b7 On-site 5 days",
    "role": "Senior Data Engineer",
@@ -1986,7 +1987,7 @@
     230000,
     320000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "EliseAI",
    "location": "New York \u00b7 On-site 5 days",
    "role": "Senior DevOps Engineer",
@@ -2000,7 +2001,7 @@
     300000,
     400000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "EliseAI",
    "location": "New York \u00b7 On-site 5 days",
    "role": "Staff Software Engineer",
@@ -2014,7 +2015,7 @@
     250000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Extend",
    "location": "New York \u00b7 On-site",
    "role": "Staff Software Engineer",
@@ -2028,7 +2029,7 @@
     211370,
     253644
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Fastly",
    "location": "New York \u00b7 Hybrid",
    "role": "Staff Software Engineer - Customer Identity & Access Management (CIAM)",
@@ -2057,7 +2058,7 @@
     153000,
     376000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Figma",
    "location": "New York \u00b7 Remote",
    "role": "Security Engineer (applying to the Platform Security track)",
@@ -2071,7 +2072,7 @@
     153000,
     376000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Figma",
    "location": "New York \u00b7 Remote",
    "role": "Software Engineer - Distributed Systems (Infrastructure)",
@@ -2100,7 +2101,7 @@
     200000,
     290000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Fireworks AI",
    "location": "New York \u00b7 Hybrid",
    "role": "Member of Technical Staff - Reliability Engineering",
@@ -2114,11 +2115,12 @@
     195000,
     220000
    ],
-   "bucket": "going-quiet",
+   "bucket": "rejected",
    "company": "Forerunner",
    "location": "New York \u00b7 Hybrid",
+   "rejectedOn": "2026-09-10",
    "role": "Senior Security & Infrastructure Engineer",
-   "status": "applied",
+   "status": "rejected",
    "url": "https://jobs.ashbyhq.com/forerunner/d6e32813-7f5b-4ea5-93cd-29c6300ebc92"
   },
   {
@@ -2143,7 +2145,7 @@
     200000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Gecko Robotics",
    "location": "New York \u00b7 On-site 5 days",
    "role": "Software Engineer | Data Platform",
@@ -2157,7 +2159,7 @@
     192500,
     275000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Gemini",
    "location": "New York \u00b7 Hybrid",
    "role": "Principal Software Engineer, Tooling (Product)",
@@ -2171,7 +2173,7 @@
     165000,
     240000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Greenboard",
    "location": "New York \u00b7 On-site 5 days",
    "role": "Senior DevSecOps Engineer (first dedicated security hire)",
@@ -2185,7 +2187,7 @@
     251000,
     295000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Gusto",
    "location": "New York",
    "role": "Principal Software Engineer, Pay Group Engineering",
@@ -2199,7 +2201,7 @@
     231000,
     340000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Harvey",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Staff Software Engineer, AI Platform",
@@ -2213,7 +2215,7 @@
     231000,
     340000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Harvey",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Staff Software Engineer, Data Platform",
@@ -2227,7 +2229,7 @@
     231000,
     340000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Harvey",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Staff Software Engineer, Production Engineering",
@@ -2241,7 +2243,7 @@
     191200,
     286800
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Hinge Health",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Lead Security Engineer",
@@ -2255,7 +2257,7 @@
     186000,
     223000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Match Group (Hinge)",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Senior Data Platform Engineer",
@@ -2284,7 +2286,7 @@
     200000,
     230000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Instructure",
    "location": "Remote",
    "role": "Platform Architect",
@@ -2298,7 +2300,7 @@
     200000,
     260000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Jellyfish",
    "location": "On-site",
    "role": "Staff Data Engineer",
@@ -2312,7 +2314,7 @@
     265000,
     265000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Juniper Square",
    "location": "On-site",
    "role": "Senior Staff Software Engineer (AI)",
@@ -2326,7 +2328,7 @@
     235000,
     285000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Juniper Square",
    "location": "On-site",
    "role": "Senior Staff Software Engineer, Data",
@@ -2340,7 +2342,7 @@
     170000,
     210000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Kindred",
    "location": "On-site",
    "role": "Senior Infrastructure Engineer",
@@ -2369,7 +2371,7 @@
     175000,
     240000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "LangChain",
    "location": "New York \u00b7 On-site",
    "role": "Senior Backend Engineer, Enterprise Readiness & Identity",
@@ -2383,7 +2385,7 @@
     193400,
     265870
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "LaunchDarkly",
    "location": "Remote",
    "role": "Staff Backend Engineer, Guardian",
@@ -2397,7 +2399,7 @@
     272850,
     369150
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Legora",
    "location": "New York \u00b7 On-site 5 days",
    "role": "Staff Software Engineer",
@@ -2411,7 +2413,7 @@
     272850,
     369150
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Legora",
    "location": "New York \u00b7 On-site 5 days",
    "role": "Staff Site Reliability Engineer",
@@ -2425,7 +2427,7 @@
     170000,
     220000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Lumos",
    "location": "On-site",
    "role": "Software Engineer, Data Platform",
@@ -2439,7 +2441,7 @@
     200000,
     225000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Madhive",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "AI Code Engineering Lead",
@@ -2464,7 +2466,7 @@
     242400,
     303000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Marqeta",
    "location": "Remote",
    "role": "Principal Software Engineer, Core Issuing & Processing",
@@ -2478,7 +2480,7 @@
     220000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Maven Clinic",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Staff Software Engineer, AI/ML",
@@ -2492,7 +2494,7 @@
     230000,
     270000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Maven Clinic",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Staff Software Engineer, Identity Platform",
@@ -2506,7 +2508,7 @@
     230000,
     270000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Maven Clinic",
    "location": "New York \u00b7 Hybrid",
    "role": "Staff Software Engineer, Infrastructure",
@@ -2520,7 +2522,7 @@
     130000,
     500000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Mercor",
    "location": "New York \u00b7 On-site 5 days",
    "role": "Infrastructure Engineer",
@@ -2534,7 +2536,7 @@
     225000,
     260000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Merge",
    "location": "New York \u00b7 On-site 5 days",
    "role": "Staff Software Engineer",
@@ -2548,7 +2550,7 @@
     126000,
     214900
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "MeridianLink",
    "location": "Remote",
    "role": "Staff Platform Engineer - Platform Integrations",
@@ -2562,7 +2564,7 @@
     138667,
     236400
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "MeridianLink",
    "location": "Remote",
    "role": "Staff Software Engineer - AI Platform",
@@ -2576,7 +2578,7 @@
     220000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Modal",
    "location": "New York \u00b7 On-site",
    "role": "Member of Technical Staff - Platform Engineering",
@@ -2590,7 +2592,7 @@
     150000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Modern Treasury",
    "location": "New York \u00b7 On-site",
    "role": "Software Engineer - Infrastructure",
@@ -2604,7 +2606,7 @@
     150000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "ModernFi",
    "location": "New York \u00b7 On-site",
    "role": "Platform Engineer",
@@ -2618,7 +2620,7 @@
     213000,
     320000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Notion",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Software Engineer, Developer Platform",
@@ -2647,7 +2649,7 @@
     175000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Numeral",
    "location": "New York \u00b7 Hybrid",
    "role": "Software Engineer (AI)",
@@ -2661,7 +2663,7 @@
     175000,
     260000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Numeric",
    "location": "New York \u00b7 On-site 5 days",
    "role": "Software Engineer, Product",
@@ -2675,7 +2677,7 @@
     240000,
     290000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Onebrief",
    "location": "On-site",
    "role": "Principal Infrastructure Engineer",
@@ -2689,7 +2691,7 @@
     190000,
     345000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "OpenSea",
    "location": "Remote",
    "role": "Staff Software Engineer - Platform",
@@ -2703,7 +2705,7 @@
     245916,
     286902
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Oscar Health",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Staff Security Engineer, GRC",
@@ -2717,7 +2719,7 @@
     150000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Output Biosciences",
    "location": "New York \u00b7 On-site 5 days",
    "role": "Software Engineer, Agents",
@@ -2731,7 +2733,7 @@
     130000,
     220000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Persona",
    "location": "San Francisco \u00b7 On-site",
    "role": "Software Engineer, Edge",
@@ -2745,7 +2747,7 @@
     207600,
     273600
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Plaid",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Staff Software Engineer - Data Governance",
@@ -2759,7 +2761,7 @@
     207600,
     273600
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Plaid",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Staff Site Reliability Engineer - Release Engineering",
@@ -2773,7 +2775,7 @@
     222132,
     328062
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Plaid",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Staff Software Engineer - Security Engineering",
@@ -2787,7 +2789,7 @@
     250000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Playground",
    "location": "New York \u00b7 On-site 5 days",
    "role": "Staff Software Engineer",
@@ -2816,7 +2818,7 @@
     180000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Point72",
    "location": "New York",
    "role": "Machine Learning Infrastructure Engineer, GenAI Technology",
@@ -2830,7 +2832,7 @@
     250000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Point72",
    "location": "New York",
    "role": "Senior Data Engineer, Proprietary Research",
@@ -2844,7 +2846,7 @@
     183000,
     203000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "PointClickCare",
    "location": "Remote",
    "role": "Principal Software Engineer - Big Data & Java",
@@ -2858,7 +2860,7 @@
     250000,
     310000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Postman",
    "location": "New York \u00b7 On-site 5 days",
    "role": "Staff Software Engineer - Fern",
@@ -2872,7 +2874,7 @@
     220000,
     280000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Qualitate",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Staff Software Engineer",
@@ -2901,7 +2903,7 @@
     200000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Radar",
    "location": "New York \u00b7 On-site 4 days",
    "role": "Senior / Staff Platform Engineer",
@@ -2945,7 +2947,7 @@
     217000,
     303900
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Reddit",
    "location": "On-site",
    "role": "Staff Product Security Engineer",
@@ -2959,7 +2961,7 @@
     217400,
     304100
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Reddit",
    "location": "On-site",
    "role": "Staff Software Engineer, Identity & Access Management (SPACE)",
@@ -2973,7 +2975,7 @@
     170000,
     290000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Render",
    "location": "On-site",
    "role": "Software Engineer, Infrastructure (all levels)",
@@ -3002,7 +3004,7 @@
     251200,
     340000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Ro",
    "location": "New York \u00b7 Hybrid 2-3 days",
    "role": "Principal Software Engineer",
@@ -3031,7 +3033,7 @@
     270000,
     330000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Rogo",
    "location": "New York \u00b7 On-site",
    "role": "Staff Security Engineer, Cloud",
@@ -3045,7 +3047,7 @@
     250000,
     450000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Roku",
    "location": "New York \u00b7 On-site",
    "role": "Technical Architect - Business Applications",
@@ -3059,7 +3061,7 @@
     168600,
     210700
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Root Insurance",
    "location": "Remote",
    "role": "Staff Software Engineer, Build & Deploy",
@@ -3073,7 +3075,7 @@
     150000,
     200000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Runpod",
    "location": "On-site",
    "role": "Site Reliability Engineer",
@@ -3087,7 +3089,7 @@
     237600,
     297000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Scale AI",
    "location": "New York",
    "role": "Security Engineer, Infrastructure",
@@ -3101,7 +3103,7 @@
     252000,
     315000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Scale AI",
    "location": "New York",
    "role": "Staff Software Engineer, Data Platform",
@@ -3130,7 +3132,7 @@
     220000,
     320000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Secureframe",
    "location": "New York \u00b7 Hybrid 2-3 days",
    "role": "Staff Software Engineer",
@@ -3144,7 +3146,7 @@
     230000,
     288000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Semgrep",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Staff Backend Software Engineer",
@@ -3173,7 +3175,7 @@
     180000,
     270000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Shield AI",
    "location": "Remote",
    "role": "Sr. Staff Platform/Data Reliability Engineer, Databricks (R5537)",
@@ -3187,7 +3189,7 @@
     230000,
     390000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Sierra",
    "location": "New York \u00b7 On-site",
    "role": "Deployed Infrastructure Engineer",
@@ -3216,7 +3218,7 @@
     196000,
     257200
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Snowflake",
    "location": "New York \u00b7 On-site",
    "role": "Principal Technical Architect - AI/ML, Advanced Services",
@@ -3230,7 +3232,7 @@
     220000,
     290000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Socure",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "AI Engineer (Staff, Internal AI Engineering)",
@@ -3244,7 +3246,7 @@
     250000,
     280000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Socure",
    "location": "New York \u00b7 Hybrid",
    "role": "Forward Deployed Engineer - RiskOS Agents",
@@ -3258,7 +3260,7 @@
     225000,
     265000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Socure",
    "location": "NYC \u00b7 Remote",
    "role": "Staff Backend Engineer (Technology Center of Excellence)",
@@ -3272,7 +3274,7 @@
     164448,
     234926
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Spotify",
    "location": "New York \u00b7 Remote",
    "role": "Senior Software Engineer - Enterprise AI (Platform)",
@@ -3286,7 +3288,7 @@
     185500,
     299000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Squarespace",
    "location": "New York",
    "role": "Staff Software Engineer, Backend (Communications Platform)",
@@ -3330,7 +3332,7 @@
     228000,
     363000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Suno",
    "location": "New York \u00b7 On-site 5 days",
    "role": "Staff / Senior Software Engineer, Product Teams",
@@ -3344,7 +3346,7 @@
     220000,
     260000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Tabs",
    "location": "New York \u00b7 On-site",
    "role": "Staff Site Reliability Engineer",
@@ -3358,7 +3360,7 @@
     190000,
     210000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "TheGuarantors",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "AI Solutions Architect",
@@ -3372,7 +3374,7 @@
     150000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Titan",
    "location": "New York \u00b7 On-site",
    "role": "Principal Backend / Infrastructure Engineer - TypeScript",
@@ -3386,7 +3388,7 @@
     240000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Traba",
    "location": "New York \u00b7 On-site",
    "role": "Staff Software Engineer (Applied AI)",
@@ -3400,11 +3402,12 @@
     200000,
     275000
    ],
-   "bucket": "going-quiet",
+   "bucket": "rejected",
    "company": "TRM Labs",
    "location": "NYC \u00b7 Remote",
+   "rejectedOn": "2026-09-10",
    "role": "Staff Software Engineer, Agent Engineering - US Remote",
-   "status": "applied",
+   "status": "rejected",
    "url": "https://jobs.ashbyhq.com/trm-labs/eb560943-3adb-4839-bf64-4cbdeee9ae57"
   },
   {
@@ -3414,7 +3417,7 @@
     214000,
     245000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Upside",
    "location": "NYC \u00b7 Hybrid 3 days",
    "role": "Staff Data Engineer",
@@ -3428,7 +3431,7 @@
     180000,
     230000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Valon",
    "location": "NYC \u00b7 Remote",
    "role": "Senior Security Engineer, Identity & Access Management",
@@ -3442,7 +3445,7 @@
     255000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Valon",
    "location": "New York \u00b7 On-site",
    "role": "Staff Software Engineer",
@@ -3456,11 +3459,12 @@
     150000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "rejected",
    "company": "Veeva Systems",
    "location": "Boston \u00b7 Remote",
+   "rejectedOn": "2026-09-10",
    "role": "Principal Software Engineer - Python",
-   "status": "applied",
+   "status": "rejected",
    "url": "https://jobs.lever.co/veeva/1e656505-1b56-4756-85b0-95144d433188"
   },
   {
@@ -3470,7 +3474,7 @@
     200000,
     240000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Vesta",
    "location": "On-site",
    "role": "Software Engineer - Infrastructure",
@@ -3484,7 +3488,7 @@
     200000,
     275000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Vesta",
    "location": "On-site",
    "role": "Software Engineer - Platform",
@@ -3498,7 +3502,7 @@
     150000,
     230000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Vetcove",
    "location": "Remote",
    "role": "AI Integrations Staff Engineer",
@@ -3512,7 +3516,7 @@
     185725,
     264500
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Wheel",
    "location": "Remote",
    "role": "Staff Software Engineer, AI-Native Systems (Tech Lead)",
@@ -3526,7 +3530,7 @@
     175000,
     275000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "WorkOS",
    "location": "Remote",
    "role": "Infrastructure Engineer",
@@ -3555,7 +3559,7 @@
     174000,
     237100
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Wrapbook",
    "location": "NYC \u00b7 Remote",
    "role": "Senior Software Engineer II, Business Systems",
@@ -3569,7 +3573,7 @@
     155400,
     273700
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "WRITER",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Infrastructure engineer",
@@ -3583,7 +3587,7 @@
     201200,
     304400
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Zocdoc",
    "location": "New York \u00b7 Remote",
    "role": "Senior Staff Software Engineer, Interoperability",
@@ -3597,7 +3601,7 @@
     195000,
     220000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "A2Z Sync",
    "location": "Denver \u00b7 On-site",
    "role": "Principal Engineer",
@@ -3611,7 +3615,7 @@
     197000,
     307000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Agility Robotics",
    "location": "Remote",
    "role": "Senior Software Engineer, AI/ML Platform",
@@ -3625,7 +3629,7 @@
     135000,
     240000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Alchemy",
    "location": "New York \u00b7 Hybrid",
    "role": "Cloud Infrastructure Engineer",
@@ -3639,7 +3643,7 @@
     260000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Amigo",
    "location": "New York \u00b7 On-site 5 days",
    "role": "Staff Software Engineer - Backend/Infra",
@@ -3653,7 +3657,7 @@
     200000,
     285000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Amperos",
    "location": "NYC \u00b7 On-site",
    "role": "Software Engineer, Infra",
@@ -3667,7 +3671,7 @@
     220000,
     331000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Amplitude",
    "location": "New York \u00b7 Remote",
    "role": "Staff Software Engineer (Infrastructure)",
@@ -3681,7 +3685,7 @@
     275000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Arlo",
    "location": "New York \u00b7 Hybrid",
    "role": "Principal Software Engineer",
@@ -3695,7 +3699,7 @@
     180000,
     240000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Artera",
    "location": "Remote",
    "role": "Senior/Staff Software Engineer - Python",
@@ -3724,7 +3728,7 @@
     230000,
     290000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Atria Health",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Staff Software Engineer, Agentic AI",
@@ -3738,7 +3742,7 @@
     200000,
     280000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Atria Health and Research Institute",
    "location": "New York \u00b7 Hybrid",
    "role": "Staff Software Engineer, Foundations",
@@ -3752,7 +3756,7 @@
     157250,
     230000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Atticus",
    "location": "Remote",
    "role": "Senior Backend Engineer - Representation",
@@ -3766,7 +3770,7 @@
     210000,
     265000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Axion",
    "location": "New York \u00b7 Hybrid",
    "role": "Senior/Staff Software Engineer, Data Platform",
@@ -3780,7 +3784,7 @@
     100000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Basis AI",
    "location": "New York \u00b7 On-site 5 days",
    "role": "Member of Technical Staff - SRE",
@@ -3794,7 +3798,7 @@
     280000,
     380000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Blacksmith",
    "location": "New York \u00b7 On-site",
    "role": "Staff Systems Engineer",
@@ -3808,7 +3812,7 @@
     215000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "ButterflyMX",
    "location": "Remote",
    "role": "Principal AI-Native Software Engineer",
@@ -3822,7 +3826,7 @@
     200000,
     260000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Cadence Solutions",
    "location": "Remote",
    "role": "Staff DevOps Engineer",
@@ -3836,7 +3840,7 @@
     210000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Camber",
    "location": "New York \u00b7 Hybrid",
    "role": "Staff Software Engineer",
@@ -3850,7 +3854,7 @@
     180000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Category Labs",
    "location": "New York \u00b7 Hybrid",
    "role": "Senior DevOps / Infrastructure Engineer",
@@ -3894,7 +3898,7 @@
     146000,
     215000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "ClassDojo",
    "location": "Remote",
    "role": "Founding Senior Software Engineer, Developer Experience & AI Platform",
@@ -3922,7 +3926,7 @@
     180000,
     225000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Counsel Health",
    "location": "New York \u00b7 Hybrid",
    "role": "Infrastructure Engineer",
@@ -3951,7 +3955,7 @@
     205000,
     270000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Cresta",
    "location": "Remote",
    "role": "Senior Infrastructure Engineer / SRE",
@@ -3965,7 +3969,7 @@
     170000,
     210000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Curai Health",
    "location": "Remote",
    "role": "Senior Software Engineer (Platform and Infrastructure)",
@@ -3979,7 +3983,7 @@
     190000,
     261250
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Databricks",
    "location": "New York",
    "role": "Staff Backend Software Engineer (AI Platform)",
@@ -4008,7 +4012,7 @@
     185000,
     260000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "DELFI Diagnostics",
    "location": "Remote",
    "role": "Senior Staff, Software Engineer (Bioinformatics Pipeline)",
@@ -4022,7 +4026,7 @@
     185000,
     305000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Ditto",
    "location": "San Francisco \u00b7 Remote",
    "role": "Senior Software Engineer, Cloud (Distributed Systems)",
@@ -4036,7 +4040,7 @@
     193800,
     285000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "DoorDash",
    "location": "Remote",
    "role": "Staff Security Engineer, Proactive Security - AI",
@@ -4065,7 +4069,7 @@
     120000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Evertune",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Senior Software Engineer, Back End & Infrastructure",
@@ -4079,7 +4083,7 @@
     184000,
     241500
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "FanDuel",
    "location": "New York \u00b7 Hybrid",
    "role": "Staff AI Security Engineer",
@@ -4093,7 +4097,7 @@
     220000,
     240000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Finch",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Staff Software Engineer, Backend",
@@ -4107,7 +4111,7 @@
     208000,
     269000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Fluidstack",
    "location": "New York \u00b7 On-site",
    "role": "Software Engineer, Cloud Infrastructure",
@@ -4121,7 +4125,7 @@
     121000,
     204500
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Hyperscience",
    "location": "Remote",
    "role": "Senior Product Security Engineer",
@@ -4135,7 +4139,7 @@
     180000,
     240000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Inductive Bio",
    "location": "New York \u00b7 Hybrid",
    "role": "Member of Technical Staff - Software Engineering",
@@ -4149,7 +4153,7 @@
     200000,
     225000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Inspiren",
    "location": "New York \u00b7 Remote",
    "role": "Staff Software Engineer - Backend (Intelligence & Integrations)",
@@ -4178,7 +4182,7 @@
     135000,
     220000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Istari Digital",
    "location": "Remote",
    "role": "Sr. Cloud Infrastructure Engineer",
@@ -4192,7 +4196,7 @@
     190000,
     210000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Jump",
    "location": "Remote",
    "role": "Senior Data Engineer",
@@ -4206,7 +4210,7 @@
     100000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Kalshi",
    "location": "New York \u00b7 On-site 5 days",
    "role": "Infrastructure Engineer",
@@ -4250,7 +4254,7 @@
     220000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Luminai",
    "location": "New York",
    "role": "Staff Software Engineer, Platform",
@@ -4264,7 +4268,7 @@
     97000,
     200000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Metabase",
    "location": "Remote",
    "role": "Senior SRE/DevOps Engineer",
@@ -4278,7 +4282,7 @@
     175000,
     275000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Mirage",
    "location": "New York \u00b7 On-site",
    "role": "Software Engineer, Backend",
@@ -4292,7 +4296,7 @@
     150000,
     350000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Modus",
    "location": "New York \u00b7 On-site",
    "role": "Member of Technical Staff",
@@ -4306,7 +4310,7 @@
     181000,
     226000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Mural",
    "location": "Remote",
    "role": "Staff Backend Engineer, AI Systems",
@@ -4320,7 +4324,7 @@
     190576,
     225324
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Murmuration",
    "location": "Remote",
    "role": "Senior/Staff Software Engineer (P4/P5)",
@@ -4349,7 +4353,7 @@
     240000,
     400000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Nectar Social",
    "location": "New York \u00b7 On-site",
    "role": "Staff Software Engineer",
@@ -4363,7 +4367,7 @@
     200000,
     220000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Nitrogen",
    "location": "Remote",
    "role": "Staff AI Execution Engineer (Data & Services)",
@@ -4377,7 +4381,7 @@
     140000,
     220000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Oso",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Software Engineer",
@@ -4391,7 +4395,7 @@
     233750,
     343750
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Panorama Education",
    "location": "On-site",
    "role": "Staff Engineer, Agentic Developer Platform",
@@ -4405,7 +4409,7 @@
     170000,
     230000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Parker",
    "location": "NYC \u00b7 On-site",
    "role": "Senior Software Engineer - Backend",
@@ -4419,7 +4423,7 @@
     300000,
     325000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Pendo",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Staff Software Engineer (AI), Emerging Team",
@@ -4433,7 +4437,7 @@
     200000,
     275000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "PermitFlow",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Staff Software Engineer",
@@ -4447,7 +4451,7 @@
     200000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Phantom",
    "location": "Remote",
    "role": "Staff Software Engineer (SRE)",
@@ -4476,7 +4480,7 @@
     172000,
     214000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Prefect",
    "location": "Remote",
    "role": "Senior Backend Engineer, Prefect Cloud",
@@ -4505,7 +4509,7 @@
     200000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "PubMatic",
    "location": "New York \u00b7 Hybrid",
    "role": "Forward Deployed Engineer",
@@ -4534,7 +4538,7 @@
     205000,
     230000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Redpanda Data",
    "location": "On-site",
    "role": "Senior Software Engineer, Cloud",
@@ -4548,7 +4552,7 @@
     null,
     220000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Renew Home",
    "location": "On-site",
    "role": "Staff Engineer, AI Developer Experience",
@@ -4562,7 +4566,7 @@
     170000,
     270000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Rillet",
    "location": "New York \u00b7 Hybrid",
    "role": "Software Engineer, Platform",
@@ -4576,7 +4580,7 @@
     220000,
     260000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Ripple",
    "location": "New York",
    "role": "Senior Staff DevOps Engineer",
@@ -4620,7 +4624,7 @@
     190000,
     230000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Runway",
    "location": "Remote",
    "role": "Senior/Staff Platform Engineer",
@@ -4634,7 +4638,7 @@
     284000,
     325000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Siro",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Staff Software Engineer, Backend",
@@ -4648,7 +4652,7 @@
     188000,
     248000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Stepful",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Staff Software Engineer 1",
@@ -4662,7 +4666,7 @@
     189040,
     342000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Teleport",
    "location": "Remote",
    "role": "Senior Software Engineer, Security - US",
@@ -4676,7 +4680,7 @@
     230000,
     368000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Toast",
    "location": "Remote",
    "role": "Principal Software Engineer (Team Suite - Payroll & Team Management)",
@@ -4690,7 +4694,7 @@
     150000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Traversal",
    "location": "New York \u00b7 On-site 5 days",
    "role": "Staff Full-Stack Product Engineer",
@@ -4734,7 +4738,7 @@
     200000,
     240000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Verse Medical",
    "location": "New York \u00b7 On-site 4 days",
    "role": "Staff Data Engineer",
@@ -4777,7 +4781,7 @@
     270000,
     350000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Wispr Flow",
    "location": "San Francisco \u00b7 On-site 4 days",
    "role": "Staff Platform Engineer, Infrastructure",
@@ -4791,7 +4795,7 @@
     157500,
     247500
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "ZoomInfo",
    "location": "Remote",
    "role": "Principal Cloud Architect",
@@ -5922,7 +5926,7 @@
    "company": "Obsidian Security",
    "location": "Philadelphia",
    "role": "Staff Software Engineer",
-   "status": "applied",
+   "status": "withdrawn",
    "url": "https://job-boards.greenhouse.io/embed/job_app?for=obsidiansecurity&token=5374810008"
   },
   {
@@ -7821,7 +7825,7 @@
   {
    "appliedOn": "2026-09-03",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "AcuityMD",
    "location": "",
    "role": "(role not stated in the acknowledgement)",
@@ -7835,7 +7839,7 @@
     120000,
     200000
    ],
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Compound Planning",
    "location": "Remote",
    "role": "Staff Software Engineer",
@@ -7845,7 +7849,7 @@
   {
    "appliedOn": "2026-09-03",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Compound",
    "location": "",
    "role": "Staff Software Engineer",
@@ -7859,7 +7863,7 @@
     241000,
     270000
    ],
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Garner Health",
    "location": "NYC \u00b7 Remote",
    "role": "Staff Site Reliability Engineer",
@@ -7873,7 +7877,7 @@
     192010,
     274300
    ],
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Kong",
    "location": "Remote",
    "role": "Forward Deployed Engineer",
@@ -7887,7 +7891,7 @@
     208000,
     312000
    ],
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Vercel",
    "location": "Remote",
    "role": "Security Software Engineer, IAM",
@@ -7897,7 +7901,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Amigo",
    "location": "",
    "role": "Staff Software Engineer - Data [NYC or SF]",
@@ -7907,7 +7911,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Arca",
    "location": "",
    "role": "Member of Technical Staff, Security Engineer",
@@ -7917,7 +7921,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Arlo",
    "location": "",
    "role": "Staff Software Engineer",
@@ -7927,7 +7931,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Artemis",
    "location": "",
    "role": "Senior Software Engineer",
@@ -7937,7 +7941,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Astronomer",
    "location": "",
    "role": "Staff Software Engineer, Observability",
@@ -7947,7 +7951,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Atticus",
    "location": "",
    "role": "Lead Infrastructure Engineer",
@@ -7957,7 +7961,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Auctor",
    "location": "",
    "role": "Software Engineer, Applied AI",
@@ -7977,7 +7981,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Axon",
    "location": "",
    "role": "Senior Site Reliability Engineer, Axon 911",
@@ -7987,7 +7991,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "brightwheel",
    "location": "",
    "role": "Principal AI Software Engineer, GTM",
@@ -7997,17 +8001,18 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "rejected",
    "company": "Candid Health",
    "location": "",
+   "rejectedOn": "2026-09-11",
    "role": "Security Engineer",
-   "status": "applied",
+   "status": "rejected",
    "url": "https://jobs.ashbyhq.com/candidhealth/05085e52-174c-4d29-a31f-0e85970b8c55"
   },
   {
    "appliedOn": "2026-09-04",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Celonis",
    "location": "",
    "role": "Staff Software Engineer",
@@ -8017,7 +8022,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Centralize",
    "location": "",
    "role": "Software Engineer (Product)",
@@ -8027,7 +8032,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Cloudflare",
    "location": "",
    "role": "Principal Software Engineer, Workers Deploy & Config",
@@ -8048,7 +8053,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Decagon",
    "location": "",
    "role": "Staff Software Engineer, Enterprise Product",
@@ -8058,7 +8063,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Doctronic",
    "location": "",
    "role": "DevOps Engineer",
@@ -8068,7 +8073,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Doppel",
    "location": "",
    "role": "Software Engineer, Detection",
@@ -8078,7 +8083,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Doppel",
    "location": "",
    "role": "Software Engineer, Platform",
@@ -8088,7 +8093,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Elastic",
    "location": "",
    "role": "Principal Software Engineer I - Serverless - Platform Control Plane",
@@ -8098,7 +8103,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Espresso AI",
    "location": "",
    "role": "Staff Infrastructure Engineer",
@@ -8108,7 +8113,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Fieldguide",
    "location": "",
    "role": "Software Engineer (All Levels)",
@@ -8118,7 +8123,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Fluidstack",
    "location": "",
    "role": "Security Engineer, Bare Metal",
@@ -8128,7 +8133,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Footprint",
    "location": "",
    "role": "Member of Technical Staff (Infrastructure)",
@@ -8138,7 +8143,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Forus",
    "location": "",
    "role": "Software Engineer, Developer Productivity",
@@ -8148,7 +8153,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "GitLab",
    "location": "",
    "role": "Senior Migration Engineer - GitLab Dedicated",
@@ -8158,7 +8163,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "GitLab",
    "location": "",
    "role": "Staff Infrastructure Security Engineer (USA)",
@@ -8168,7 +8173,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Hebbia",
    "location": "",
    "role": "Platform Engineer, Document Intelligence",
@@ -8178,7 +8183,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Kiddom",
    "location": "",
    "role": "Senior Full Stack Engineer, AI Experience",
@@ -8188,7 +8193,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Knit",
    "location": "",
    "role": "Staff Full Stack Engineer",
@@ -8198,7 +8203,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Modal",
    "location": "",
    "role": "Infrastructure Security Engineer",
@@ -8208,7 +8213,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Mudflap",
    "location": "",
    "role": "Software Engineer, Ruby on Rails",
@@ -8218,7 +8223,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Nextdoor",
    "location": "",
    "role": "Senior Software Engineer - Backend",
@@ -8228,7 +8233,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Noto",
    "location": "",
    "role": "Senior/Staff Product Engineer - Full Stack",
@@ -8238,7 +8243,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Office Hours",
    "location": "",
    "role": "Senior Software Engineer, Search & Discovery",
@@ -8248,7 +8253,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Onebrief",
    "location": "",
    "role": "Infrastructure Engineer",
@@ -8258,7 +8263,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Outtake",
    "location": "",
    "role": "Software Engineer, Infrastructure",
@@ -8268,7 +8273,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "workable",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Parisi Labs",
    "location": "",
    "role": "ML Data Platform Engineer",
@@ -8278,7 +8283,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Patreon",
    "location": "",
    "role": "Senior Machine Learning Engineer, Infrastructure",
@@ -8288,27 +8293,29 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "rejected",
    "company": "Percepta",
    "location": "",
+   "rejectedOn": "2026-09-11",
    "role": "Applied AI Engineer",
-   "status": "applied",
+   "status": "rejected",
    "url": "https://jobs.ashbyhq.com/percepta/bbfe8035-2364-419b-bb36-500aaa542fb2"
   },
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "rejected",
    "company": "Percepta",
    "location": "",
+   "rejectedOn": "2026-09-11",
    "role": "Founding Data Engineer",
-   "status": "applied",
+   "status": "rejected",
    "url": "https://jobs.ashbyhq.com/percepta/10a4c0b2-c2e9-4cb6-afe8-5612706243a1"
   },
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Pivotal Health",
    "location": "",
    "role": "Staff Site Reliability Engineer",
@@ -8318,7 +8325,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Polymarket",
    "location": "",
    "role": "Senior Backend Engineer, Payments",
@@ -8328,7 +8335,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Polymarket",
    "location": "",
    "role": "Senior Backend Engineer, Product Infrastructure",
@@ -8338,7 +8345,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Polymarket",
    "location": "",
    "role": "Senior Backend Engineer, Trust & Safety",
@@ -8348,7 +8355,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Polymarket",
    "location": "",
    "role": "Staff Backend Engineer, Services",
@@ -8358,7 +8365,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Prefect",
    "location": "",
    "role": "Staff Platform Engineer",
@@ -8368,7 +8375,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Radar",
    "location": "",
    "role": "Senior / Staff Product Engineer",
@@ -8378,7 +8385,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Render",
    "location": "",
    "role": "Software Engineer, Compute Infrastructure",
@@ -8388,7 +8395,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Snowflake",
    "location": "",
    "role": "Staff Security Engineer - Enterprise Security",
@@ -8398,7 +8405,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Teleport",
    "location": "",
    "role": "Site Reliability Engineer (Forward Deployed)",
@@ -8408,7 +8415,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Titan",
    "location": "",
    "role": "Senior Backend / Infrastructure Engineer - TypeScript",
@@ -8418,7 +8425,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "WorkOS",
    "location": "",
    "role": "Site Reliability Engineer",
@@ -8538,11 +8545,12 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "rejected",
    "company": "Crosby",
    "location": "",
+   "rejectedOn": "2026-09-11",
    "role": "Member of Technical Staff, Platform",
-   "status": "applied",
+   "status": "rejected",
    "url": "https://jobs.ashbyhq.com/crosby/e5e089e9-7074-4fd8-99aa-fbb067d0b6cd"
   },
   {
@@ -8819,11 +8827,12 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "rejected",
    "company": "Teleport",
    "location": "",
+   "rejectedOn": "2026-09-11",
    "role": "Senior Backend Engineer - Application Access",
-   "status": "applied",
+   "status": "rejected",
    "url": "https://jobs.ashbyhq.com/goteleport/b7c4e513-7c41-4c39-8247-c5a3360a8e8a"
   },
   {
@@ -8889,11 +8898,12 @@
   {
    "appliedOn": "2026-09-10",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "rejected",
    "company": "Sigma Computing",
    "location": "",
+   "rejectedOn": "2026-09-12",
    "role": "Staff Software Engineer - Fullstack",
-   "status": "applied",
+   "status": "rejected",
    "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7767911003"
   },
   {
@@ -8985,9 +8995,469 @@
    "role": "Senior Software Engineer, Cloud Infrastructure / SRE",
    "status": "applied",
    "url": "https://job-boards.greenhouse.io/embed/job_app?for=oscar&token=7572045"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Amigo",
+   "location": "",
+   "role": "Staff Forward Deployed Engineer [NYC or SF]",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/amigo/13b7b8b4-5f7f-43fe-a8bf-9d8ecb54ea0d"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Amperos Health",
+   "location": "",
+   "role": "Software Engineer, Integrations",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/amperos/11569e61-5abc-4ea8-9c56-037eca18a876"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Amperos",
+   "location": "",
+   "role": "Software Engineer, Full Stack",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/amperos/59be0a56-71d3-45ab-87a7-60400a5c9f68"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Arcesium LLC",
+   "location": "",
+   "role": "Senior Software Engineer - Infrastructure",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/arcesiumllc/jobs/5194791007"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Artemis",
+   "location": "",
+   "role": "Lead Security Engineer, Internal and IT",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/artemis/7ecc6ad8-c936-4bc7-a769-70e44d01d39c"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Atticus",
+   "location": "",
+   "role": "Fullstack Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/atticus/0e6e395c-5692-4b33-9005-151ae576e636"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Auctor",
+   "location": "",
+   "role": "Forward Deployed Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/auctor/73648a39-a671-469d-aa7d-f7bb8b3b6d46"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Auctor",
+   "location": "",
+   "role": "Senior Software Engineer, Product",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/auctor/db12eafd-4ddb-4326-9fb6-85f38ae7cab7"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Auctor",
+   "location": "",
+   "role": "Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/auctor/45cd780b-30bd-4887-b1e8-0b4858aa8e63"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "candidhealth",
+   "location": "",
+   "role": "Product Security Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/candidhealth/f111d46b-4efb-4b41-9cc2-a6bd49b71cfa"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Chime Financial, Inc",
+   "location": "",
+   "role": "Senior Software Engineer, Lending",
+   "status": "applied",
+   "url": "https://boards.greenhouse.io/chime/jobs/8656937002?gh_jid=8656937002"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "cinder",
+   "location": "",
+   "role": "Forward Deployed Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/cinder/05fd8361-9af3-4732-94a7-4ad8dc14573d"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Decagon",
+   "location": "",
+   "role": "Senior Software Engineer, Agent Product",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/decagon/cd95c25c-fdb7-4816-8a31-6d75e86adbe0"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Doctronic",
+   "location": "",
+   "role": "Information Security Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/doctronic/b884479b-7d92-4ab8-9e70-1af2d1459476"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Doppel",
+   "location": "",
+   "role": "Machine Learning Engineer, Detection (NY)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/doppel/6dade527-6835-445f-b16b-a1c7f739077f"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "DriveWealth",
+   "location": "",
+   "role": "Principal Software Development Engineer, Execution Services",
+   "status": "applied",
+   "url": "https://boards.greenhouse.io/drivewealth/jobs/6024935003?gh_jid=6024935003"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Espresso AI",
+   "location": "",
+   "role": "Staff ML Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/espresso/db3c6bde-5ff8-4234-9425-1ee8cf93c97e"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "extend",
+   "location": "",
+   "role": "Applied AI/ML Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/extend/401bbcd4-4d3f-4e96-b68a-62e8ea98a73d"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "FanDuel",
+   "location": "",
+   "role": "Staff Data Architect",
+   "status": "applied",
+   "url": "https://www.fanduel.careers/open-positions?gh_jid=8110253"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "footprint",
+   "location": "",
+   "role": "Forward Deployed Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/footprint/484f5345-2614-4188-b522-dd36cf57170a"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Forerunner",
+   "location": "",
+   "role": "Senior Full-Stack Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/forerunner/1f748614-f428-4ea8-884b-c729231e5d40"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "gecko-robotics",
+   "location": "",
+   "role": "Forward Deployed Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/gecko-robotics/1ae83c3f-565a-48c9-85f7-55ab1c75593d"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Instacart",
+   "location": "",
+   "role": "Senior Software Engineer, Caper AI",
+   "status": "applied",
+   "url": "https://instacart.careers/job/?gh_jid=8175843"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "LangChain",
+   "location": "",
+   "role": "Deployed Engineer, Professional Services (NYC)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/langchain/329c0b62-0ca0-4311-a827-50a5a3333861"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "laurel",
+   "location": "",
+   "role": "Senior/Staff Forward Deployed Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/laurel/4578640b-7cef-4cf5-ac68-c7ebaabeede5"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Liftoff",
+   "location": "",
+   "role": "Senior Staff Software Engineer, Serving",
+   "status": "applied",
+   "url": "https://liftoff.io/job/8187368?gh_jid=8187368"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Minerva",
+   "location": "",
+   "role": "Data Engineer, Data Products",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/minerva/dbfa0d14-3fdb-432d-bc03-c0364e313a39"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "mirage",
+   "location": "",
+   "role": "Software Engineer, Agents",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/mirage/dc5089f3-c494-47ed-9312-edebd032c218"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Modal",
+   "location": "",
+   "role": "Forward Deployed Engineer - Systems",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/modal/cbbbee50-3d3b-4873-8ae8-ff4b885b8e54"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "modernfi",
+   "location": "",
+   "role": "Forward Deployed Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/modernfi/3a6ee2f6-a8f8-479a-83e4-b80ccdbb6474"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Norm Ai",
+   "location": "",
+   "role": "Software Engineer, Full Stack",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/norm-ai/c1f5a1d9-c750-4cf3-913d-ab9123fcabad"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Outtake",
+   "location": "",
+   "role": "Software Engineer, Platform",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/outtake/67a35d51-9e10-4803-a7a1-45f581b7f1a8"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Polymarket",
+   "location": "",
+   "role": "Forward Deployed Engineer, Services",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/polymarket/9d54dede-9ca1-4c3e-a404-270b8e3d523c"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Postman",
+   "location": "",
+   "role": "Backend and System Engineer, Flows",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/postman/jobs/7485114003"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Prefect",
+   "location": "",
+   "role": "Staff Data Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/prefect/85e3149e-950b-4813-ad66-023093621399"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Roku",
+   "location": "",
+   "role": "Senior Software Engineer, Ad Serving",
+   "status": "applied",
+   "url": "https://www.weareroku.com/jobs/7032137?gh_jid=7032137"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Roku",
+   "location": "",
+   "role": "Staff Machine Learning Engineer, Ad Serving",
+   "status": "applied",
+   "url": "https://www.weareroku.com/jobs/7991258?gh_jid=7991258"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "rowspace",
+   "location": "",
+   "role": "Applied AI Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/rowspace/6fbca422-0641-46bd-a744-8783e7d50ea4"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Rowspace",
+   "location": "",
+   "role": "Product Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/rowspace/08525826-e212-41b4-a56e-c31662475b7a"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "scribe",
+   "location": "",
+   "role": "Staff Backend Engineer, Data Ingestion",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/scribe/b56fd89b-1d46-4291-be2a-41d21349f6f3"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Sola",
+   "location": "",
+   "role": "Software Engineer, Fullstack",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/sola/0c859bfa-c3e1-429d-876d-0542f5358c17"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Twenty",
+   "location": "",
+   "role": "Staff Data Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/twenty/a69368b7-4991-4ec3-8328-603e8ba3f077"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Vendelux",
+   "location": "",
+   "role": "Senior AI Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/vendelux/8250249a-89ac-458d-9c86-95d41081d23f"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Vendelux",
+   "location": "",
+   "role": "Staff AI Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/vendelux/fab5d2a5-5f27-4231-8729-4e4ffc3661c7"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Vercel",
+   "location": "",
+   "role": "Software Engineer, Agent",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/5704320004"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Webflow",
+   "location": "",
+   "role": "Senior Platform Engineer, Infrastructure",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/webflow/jobs/8148362"
   }
  ],
- "generatedFor": "2026-09-11",
+ "generatedFor": "2026-09-13",
  "series": {
   "bandHistogram": [
    [
@@ -9018,11 +9488,11 @@
   "byAts": [
    [
     "ashby",
-    416
+    451
    ],
    [
     "greenhouse",
-    177
+    188
    ],
    [
     "lever",
@@ -9161,6 +9631,11 @@
     "2026-09-11",
     9,
     674
+   ],
+   [
+    "2026-09-13",
+    46,
+    720
    ]
   ],
   "latencies": [
@@ -9180,6 +9655,9 @@
    2,
    2,
    2,
+   2,
+   2,
+   2,
    3,
    3,
    3,
@@ -9242,6 +9720,9 @@
    6,
    6,
    6,
+   7,
+   7,
+   7,
    7,
    7,
    7,
@@ -9261,6 +9742,10 @@
    13,
    13,
    13,
+   13,
+   13,
+   13,
+   14,
    18,
    21
   ],
@@ -9274,12 +9759,24 @@
     7
    ],
    [
+    "Auctor",
+    5
+   ],
+   [
     "ClickUp",
+    5
+   ],
+   [
+    "Polymarket",
     5
    ],
    [
     "Reddit",
     5
+   ],
+   [
+    "Doppel",
+    4
    ],
    [
     "EliseAI",
@@ -9294,11 +9791,11 @@
     4
    ],
    [
-    "Polymarket",
+    "SentinelOne",
     4
    ],
    [
-    "SentinelOne",
+    "Sola",
     4
    ],
    [
@@ -9310,33 +9807,21 @@
     3
    ],
    [
-    "Arca",
-    3
-   ],
-   [
-    "Arlo",
-    3
-   ],
-   [
-    "Astronomer",
-    3
-   ],
-   [
-    "Cape",
+    "Amigo",
     3
    ]
   ]
  },
  "stats": {
   "clearing300k": 179,
-  "companies": 482,
+  "companies": 497,
   "medianBandTop": 270000.0,
   "rejectionLatency": {
    "max": 21,
    "median": 5,
-   "n": 99,
-   "p90": 10
+   "n": 109,
+   "p90": 11
   },
-  "total": 674
+  "total": 720
  }
 }
