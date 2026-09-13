@@ -9218,6 +9218,16 @@
   },
   {
    "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "hebbia-ai",
+   "location": "",
+   "role": "Backend Engineer, Agents",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/hebbia-ai/1c18a253-3c4d-4e5a-952d-cd35ba690ea7"
+  },
+  {
+   "appliedOn": "2026-09-13",
    "ats": "greenhouse",
    "bucket": "in-window",
    "company": "Instacart",
@@ -9225,6 +9235,16 @@
    "role": "Senior Software Engineer, Caper AI",
    "status": "applied",
    "url": "https://instacart.careers/job/?gh_jid=8175843"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Joyful Health",
+   "location": "",
+   "role": "AI Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/joyfulhealth/73c903d1-5d43-4cce-8e68-4fd3a4388b53"
   },
   {
    "appliedOn": "2026-09-13",
@@ -9320,6 +9340,16 @@
    "appliedOn": "2026-09-13",
    "ats": "ashby",
    "bucket": "in-window",
+   "company": "Pivotal Health",
+   "location": "",
+   "role": "Senior Software Engineer - Case Execution",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/pivotal-health/5984f6bb-78f2-4d68-a907-dcd5b80d2831"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
    "company": "Polymarket",
    "location": "",
    "role": "Forward Deployed Engineer, Services",
@@ -9400,11 +9430,41 @@
    "appliedOn": "2026-09-13",
    "ats": "ashby",
    "bucket": "in-window",
+   "company": "Secureframe",
+   "location": "",
+   "role": "Senior Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/secureframe/115fca74-b265-45a7-b962-403b871471a0"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Shuttlebase (Ashby board 'moonshot-ai')",
+   "location": "",
+   "role": "Senior Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/moonshot-ai/02441c7b-416b-4376-b90c-16e0a665d4e7"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
    "company": "Sola",
    "location": "",
    "role": "Software Engineer, Fullstack",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/sola/0c859bfa-c3e1-429d-876d-0542f5358c17"
+  },
+  {
+   "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "taktile",
+   "location": "",
+   "role": "Solution Architect",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/taktile/b16b0954-f61c-447f-ab64-e891207b9298"
   },
   {
    "appliedOn": "2026-09-13",
@@ -9448,6 +9508,16 @@
   },
   {
    "appliedOn": "2026-09-13",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Vetcove",
+   "location": "",
+   "role": "Staff Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/vetcove/41ed06fc-98fc-479c-8b85-43880ac36788"
+  },
+  {
+   "appliedOn": "2026-09-13",
    "ats": "greenhouse",
    "bucket": "in-window",
    "company": "Webflow",
@@ -9488,7 +9558,7 @@
   "byAts": [
    [
     "ashby",
-    451
+    458
    ],
    [
     "greenhouse",
@@ -9634,8 +9704,8 @@
    ],
    [
     "2026-09-13",
-    46,
-    720
+    53,
+    727
    ]
   ],
   "latencies": [
@@ -9814,7 +9884,7 @@
  },
  "stats": {
   "clearing300k": 179,
-  "companies": 497,
+  "companies": 500,
   "medianBandTop": 270000.0,
   "rejectionLatency": {
    "max": 21,
@@ -9822,6 +9892,6 @@
    "n": 109,
    "p90": 11
   },
-  "total": 720
+  "total": 727
  }
 }
