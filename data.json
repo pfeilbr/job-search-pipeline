@@ -749,11 +749,12 @@
     248400,
     341550
    ],
-   "bucket": "presumed-dead",
+   "bucket": "rejected",
    "company": "SentinelOne",
    "location": "Remote",
+   "rejectedOn": "2026-09-13",
    "role": "Distinguished Architect",
-   "status": "applied",
+   "status": "rejected",
    "url": "https://www.sentinelone.com/jobs/?gh_jid=7760486003"
   },
   {
@@ -4809,7 +4810,7 @@
     160000,
     200000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "A Place for Mom",
    "location": "Remote",
    "role": "Staff Software Engineer - Full Stack",
@@ -4823,7 +4824,7 @@
     141500,
     268500
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "AbbVie",
    "location": "Chicago \u00b7 Remote",
    "role": "Application & Platform Security Architect",
@@ -4851,7 +4852,7 @@
     148000,
     203500
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "ActiveCampaign",
    "location": "Remote",
    "role": "Senior AI Engineer (AI Transformation Hub)",
@@ -4865,7 +4866,7 @@
     159000,
     249000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Addepar",
    "location": "Remote",
    "role": "Staff AI Security Engineer, Security Solutions",
@@ -4879,7 +4880,7 @@
     165000,
     220000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Addition Wealth",
    "location": "New York \u00b7 Remote",
    "role": "Staff Software Engineer",
@@ -4893,7 +4894,7 @@
     200000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "AHEAD",
    "location": "Remote",
    "role": "Senior AI Engineer, AI Services",
@@ -4907,7 +4908,7 @@
     180000,
     230000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "AKASA",
    "location": "New York \u00b7 Hybrid",
    "role": "Sr. Software Engineer, Backend",
@@ -4921,7 +4922,7 @@
     165000,
     240000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Angi",
    "location": "Remote",
    "role": "Principal Analytics Engineer",
@@ -4935,7 +4936,7 @@
     165000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Anrok",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Software Engineer (7+ years of experience)",
@@ -4949,7 +4950,7 @@
     200000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Arca",
    "location": "New York \u00b7 On-site 5 days",
    "role": "Member of Technical Staff, Platform Engineer",
@@ -4963,7 +4964,7 @@
     131250,
     235136
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Arcadia (Energy)",
    "location": "Remote",
    "role": "Application Security Engineer",
@@ -4977,7 +4978,7 @@
     165000,
     295000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Arcadia (Energy)",
    "location": "Remote",
    "role": "Staff Software Engineer, Energy Analytics",
@@ -4991,7 +4992,7 @@
     180000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Artemis",
    "location": "New York \u00b7 On-site",
    "role": "Senior Software Engineer, Infrastructure",
@@ -5005,7 +5006,7 @@
     150000,
     275000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "ATG (Autonomous Technologies Group)",
    "location": "New York \u00b7 Hybrid",
    "role": "Member of Technical Staff (Data Platform)",
@@ -5019,7 +5020,7 @@
     180000,
     275000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Basic Capital",
    "location": "New York \u00b7 On-site",
    "role": "Software Engineer - Infrastructure & DevOps",
@@ -5033,7 +5034,7 @@
     190000,
     200000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Bounteous",
    "location": "Remote",
    "role": "Principal Databricks Architect",
@@ -5047,7 +5048,7 @@
     200000,
     230000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Canopy Works",
    "location": "New York",
    "role": "Staff Software Engineer - NYC Tri-State Area",
@@ -5061,7 +5062,7 @@
     200000,
     255000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Cape",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Security Engineer, Product Security",
@@ -5090,7 +5091,7 @@
     190000,
     260000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Centralize",
    "location": "New York \u00b7 Remote",
    "role": "Software Engineer (Infrastructure)",
@@ -5104,7 +5105,7 @@
     205000,
     230000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Cents",
    "location": "New York \u00b7 Remote",
    "role": "Principal Engineer",
@@ -5118,7 +5119,7 @@
     190000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Cinder",
    "location": "New York",
    "role": "Senior Software Engineer - Full Stack",
@@ -5132,7 +5133,7 @@
     127000,
     212000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Coalfire",
    "location": "Remote",
    "role": "Principal Google Cloud Security Consultant",
@@ -5146,7 +5147,7 @@
     160000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Codes Health",
    "location": "New York \u00b7 On-site",
    "role": "Software Engineer",
@@ -5160,7 +5161,7 @@
     260000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Cognition",
    "location": "New York \u00b7 On-site",
    "role": "Software Engineer, Infrastructure",
@@ -5174,7 +5175,7 @@
     160000,
     230000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Commure",
    "location": "San Francisco \u00b7 Remote",
    "role": "Senior Fullstack Engineer, Commure Pro",
@@ -5188,7 +5189,7 @@
     220000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Conveo.ai",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Senior Product Engineer",
@@ -5202,7 +5203,7 @@
     170000,
     230000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Corvus Robotics",
    "location": "Hybrid",
    "role": "Senior Software Engineer",
@@ -5216,7 +5217,7 @@
     166666,
     208333
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Coupa Software",
    "location": "Remote",
    "role": "Sr Lead Network Reliability Engineer",
@@ -5230,7 +5231,7 @@
     120000,
     200000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Distru",
    "location": "Remote",
    "role": "AI Product Engineer",
@@ -5244,7 +5245,7 @@
     200000,
     275000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Doctronic",
    "location": "New York \u00b7 On-site",
    "role": "Senior Data Engineer",
@@ -5258,7 +5259,7 @@
     150000,
     400000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Doppel",
    "location": "New York \u00b7 Hybrid",
    "role": "Software Engineer, Infrastructure",
@@ -5272,7 +5273,7 @@
     280000,
     310000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "DriveWealth",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Principal Software Development Engineer, Digital Assets & Web3",
@@ -5286,7 +5287,7 @@
     180000,
     200000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Duetti",
    "location": "New York \u00b7 Hybrid",
    "role": "Lead Engineer",
@@ -5300,7 +5301,7 @@
     187000,
     253000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Eigen Labs",
    "location": "Seattle \u00b7 Remote",
    "role": "Senior Agentic AI Engineer",
@@ -5329,7 +5330,7 @@
     175000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Endra",
    "location": "New York \u00b7 On-site",
    "role": "Software Engineer - Product",
@@ -5343,7 +5344,7 @@
     180000,
     295000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Enigma",
    "location": "New York",
    "role": "Senior Software Engineer, Match Team",
@@ -5357,7 +5358,7 @@
     150000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Etched",
    "location": "Remote",
    "role": "Security Engineer (Remote)",
@@ -5371,7 +5372,7 @@
     139844,
     252267
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Experian",
    "location": "Remote",
    "role": "Distinguished Platform Solutions Architect",
@@ -5385,7 +5386,7 @@
     137102,
     246784
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Experian",
    "location": "Remote",
    "role": "Staff Platform Architect, Data & AI",
@@ -5399,7 +5400,7 @@
     185000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Fay",
    "location": "NYC \u00b7 Remote",
    "role": "Software Engineer",
@@ -5413,7 +5414,7 @@
     125000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Fin",
    "location": "New York \u00b7 Remote",
    "role": "Senior Backend Software Engineer",
@@ -5427,7 +5428,7 @@
     170000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Forus",
    "location": "New York \u00b7 On-site",
    "role": "Software Engineer, Platform & Infrastructure",
@@ -5441,7 +5442,7 @@
     250000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "The General Intelligence Company of New York",
    "location": "New York \u00b7 On-site",
    "role": "Applied AI Engineer - Agent",
@@ -5455,7 +5456,7 @@
     120000,
     210000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Glass Health",
    "location": "Remote",
    "role": "Founding Software Engineer (Backend, Remote)",
@@ -5469,7 +5470,7 @@
     190000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "GovDash",
    "location": "New York \u00b7 On-site",
    "role": "Product Engineer",
@@ -5483,7 +5484,7 @@
     170250,
     227000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Gravie",
    "location": "Remote",
    "role": "Data Platform Architect",
@@ -5497,11 +5498,12 @@
     265000,
     265000
    ],
-   "bucket": "going-quiet",
+   "bucket": "rejected",
    "company": "Headstart",
    "location": "New York \u00b7 Hybrid",
+   "rejectedOn": "2026-09-14",
    "role": "Staff, Applied AI Engineer",
-   "status": "applied",
+   "status": "rejected",
    "url": "https://jobs.ashbyhq.com/headstart/a0f891b6-b05c-4724-90a3-601f5040df87/application"
   },
   {
@@ -5511,7 +5513,7 @@
     160000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Hebbia",
    "location": "New York \u00b7 On-site",
    "role": "Software Engineer, Infrastructure",
@@ -5525,7 +5527,7 @@
     160000,
     350000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Hebbia",
    "location": "NYC \u00b7 On-site",
    "role": "Software Engineer, Site Reliability",
@@ -5539,7 +5541,7 @@
     240570,
     297000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Horizon3.ai",
    "location": "Remote",
    "role": "Principal Cloud FinOps Analyst",
@@ -5553,7 +5555,7 @@
     200000,
     350000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Hypha",
    "location": "NYC \u00b7 On-site",
    "role": "Senior/Staff Backend Engineer, Applied AI",
@@ -5597,7 +5599,7 @@
     190000,
     222000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Jane Technologies",
    "location": "Remote",
    "role": "Lead Software Engineer, Ads",
@@ -5626,7 +5628,7 @@
     200000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Jito Labs",
    "location": "Remote",
    "role": "Senior Software Engineer - JTX",
@@ -5640,7 +5642,7 @@
     150000,
     275000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Joyful Health",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Founding Infra Engineer",
@@ -5654,7 +5656,7 @@
     250000,
     350000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Kepler",
    "location": "New York \u00b7 On-site",
    "role": "Agentic Systems Engineer",
@@ -5668,7 +5670,7 @@
     210000,
     260000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Kindo",
    "location": "San Francisco \u00b7 Hybrid",
    "role": "Senior / Staff Software Engineer, AI",
@@ -5682,7 +5684,7 @@
     180000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Koah Labs",
    "location": "New York \u00b7 On-site",
    "role": "Software Engineer - Platform",
@@ -5696,7 +5698,7 @@
     200000,
     285000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Latent",
    "location": "New York \u00b7 On-site",
    "role": "Software Engineer",
@@ -5710,7 +5712,7 @@
     230000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Latitude",
    "location": "Remote",
    "role": "Senior Software Engineer",
@@ -5724,7 +5726,7 @@
     200000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Leap",
    "location": "New York \u00b7 Remote",
    "role": "Founding Software Engineer",
@@ -5738,7 +5740,7 @@
     300000,
     385000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Legion Technologies",
    "location": "Remote",
    "role": "Chief Architect",
@@ -5752,7 +5754,7 @@
     225000,
     260000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "LogRocket",
    "location": "NYC \u00b7 Hybrid",
    "role": "Lead Software Engineer",
@@ -5766,7 +5768,7 @@
     227500,
     280000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Mainspring Energy",
    "location": "Remote",
    "role": "Principal Software Architect - AI & Security",
@@ -5780,11 +5782,12 @@
     200000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "rejected",
    "company": "Manifest OS",
    "location": "New York \u00b7 On-site 5 days",
+   "rejectedOn": "2026-09-14",
    "role": "Software Engineer",
-   "status": "applied",
+   "status": "rejected",
    "url": "https://jobs.ashbyhq.com/manifest-os/7c8dca6c-9d88-48be-8179-e3a2333497d8"
   },
   {
@@ -5794,7 +5797,7 @@
     190000,
     235000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Material Security",
    "location": "Remote",
    "role": "Senior Software Engineer, Cloud Office Security",
@@ -5808,7 +5811,7 @@
     185000,
     310000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Maybern",
    "location": "New York \u00b7 On-site",
    "role": "Forward Deployed Engineer",
@@ -5822,7 +5825,7 @@
     190000,
     260000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Moonshot AI",
    "location": "New York \u00b7 On-site",
    "role": "Staff Software Engineer",
@@ -5836,7 +5839,7 @@
     200000,
     230000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Nebulock",
    "location": "Remote",
    "role": "Principal Software Engineer",
@@ -5850,7 +5853,7 @@
     184000,
     260000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Neon Health",
    "location": "San Francisco \u00b7 Remote",
    "role": "Staff Software Engineer",
@@ -5864,7 +5867,7 @@
     200000,
     270000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "NewtonX",
    "location": "New York \u00b7 Hybrid",
    "role": "Senior Staff Software Engineer",
@@ -5878,7 +5881,7 @@
     180000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Niva",
    "location": "New York \u00b7 On-site",
    "role": "AI Applied Engineer",
@@ -5922,7 +5925,7 @@
     223000,
     239000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Obsidian Security",
    "location": "Philadelphia",
    "role": "Staff Software Engineer",
@@ -5951,7 +5954,7 @@
     160000,
     220000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Oneleet",
    "location": "Philadelphia \u00b7 Remote",
    "role": "Application Security Engineer",
@@ -5965,7 +5968,7 @@
     170000,
     210000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "OnePay",
    "location": "Remote",
    "role": "Platform Engineer, Core Services",
@@ -5979,7 +5982,7 @@
     180000,
     220000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Order.co",
    "location": "NYC \u00b7 Hybrid",
    "role": "Staff Security Engineer",
@@ -5993,7 +5996,7 @@
     200000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "OuterSignal",
    "location": "New York \u00b7 Hybrid",
    "role": "Senior Software Engineer",
@@ -6007,7 +6010,7 @@
     160000,
     265000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Outtake",
    "location": "New York \u00b7 On-site 5 days",
    "role": "Software Engineer (Security)",
@@ -6021,7 +6024,7 @@
     190000,
     220000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Owner.com",
    "location": "San Francisco \u00b7 On-site",
    "role": "Data Platform Engineer",
@@ -6035,7 +6038,7 @@
     135000,
     200000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Palantir Technologies",
    "location": "New York \u00b7 Hybrid",
    "role": "DevOps Engineer (Compute Tools)",
@@ -6049,7 +6052,7 @@
     135000,
     200000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Palantir Technologies",
    "location": "New York \u00b7 Hybrid",
    "role": "Senior Identity Security Engineer",
@@ -6063,7 +6066,7 @@
     170000,
     240000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Propel",
    "location": "NYC \u00b7 Remote",
    "role": "Senior Platform Engineer",
@@ -6077,7 +6080,7 @@
     170000,
     200000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Reality Defender",
    "location": "New York \u00b7 Remote",
    "role": "Senior Dev Ops Engineer",
@@ -6091,7 +6094,7 @@
     180000,
     220000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Rearc",
    "location": "Remote",
    "role": "Lead Data Engineer",
@@ -6105,7 +6108,7 @@
     165000,
     220000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Regard",
    "location": "New York \u00b7 Hybrid 2-3 days",
    "role": "Senior Backend Software Engineer",
@@ -6119,7 +6122,7 @@
     150000,
     200000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Rescale",
    "location": "Remote",
    "role": "Principal Security GRC Analyst",
@@ -6133,7 +6136,7 @@
     275000,
     400000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "River Technologies",
    "location": "NYC \u00b7 On-site",
    "role": "Engineering Team (general engineering req)",
@@ -6147,7 +6150,7 @@
     175000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Sapien",
    "location": "NYC \u00b7 On-site",
    "role": "Full-Stack Engineer",
@@ -6161,7 +6164,7 @@
     210000,
     230000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Sequence",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Senior Software Engineer - NYC",
@@ -6175,7 +6178,7 @@
     225000,
     255000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Shepherd",
    "location": "New York \u00b7 On-site 5 days",
    "role": "Staff Software Engineer",
@@ -6189,7 +6192,7 @@
     150000,
     200000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "SnapLogic",
    "location": "Remote",
    "role": "Forward Deployed Engineer",
@@ -6203,7 +6206,7 @@
     210000,
     260000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Spara",
    "location": "New York \u00b7 Hybrid",
    "role": "Staff AI Engineer",
@@ -6217,7 +6220,7 @@
     200000,
     225000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "SpruceID",
    "location": "Remote",
    "role": "Principal Forward Deployed Engineer",
@@ -6231,7 +6234,7 @@
     150000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Spur",
    "location": "New York \u00b7 On-site",
    "role": "Founding Applied AI Product Engineer (posted via the Pear VC portfolio board)",
@@ -6245,7 +6248,7 @@
     160000,
     240000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Stable",
    "location": "New York \u00b7 Remote",
    "role": "Product Engineer",
@@ -6259,7 +6262,7 @@
     189000,
     231000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Stacklok",
    "location": "Remote",
    "role": "Sr. Software Engineer - Platform",
@@ -6273,7 +6276,7 @@
     165000,
     215000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Stellar Cyber",
    "location": "On-site",
    "role": "Senior DevOps Engineer / Site Reliability Engineer - East Coast",
@@ -6317,7 +6320,7 @@
     132000,
     230000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Tensec",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Software Engineer",
@@ -6345,7 +6348,7 @@
     100000,
     250000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Thera",
    "location": "New York \u00b7 On-site",
    "role": "Staff Engineer",
@@ -6374,7 +6377,7 @@
     150000,
     280000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Tremendous",
    "location": "Remote",
    "role": "Senior Software Engineer",
@@ -6388,7 +6391,7 @@
     150000,
     200000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Triomics",
    "location": "New York \u00b7 Hybrid",
    "role": "Platform Engineer",
@@ -6432,7 +6435,7 @@
     299000,
     350000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "TWG Global AI",
    "location": "New York \u00b7 On-site",
    "role": "VP, Solutions Architect",
@@ -6446,7 +6449,7 @@
     220000,
     280000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Valid",
    "location": "Remote",
    "role": "Principal Engineer",
@@ -6460,7 +6463,7 @@
     null,
     200000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Vector",
    "location": "Remote",
    "role": "Senior Software Engineer, Backend",
@@ -6474,7 +6477,7 @@
     180000,
     215000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Very Good Security (VGS)",
    "location": "Remote",
    "role": "Staff Product Engineer",
@@ -6488,7 +6491,7 @@
     196000,
     265000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Vibe",
    "location": "New York \u00b7 Hybrid 3 days",
    "role": "Senior Backend Engineer, Integrations",
@@ -6502,7 +6505,7 @@
     210000,
     258000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Waabi",
    "location": "Remote",
    "role": "Applied AI Security Engineer",
@@ -6516,7 +6519,7 @@
     180000,
     234000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Waabi",
    "location": "Remote",
    "role": "Senior / Staff Machine Learning Infrastructure Engineer",
@@ -6545,7 +6548,7 @@
     170000,
     220000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Yendo",
    "location": "Remote",
    "role": "Senior Backend Engineer",
@@ -6559,7 +6562,7 @@
     225000,
     300000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Yobi",
    "location": "Remote",
    "role": "Tech Lead / Software Engineer - Yobi Ad Platform",
@@ -6573,7 +6576,7 @@
     170000,
     200000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Zus Health",
    "location": "Remote",
    "role": "Staff Software Engineer, Platform",
@@ -9319,11 +9322,12 @@
   {
    "appliedOn": "2026-09-13",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "rejected",
    "company": "Norm Ai",
    "location": "",
+   "rejectedOn": "2026-09-14",
    "role": "Software Engineer, Full Stack",
-   "status": "applied",
+   "status": "rejected",
    "url": "https://jobs.ashbyhq.com/norm-ai/c1f5a1d9-c750-4cf3-913d-ab9123fcabad"
   },
   {
@@ -9527,7 +9531,7 @@
    "url": "https://job-boards.greenhouse.io/webflow/jobs/8148362"
   }
  ],
- "generatedFor": "2026-09-13",
+ "generatedFor": "2026-09-14",
  "series": {
   "bandHistogram": [
    [
@@ -9717,6 +9721,7 @@
    1,
    1,
    1,
+   1,
    2,
    2,
    2,
@@ -9816,7 +9821,10 @@
    13,
    13,
    14,
+   15,
+   15,
    18,
+   19,
    21
   ],
   "topCompanies": [
@@ -9889,8 +9897,8 @@
   "rejectionLatency": {
    "max": 21,
    "median": 5,
-   "n": 109,
-   "p90": 11
+   "n": 113,
+   "p90": 12
   },
   "total": 727
  }
