@@ -609,11 +609,12 @@
     205000,
     245000
    ],
-   "bucket": "presumed-dead",
+   "bucket": "rejected",
    "company": "Cribl",
    "location": "Remote",
+   "rejectedOn": "2026-09-19",
    "role": "Staff Software Engineer, Core Platform",
-   "status": "applied",
+   "status": "rejected",
    "url": "https://job-boards.greenhouse.io/cribl/jobs/5971707004"
   },
   {
@@ -938,11 +939,12 @@
     204000,
     264000
    ],
-   "bucket": "presumed-dead",
+   "bucket": "rejected",
    "company": "Affirm",
    "location": "Remote",
+   "rejectedOn": "2026-09-15",
    "role": "Staff Software Engineer, Backend (Online Storage)",
-   "status": "applied",
+   "status": "rejected",
    "url": "https://job-boards.greenhouse.io/affirm/jobs/7833950003"
   },
   {
@@ -2904,11 +2906,12 @@
     200000,
     300000
    ],
-   "bucket": "presumed-dead",
+   "bucket": "rejected",
    "company": "Radar",
    "location": "New York \u00b7 On-site 4 days",
+   "rejectedOn": "2026-09-19",
    "role": "Senior / Staff Platform Engineer",
-   "status": "applied",
+   "status": "rejected",
    "url": "https://jobs.ashbyhq.com/radar/ee0bf269-c286-4815-86d4-2b19d7b77448"
   },
   {
@@ -7828,11 +7831,12 @@
   {
    "appliedOn": "2026-09-03",
    "ats": "greenhouse",
-   "bucket": "going-quiet",
+   "bucket": "rejected",
    "company": "AcuityMD",
    "location": "",
+   "rejectedOn": "2026-09-17",
    "role": "(role not stated in the acknowledgement)",
-   "status": "applied",
+   "status": "rejected",
    "url": "https://boards.greenhouse.io/acuitymd"
   },
   {
@@ -7842,7 +7846,7 @@
     120000,
     200000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Compound Planning",
    "location": "Remote",
    "role": "Staff Software Engineer",
@@ -7852,7 +7856,7 @@
   {
    "appliedOn": "2026-09-03",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Compound",
    "location": "",
    "role": "Staff Software Engineer",
@@ -7866,7 +7870,7 @@
     241000,
     270000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Garner Health",
    "location": "NYC \u00b7 Remote",
    "role": "Staff Site Reliability Engineer",
@@ -7880,7 +7884,7 @@
     192010,
     274300
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Kong",
    "location": "Remote",
    "role": "Forward Deployed Engineer",
@@ -7894,7 +7898,7 @@
     208000,
     312000
    ],
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Vercel",
    "location": "Remote",
    "role": "Security Software Engineer, IAM",
@@ -7904,7 +7908,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Amigo",
    "location": "",
    "role": "Staff Software Engineer - Data [NYC or SF]",
@@ -7914,7 +7918,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Arca",
    "location": "",
    "role": "Member of Technical Staff, Security Engineer",
@@ -7924,7 +7928,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Arlo",
    "location": "",
    "role": "Staff Software Engineer",
@@ -7934,7 +7938,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Artemis",
    "location": "",
    "role": "Senior Software Engineer",
@@ -7944,7 +7948,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Astronomer",
    "location": "",
    "role": "Staff Software Engineer, Observability",
@@ -7954,7 +7958,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Atticus",
    "location": "",
    "role": "Lead Infrastructure Engineer",
@@ -7964,7 +7968,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Auctor",
    "location": "",
    "role": "Software Engineer, Applied AI",
@@ -7984,7 +7988,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "greenhouse",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Axon",
    "location": "",
    "role": "Senior Site Reliability Engineer, Axon 911",
@@ -7994,7 +7998,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "brightwheel",
    "location": "",
    "role": "Principal AI Software Engineer, GTM",
@@ -8015,7 +8019,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "greenhouse",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Celonis",
    "location": "",
    "role": "Staff Software Engineer",
@@ -8025,7 +8029,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Centralize",
    "location": "",
    "role": "Software Engineer (Product)",
@@ -8035,11 +8039,12 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "greenhouse",
-   "bucket": "going-quiet",
+   "bucket": "rejected",
    "company": "Cloudflare",
    "location": "",
+   "rejectedOn": "2026-09-17",
    "role": "Principal Software Engineer, Workers Deploy & Config",
-   "status": "applied",
+   "status": "rejected",
    "url": "https://boards.greenhouse.io/cloudflare/jobs/8055320?gh_jid=8055320"
   },
   {
@@ -8056,7 +8061,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Decagon",
    "location": "",
    "role": "Staff Software Engineer, Enterprise Product",
@@ -8066,7 +8071,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Doctronic",
    "location": "",
    "role": "DevOps Engineer",
@@ -8076,7 +8081,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Doppel",
    "location": "",
    "role": "Software Engineer, Detection",
@@ -8086,7 +8091,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Doppel",
    "location": "",
    "role": "Software Engineer, Platform",
@@ -8096,7 +8101,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "greenhouse",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Elastic",
    "location": "",
    "role": "Principal Software Engineer I - Serverless - Platform Control Plane",
@@ -8106,7 +8111,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Espresso AI",
    "location": "",
    "role": "Staff Infrastructure Engineer",
@@ -8116,7 +8121,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Fieldguide",
    "location": "",
    "role": "Software Engineer (All Levels)",
@@ -8126,7 +8131,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Fluidstack",
    "location": "",
    "role": "Security Engineer, Bare Metal",
@@ -8136,7 +8141,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Footprint",
    "location": "",
    "role": "Member of Technical Staff (Infrastructure)",
@@ -8146,7 +8151,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Forus",
    "location": "",
    "role": "Software Engineer, Developer Productivity",
@@ -8156,7 +8161,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "greenhouse",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "GitLab",
    "location": "",
    "role": "Senior Migration Engineer - GitLab Dedicated",
@@ -8166,7 +8171,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "greenhouse",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "GitLab",
    "location": "",
    "role": "Staff Infrastructure Security Engineer (USA)",
@@ -8176,7 +8181,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Hebbia",
    "location": "",
    "role": "Platform Engineer, Document Intelligence",
@@ -8186,7 +8191,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Kiddom",
    "location": "",
    "role": "Senior Full Stack Engineer, AI Experience",
@@ -8196,7 +8201,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "greenhouse",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Knit",
    "location": "",
    "role": "Staff Full Stack Engineer",
@@ -8206,7 +8211,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Modal",
    "location": "",
    "role": "Infrastructure Security Engineer",
@@ -8216,7 +8221,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Mudflap",
    "location": "",
    "role": "Software Engineer, Ruby on Rails",
@@ -8226,7 +8231,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "greenhouse",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Nextdoor",
    "location": "",
    "role": "Senior Software Engineer - Backend",
@@ -8236,7 +8241,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Noto",
    "location": "",
    "role": "Senior/Staff Product Engineer - Full Stack",
@@ -8246,7 +8251,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Office Hours",
    "location": "",
    "role": "Senior Software Engineer, Search & Discovery",
@@ -8256,7 +8261,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Onebrief",
    "location": "",
    "role": "Infrastructure Engineer",
@@ -8266,7 +8271,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Outtake",
    "location": "",
    "role": "Software Engineer, Infrastructure",
@@ -8276,7 +8281,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "workable",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Parisi Labs",
    "location": "",
    "role": "ML Data Platform Engineer",
@@ -8286,7 +8291,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Patreon",
    "location": "",
    "role": "Senior Machine Learning Engineer, Infrastructure",
@@ -8318,7 +8323,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Pivotal Health",
    "location": "",
    "role": "Staff Site Reliability Engineer",
@@ -8328,7 +8333,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Polymarket",
    "location": "",
    "role": "Senior Backend Engineer, Payments",
@@ -8338,7 +8343,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Polymarket",
    "location": "",
    "role": "Senior Backend Engineer, Product Infrastructure",
@@ -8348,7 +8353,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Polymarket",
    "location": "",
    "role": "Senior Backend Engineer, Trust & Safety",
@@ -8358,7 +8363,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Polymarket",
    "location": "",
    "role": "Staff Backend Engineer, Services",
@@ -8368,7 +8373,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Prefect",
    "location": "",
    "role": "Staff Platform Engineer",
@@ -8378,7 +8383,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Radar",
    "location": "",
    "role": "Senior / Staff Product Engineer",
@@ -8388,7 +8393,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Render",
    "location": "",
    "role": "Software Engineer, Compute Infrastructure",
@@ -8398,7 +8403,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Snowflake",
    "location": "",
    "role": "Staff Security Engineer - Enterprise Security",
@@ -8408,7 +8413,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Teleport",
    "location": "",
    "role": "Site Reliability Engineer (Forward Deployed)",
@@ -8418,7 +8423,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "Titan",
    "location": "",
    "role": "Senior Backend / Infrastructure Engineer - TypeScript",
@@ -8428,7 +8433,7 @@
   {
    "appliedOn": "2026-09-04",
    "ats": "ashby",
-   "bucket": "going-quiet",
+   "bucket": "presumed-dead",
    "company": "WorkOS",
    "location": "",
    "role": "Site Reliability Engineer",
@@ -8438,7 +8443,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "AlphaSense",
    "location": "",
    "role": "Staff Platform Engineer, Core Cloud Platform",
@@ -8448,7 +8453,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Arca",
    "location": "",
    "role": "Member of Technical Staff, Agent Platform",
@@ -8458,7 +8463,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Arlo",
    "location": "",
    "role": "Senior ML Infrastructure Engineer",
@@ -8468,7 +8473,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Astra",
    "location": "",
    "role": "Senior Backend Engineer",
@@ -8478,7 +8483,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Axion",
    "location": "",
    "role": "Senior Infrastructure Engineer",
@@ -8488,7 +8493,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Camber",
    "location": "",
    "role": "Senior Platform Software Engineer",
@@ -8498,7 +8503,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "lever",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "CaptivateIQ",
    "location": "",
    "role": "Senior Software Engineer - AI Platform (East Coast)",
@@ -8508,7 +8513,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Clear Street",
    "location": "",
    "role": "Senior / Staff Full-Stack Product Engineer",
@@ -8518,7 +8523,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Cohere",
    "location": "",
    "role": "Software Engineer, Data Infrastructure",
@@ -8528,7 +8533,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Confluent",
    "location": "",
    "role": "Staff Software Engineer I (Tableflow / Kora storage)",
@@ -8538,7 +8543,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Cresta",
    "location": "",
    "role": "Senior Software Engineer, Backend (AI Agent)",
@@ -8559,7 +8564,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Databricks",
    "location": "",
    "role": "Specialist Solutions Architect - Data Warehousing (Healthcare & Life Sciences)",
@@ -8569,7 +8574,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "EliseAI",
    "location": "",
    "role": "Senior Platform Operations Engineer",
@@ -8579,7 +8584,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Gemini",
    "location": "",
    "role": "Staff Platform Security Engineer",
@@ -8589,7 +8594,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Harvey",
    "location": "",
    "role": "Senior Software Engineer, Data Platform",
@@ -8599,7 +8604,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Hebbia AI",
    "location": "",
    "role": "Backend Engineer, Growth and Data",
@@ -8609,7 +8614,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Hex",
    "location": "",
    "role": "Software Engineer, Backend (Platform)",
@@ -8619,7 +8624,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Horizon3.ai",
    "location": "",
    "role": "Principal Engineer, Tech Lead - Platform Integration Team",
@@ -8629,7 +8634,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Hypha",
    "location": "",
    "role": "Senior/Staff Full Stack Product Engineer",
@@ -8639,7 +8644,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "lever",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Istari Digital",
    "location": "",
    "role": "DevSecOps Engineer",
@@ -8649,7 +8654,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Kalshi",
    "location": "",
    "role": "Software Engineer, Trading Platform",
@@ -8659,7 +8664,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Linero",
    "location": "",
    "role": "Senior Engineer, Backend",
@@ -8669,7 +8674,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "lever",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "LogRocket",
    "location": "",
    "role": "Senior Software Engineer",
@@ -8679,7 +8684,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "MaintainX (An Autodesk Company)",
    "location": "",
    "role": "DevOps Engineer",
@@ -8689,7 +8694,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Manifest OS",
    "location": "",
    "role": "Staff Software Engineer",
@@ -8699,7 +8704,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "lever",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Match Group (Hinge)",
    "location": "",
    "role": "Senior Backend Engineer",
@@ -8709,7 +8714,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Maven Clinic",
    "location": "",
    "role": "Staff Software Engineer, Backend Engineering",
@@ -8719,7 +8724,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Northslope Technologies",
    "location": "",
    "role": "Forward Deployed Software Engineer",
@@ -8740,7 +8745,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Onebrief",
    "location": "",
    "role": "Staff Infrastructure Engineer",
@@ -8750,7 +8755,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Phantom",
    "location": "",
    "role": "Software Engineer, Backend (Trading)",
@@ -8760,7 +8765,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Radar",
    "location": "",
    "role": "Senior / Staff Product Engineer, Backend",
@@ -8770,7 +8775,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Reddit",
    "location": "",
    "role": "Senior Staff Machine Learning Systems Engineer, Ads ML Platform",
@@ -8780,7 +8785,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Render",
    "location": "",
    "role": "Software Engineer, Network Infrastructure",
@@ -8790,7 +8795,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Sequence",
    "location": "",
    "role": "Senior Product Engineer (Backend) - NYC",
@@ -8800,7 +8805,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Siro",
    "location": "",
    "role": "Staff Software Engineer, Full Stack",
@@ -8810,7 +8815,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Standard Bots",
    "location": "",
    "role": "Senior Software Engineer, Infrastructure & Developer Tooling",
@@ -8820,7 +8825,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Tabs",
    "location": "",
    "role": "Senior Software Engineer, Platform",
@@ -8841,7 +8846,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Traversal",
    "location": "",
    "role": "AI Engineer - Backend",
@@ -8851,7 +8856,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Traversal",
    "location": "",
    "role": "AI Engineer - Cloud Infrastructure",
@@ -8861,7 +8866,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Upside",
    "location": "",
    "role": "Staff Forward Deployed Engineer, GTM Platform",
@@ -8871,7 +8876,7 @@
   {
    "appliedOn": "2026-09-09",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Zeta Global",
    "location": "",
    "role": "Lead Application Security Engineer",
@@ -8881,7 +8886,7 @@
   {
    "appliedOn": "2026-09-10",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Cape",
    "location": "",
    "role": "Lead Distributed Systems Engineer",
@@ -8891,7 +8896,7 @@
   {
    "appliedOn": "2026-09-10",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Komodo Health",
    "location": "",
    "role": "Senior/Staff Platform Engineer",
@@ -8912,7 +8917,7 @@
   {
    "appliedOn": "2026-09-11",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Addepar",
    "location": "",
    "role": "Staff Backend Software Engineer - Platform Integration",
@@ -8922,7 +8927,7 @@
   {
    "appliedOn": "2026-09-11",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Alloy",
    "location": "",
    "role": "Lead Site Reliability Engineer",
@@ -8932,7 +8937,7 @@
   {
    "appliedOn": "2026-09-11",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Clover Health",
    "location": "",
    "role": "Senior Site Reliability Engineer",
@@ -8942,7 +8947,7 @@
   {
    "appliedOn": "2026-09-11",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "CoreWeave",
    "location": "",
    "role": "Staff Systems Engineer (Architect)",
@@ -8952,7 +8957,7 @@
   {
    "appliedOn": "2026-09-11",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "DoorDash",
    "location": "",
    "role": "Software Engineer, Cloud Infrastructure",
@@ -8962,7 +8967,7 @@
   {
    "appliedOn": "2026-09-11",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Fastly",
    "location": "",
    "role": "Staff Software Engineer - Control Systems",
@@ -8972,7 +8977,7 @@
   {
    "appliedOn": "2026-09-11",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "LaunchDarkly",
    "location": "",
    "role": "Senior Backend Engineer, Flag Delivery",
@@ -8982,7 +8987,7 @@
   {
    "appliedOn": "2026-09-11",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Lightning AI",
    "location": "",
    "role": "Senior Backend Engineer, Managed Services",
@@ -8992,7 +8997,7 @@
   {
    "appliedOn": "2026-09-11",
    "ats": "greenhouse",
-   "bucket": "in-window",
+   "bucket": "going-quiet",
    "company": "Oscar Health",
    "location": "",
    "role": "Senior Software Engineer, Cloud Infrastructure / SRE",
@@ -9212,11 +9217,12 @@
   {
    "appliedOn": "2026-09-13",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "rejected",
    "company": "gecko-robotics",
    "location": "",
+   "rejectedOn": "2026-09-15",
    "role": "Forward Deployed Engineer",
-   "status": "applied",
+   "status": "rejected",
    "url": "https://jobs.ashbyhq.com/gecko-robotics/1ae83c3f-565a-48c9-85f7-55ab1c75593d"
   },
   {
@@ -9593,11 +9599,11 @@
   {
    "appliedOn": "2026-09-14",
    "ats": "ashby",
-   "bucket": "in-window",
+   "bucket": "active",
    "company": "Temporal",
    "location": "",
    "role": "Staff Cloud Security Engineer",
-   "status": "applied",
+   "status": "screening",
    "url": "https://jobs.ashbyhq.com/temporal/f8b1d059-32d7-4d78-aea6-2e64dd3e9f6a"
   },
   {
@@ -10133,11 +10139,12 @@
   {
    "appliedOn": "2026-09-16",
    "ats": "lever",
-   "bucket": "in-window",
+   "bucket": "rejected",
    "company": "Ladders",
    "location": "",
+   "rejectedOn": "2026-09-16",
    "role": "Senior Software Engineer",
-   "status": "applied",
+   "status": "rejected",
    "url": "https://jobs.lever.co/ladders/69477365-5edd-48b6-a2d5-c36161847fe4"
   },
   {
@@ -10259,9 +10266,669 @@
    "role": "Staff Software Engineer, Product",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/unify/7e5a6120-df44-4846-9277-7e8f01d7f3e0"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Airbnb",
+   "location": "",
+   "role": "Senior Staff Software Engineer, Guest & Host",
+   "status": "applied",
+   "url": "https://careers.airbnb.com/positions/8017277?gh_jid=8017277"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "workable",
+   "bucket": "in-window",
+   "company": "AppGate Cybersecurity",
+   "location": "",
+   "role": "Staff / Principal Platform Engineer",
+   "status": "applied",
+   "url": "https://apply.workable.com/appgate/j/91E78A60FD/"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Assort Health",
+   "location": "",
+   "role": "Forward Deployed Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/assorthealth/694e3f5a-c777-4db9-9b62-3db952e629fd"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Attentive",
+   "location": "",
+   "role": "Senior Software Engineer, Identity",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/attentive/jobs/4120606009"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Baseten",
+   "location": "",
+   "role": "Software Engineer - Enterprise Platform",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/baseten/e2638fb0-15c8-4109-b7ee-70df1325885d"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Baseten",
+   "location": "",
+   "role": "Software Engineer - Infrastructure",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/baseten/ae64d1d4-7b0a-4be4-8d77-7f5ce63849a7"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Cadence Solutions",
+   "location": "",
+   "role": "Security Infrastructure Engineer (All Levels)",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/solutions/jobs/4680205006"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Charta Health",
+   "location": "",
+   "role": "Software Engineer, Senior",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/chartahealth/8b09b002-9ff1-4209-8291-7673a1e51146"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Cognition",
+   "location": "",
+   "role": "Site Reliability Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/cognition/d50d94b0-60c8-4dae-9c36-234f072ee4e3"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Commure",
+   "location": "",
+   "role": "Senior Software Engineer, Infrastructure",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/commure/489bba93-eb55-4da9-b65f-8109afdef7ee"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Confluent",
+   "location": "",
+   "role": "Staff Software Engineer (Confluent Cloud AI / inference on streaming data)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/confluent/80a47c3e-a160-4277-a452-1eef9c689167"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Cortex",
+   "location": "",
+   "role": "Lead Software Engineer, Backend",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/cortex/jobs/5131543008"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Cresta",
+   "location": "",
+   "role": "Senior Forward Deployed Engineer (AI Agent)",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/cresta/jobs/4759347008"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Crosby",
+   "location": "",
+   "role": "Member of Technical Staff, AI Developer Experience",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/crosby/61b4420b-0c34-43dc-9772-7a8ebf4ff2b0"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Databricks",
+   "location": "",
+   "role": "Sr. Forward Deployed Engineer (FDE) - Financial Services",
+   "status": "applied",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8592939002"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Distyl AI",
+   "location": "",
+   "role": "Enterprise AI Architect",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/distyl/db39fc98-8bd3-4e63-80ce-fd5e1d244f74"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Distyl AI",
+   "location": "",
+   "role": "Software Engineer - Back End",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/distyl/a906a364-236d-4c41-a844-dced0c394936"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Dorsia",
+   "location": "",
+   "role": "Platform Engineer, Security",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/dorsia/jobs/5144512007"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Frec",
+   "location": "",
+   "role": "Backend Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/frec/3251b1c3-d6dd-4654-af14-38eb1570137c"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Harvey",
+   "location": "",
+   "role": "Staff Software Engineer, Core Infrastructure",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/harvey/6cb0809d-923f-4119-a0d1-babb0c9289c4"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Honor",
+   "location": "",
+   "role": "Staff Data Platform Engineer",
+   "status": "applied",
+   "url": "https://boards.greenhouse.io/honor/jobs/8582881002?gh_jid=8582881002"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "lever",
+   "bucket": "in-window",
+   "company": "ION Group (Lab49)",
+   "location": "",
+   "role": "Lead DevOps Engineer, New York",
+   "status": "applied",
+   "url": "https://jobs.lever.co/ion/584dbed8-5035-43fd-947f-db55d6e7d903"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "lever",
+   "bucket": "in-window",
+   "company": "Liatrio",
+   "location": "",
+   "role": "Principal Architect",
+   "status": "applied",
+   "url": "https://jobs.lever.co/liatrio/20b065ed-3a2f-4afd-8fbe-e0f2c380ed2a"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "MaintainX",
+   "location": "",
+   "role": "Senior Platform Developer, AI Builder",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/maintainx/7de7cfae-6bde-4d55-be2a-e014873b7e3b"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Middesk",
+   "location": "",
+   "role": "Forward Deployed Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/middesk/a72b1048-1001-49b1-92bd-9c44574f939b"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Notion",
+   "location": "",
+   "role": "Software Engineer, AI Product Security",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/notion/def3f337-5593-491c-b34d-e0b53f2a5cac"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Notion",
+   "location": "",
+   "role": "Software Engineer, Infrastructure Security",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/notion/e3d8dc06-da05-4e9d-a143-2e9c51fa3d51"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Patreon",
+   "location": "",
+   "role": "Staff Software Engineer, Backend Platform",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/patreon/c277b009-0c9c-4ae7-a72b-56aaad0d985c"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Percepta",
+   "location": "",
+   "role": "AI Infrastructure Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/percepta/c6f9f5f0-0e66-4f1d-9f8e-87ca4de2bdad"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Phantom",
+   "location": "",
+   "role": "Staff Platform Security Engineer (Security)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/phantom/504baea1-48c7-458d-9f45-36e24dbf7035"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "workable",
+   "bucket": "in-window",
+   "company": "Renew Home",
+   "location": "",
+   "role": "Staff Engineer, AI Developer Experience (Remote, US)",
+   "status": "applied",
+   "url": "https://apply.workable.com/renewhome/j/8CDFF59A64/"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "SingleStore",
+   "location": "",
+   "role": "Forward Deployment Engineer, New York, Tri State Area",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/7793656"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Stack AI",
+   "location": "",
+   "role": "Senior Software Engineer - Encryption & PHI",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/stack-ai/33a5f6e2-0cc9-4bb8-8202-4214af649f90"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Standard Metrics",
+   "location": "",
+   "role": "Software Engineer (Backend)",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/standardmetrics/jobs/4568073005"
+  },
+  {
+   "appliedOn": "2026-09-17",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Turing",
+   "location": "",
+   "role": "Staff Security Engineer (Security Platform & Systems)",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/turing/jobs/6186881004"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Addepar",
+   "location": "",
+   "role": "Staff Software Engineer - Calculation Engines",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/addepar1/jobs/8552200002"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Alloy",
+   "location": "",
+   "role": "Lead Full Stack Engineer, Partner Ecosystem",
+   "status": "applied",
+   "url": "https://www.alloy.com/about/jobs/detail?gh_jid=8617057002"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "AlphaSense",
+   "location": "",
+   "role": "Staff AI Platform Engineer",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/alphasense/jobs/8203671002"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "workable",
+   "bucket": "in-window",
+   "company": "CoCreativ",
+   "location": "",
+   "role": "Principal Engineer - Globaledit",
+   "status": "applied",
+   "url": "https://apply.workable.com/j/FB5512B0AC"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "CoreWeave",
+   "location": "",
+   "role": "Staff Software Engineer, IAM",
+   "status": "applied",
+   "url": "https://coreweave.com/careers/job?4680390006&board=coreweave&gh_jid=4680390006"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Distyl AI",
+   "location": "",
+   "role": "AI Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/distyl/46728319-c47a-48c8-bbfb-af0d9bff2ea2"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "DoorDash USA",
+   "location": "",
+   "role": "Staff Software Engineer, Event Streaming Systems",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8049133"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "lever",
+   "bucket": "in-window",
+   "company": "Filevine",
+   "location": "",
+   "role": "Staff Software Development Engineer (Back-end)",
+   "status": "applied",
+   "url": "https://jobs.lever.co/filevine/d664b02b-dc9b-434d-87ae-dd5bb7bb5651"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Flex",
+   "location": "",
+   "role": "Senior Staff Software Engineer, Partner Integrations",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/flex/jobs/4735537005"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "January",
+   "location": "",
+   "role": "Senior Analytics Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/january/97c6a019-5176-415d-8f77-4ed481d1a5ee"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "LangChain",
+   "location": "",
+   "role": "Lead Applied AI Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/langchain/e67d79a1-cbeb-4dd2-8c81-00eb0969f911"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "LaunchDarkly",
+   "location": "",
+   "role": "Staff Engineer, Experience Engineering",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7919873003"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Luminai",
+   "location": "",
+   "role": "Staff Software Engineer, Product",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/luminai/c385ae84-e322-4a54-bb21-e155c9b1713e"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "NetBox Labs",
+   "location": "",
+   "role": "Staff Software Backend Engineer, Tech Lead - Foundations",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/netboxlabs/f8093bde-80b6-47b7-b01e-eaa2cd42e272"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Oscar Health",
+   "location": "",
+   "role": "Staff Software Engineer, Fullstack",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/oscar/jobs/6623974"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Oscilar",
+   "location": "",
+   "role": "Staff Software Engineer - Analytics & Data Architecture",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/oscilar/50e77792-0ce3-4333-9dd6-604bb7da6d8f"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Render",
+   "location": "",
+   "role": "Software Engineer, Security (all levels)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/render/226a1b3b-5937-4880-817b-4beb1f72ecc6"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Rightway",
+   "location": "",
+   "role": "Sr. AI Engineer",
+   "status": "applied",
+   "url": "https://www.rightwayhealthcare.com/jobs?gh_jid=7821454003"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "lever",
+   "bucket": "in-window",
+   "company": "Ro",
+   "location": "",
+   "role": "Staff Software Engineer, Backend",
+   "status": "applied",
+   "url": "https://jobs.lever.co/ro/d6573ca1-6f38-4aad-8bb9-236a7d84ab69"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "lever",
+   "bucket": "in-window",
+   "company": "Ro",
+   "location": "",
+   "role": "Staff Software Engineer, Backend - Commerce Platform",
+   "status": "applied",
+   "url": "https://jobs.lever.co/ro/d3d9a0f1-f01b-4d2b-94f5-2351e897da6d"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "workable",
+   "bucket": "in-window",
+   "company": "Runware",
+   "location": "",
+   "role": "Staff Software Engineer - Serverless",
+   "status": "applied",
+   "url": "https://apply.workable.com/j/3A932CE62B"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Sequence",
+   "location": "",
+   "role": "AI Engineer - NYC",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/sequence/3d64276a-98ad-4b23-8807-0c013415b1a9"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "greenhouse",
+   "bucket": "in-window",
+   "company": "Sigma Computing",
+   "location": "",
+   "role": "Staff AI/ML Engineer",
+   "status": "applied",
+   "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7767733003"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Siro",
+   "location": "",
+   "role": "Senior Software Engineer, Backend",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/siro/2c99c060-5be1-4002-a757-2375c3a96c15"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Stack AI",
+   "location": "",
+   "role": "Senior Software Engineer, Identity & Access",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/stack-ai/9cf7747c-ad29-444e-890d-d3d6abc0ff53"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Stepful",
+   "location": "",
+   "role": "Senior Software Engineer 2",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/stepful/227ebf1e-4d95-46cb-9b52-f7e6677db180"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "workable",
+   "bucket": "in-window",
+   "company": "TetraScience",
+   "location": "",
+   "role": "Senior Software Engineer, Agents",
+   "status": "applied",
+   "url": "https://apply.workable.com/j/FE8C506B20"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "workable",
+   "bucket": "in-window",
+   "company": "Trexquant Investment",
+   "location": "",
+   "role": "Senior Data Architect (USA)",
+   "status": "applied",
+   "url": "https://apply.workable.com/j/C0D6D3FBBA"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Twenty",
+   "location": "",
+   "role": "Senior/Staff DevOps Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/twenty/2115e62c-b2e5-4fc4-94fb-1009ccc3f1a8"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Unify",
+   "location": "",
+   "role": "Staff Software Engineer, Platform",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/unify/07590b87-dc35-4375-8738-6482ea9998dd"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Upside",
+   "location": "",
+   "role": "Staff Application Security Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/upside/e2d50c7e-ba58-47bd-ad31-a0e3dbf0786a"
   }
  ],
- "generatedFor": "2026-09-17",
+ "generatedFor": "2026-09-20",
  "series": {
   "bandHistogram": [
    [
@@ -10292,19 +10959,19 @@
   "byAts": [
    [
     "ashby",
-    512
+    546
    ],
    [
     "greenhouse",
-    203
+    224
    ],
    [
     "lever",
-    54
+    59
    ],
    [
     "workable",
-    16
+    22
    ],
    [
     "rippling",
@@ -10455,11 +11122,22 @@
     "2026-09-16",
     26,
     800
+   ],
+   [
+    "2026-09-17",
+    35,
+    835
+   ],
+   [
+    "2026-09-20",
+    31,
+    866
    ]
   ],
   "latencies": [
    0,
    0,
+   0,
    1,
    1,
    1,
@@ -10467,6 +11145,7 @@
    1,
    1,
    1,
+   2,
    2,
    2,
    2,
@@ -10565,12 +11244,17 @@
    13,
    13,
    13,
+   13,
+   14,
    14,
    15,
    15,
    18,
    19,
-   21
+   20,
+   21,
+   22,
+   25
   ],
   "topCompanies": [
    [
@@ -10579,7 +11263,7 @@
    ],
    [
     "AlphaSense",
-    7
+    8
    ],
    [
     "Auctor",
@@ -10590,12 +11274,28 @@
     5
    ],
    [
+    "Harvey",
+    5
+   ],
+   [
     "Polymarket",
     5
    ],
    [
     "Reddit",
     5
+   ],
+   [
+    "Confluent",
+    4
+   ],
+   [
+    "CoreWeave",
+    4
+   ],
+   [
+    "Crosby",
+    4
    ],
    [
     "Doppel",
@@ -10610,41 +11310,25 @@
     4
    ],
    [
-    "Harvey",
-    4
-   ],
-   [
     "Maven Clinic",
     4
    ],
    [
-    "SentinelOne",
+    "Notion",
     4
-   ],
-   [
-    "Sola",
-    4
-   ],
-   [
-    "ATG (Autonomous Technologies Group)",
-    3
-   ],
-   [
-    "Aledade",
-    3
    ]
   ]
  },
  "stats": {
   "clearing300k": 179,
-  "companies": 531,
+  "companies": 552,
   "medianBandTop": 270000.0,
   "rejectionLatency": {
-   "max": 21,
-   "median": 5,
-   "n": 113,
-   "p90": 12
+   "max": 25,
+   "median": 5.0,
+   "n": 120,
+   "p90": 13
   },
-  "total": 800
+  "total": 866
  }
 }
