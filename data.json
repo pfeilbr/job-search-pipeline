@@ -10619,6 +10619,16 @@
   },
   {
    "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "a37 (Forge)",
+   "location": "",
+   "role": "Forward Deployed DevOps Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/a37/53f9f578-98a6-4acf-a00e-43791deb6292"
+  },
+  {
+   "appliedOn": "2026-09-20",
    "ats": "greenhouse",
    "bucket": "in-window",
    "company": "Addepar",
@@ -10631,11 +10641,41 @@
    "appliedOn": "2026-09-20",
    "ats": "ashby",
    "bucket": "in-window",
+   "company": "Adonis",
+   "location": "",
+   "role": "Senior Forward Deployed Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/adonis/2b87d599-4a1f-4a1b-a6a4-28f5102662e2"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Adonis",
+   "location": "",
+   "role": "Senior Full Stack Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/adonis/5725694e-7d82-4698-877e-ac4069e6157b"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
    "company": "Aiwyn",
    "location": "",
    "role": "Software Engineer, Practice",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/aiwyn/4b253d6a-aa87-408c-8966-2ba199fa078c"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Alden Labs",
+   "location": "",
+   "role": "Founding Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/alden/9c2de798-d3b4-4e20-b1b7-454bd981196d"
   },
   {
    "appliedOn": "2026-09-20",
@@ -10669,6 +10709,16 @@
   },
   {
    "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Alternative Payments",
+   "location": "",
+   "role": "Forward Deployed Engineer, Operations",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/alternativepayments/b3bb8b72-f3f7-4632-b458-912d20f4a0d3"
+  },
+  {
+   "appliedOn": "2026-09-20",
    "ats": "lever",
    "bucket": "in-window",
    "company": "Anchorage Digital",
@@ -10691,6 +10741,16 @@
    "appliedOn": "2026-09-20",
    "ats": "ashby",
    "bucket": "in-window",
+   "company": "Artian",
+   "location": "",
+   "role": "Senior Software Engineer - Backend",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/artian/2bca55e5-5255-403c-9851-a6adc9b18212"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
    "company": "Arya Health",
    "location": "",
    "role": "Principal Engineer - Platform",
@@ -10706,6 +10766,46 @@
    "role": "Staff Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/aryahealth.ai/25b23b5f-45dd-4634-9b95-0099a96a4a04"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Ascertain",
+   "location": "",
+   "role": "Senior Full-Stack Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/ascertain/1382a9d7-d036-41df-971c-d067d5856dd2"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Assured Health",
+   "location": "",
+   "role": "Staff Software Engineer, Fullstack",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/assured-health/fd64d3b8-fa51-44c5-8d48-252048eb2297"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Avantos",
+   "location": "",
+   "role": "Senior Data and Platform Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/avantos/4b2dc531-155c-4d8a-97b7-d89e27a59c12"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Avantos",
+   "location": "",
+   "role": "Senior DevOps Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/avantos/213cd22e-8cda-4432-bd74-80a1c29ab047"
   },
   {
    "appliedOn": "2026-09-20",
@@ -10789,6 +10889,56 @@
   },
   {
    "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Catena Labs",
+   "location": "",
+   "role": "Forward Deployed Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/catena/a26bbbb9-1b60-40f1-a772-2f4214c784c7"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Catena Labs",
+   "location": "",
+   "role": "Senior Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/catena/30cd0eb7-4292-425f-acae-c201108280b0"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "CertifyOS",
+   "location": "",
+   "role": "Senior Site Reliability Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/certifyos/405a5c5c-5ceb-4f13-93a5-dc176ffd4e1f"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Chainalysis",
+   "location": "",
+   "role": "Senior Infrastructure Engineer, Government Systems",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/chainalysis-careers/0782bd50-fc84-45e5-a517-835bb2a79e37"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Clarasight",
+   "location": "",
+   "role": "Founding Infrastructure Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/clarasight/be372840-4aec-43ad-9d5f-71a35fdb5848"
+  },
+  {
+   "appliedOn": "2026-09-20",
    "ats": "workable",
    "bucket": "in-window",
    "company": "CoCreativ",
@@ -10796,6 +10946,26 @@
    "role": "Principal Engineer - Globaledit",
    "status": "applied",
    "url": "https://apply.workable.com/j/FB5512B0AC"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Concourse",
+   "location": "",
+   "role": "Platform Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/concoursetech/ab7507a9-828c-46ca-9b53-f9f4dadfac30"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Conduit Health",
+   "location": "",
+   "role": "Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/conduit-health/80b8ced7-db19-4587-8348-b1c6de96f0a9"
   },
   {
    "appliedOn": "2026-09-20",
@@ -10821,11 +10991,51 @@
    "appliedOn": "2026-09-20",
    "ats": "ashby",
    "bucket": "in-window",
+   "company": "Credal",
+   "location": "",
+   "role": "Forward Deployed Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/credal/ec8a560e-fe8b-4989-b24f-5946bbbb8ab4"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
    "company": "Crogl",
    "location": "",
    "role": "Staff Software Engineer - Product",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/crogl/c3ae1140-2ec8-4298-9dcd-3f22a18ac27e/application"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "lever",
+   "bucket": "in-window",
+   "company": "Crosslake Technologies LLC",
+   "location": "",
+   "role": "Senior Software Engineer, Product",
+   "status": "applied",
+   "url": "https://jobs.lever.co/crosslaketech/37368d94-0b13-442c-8b15-e24d50b189c3"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Deduction",
+   "location": "",
+   "role": "Senior AI Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/deduction/fecc9f25-621b-4ef8-966a-bd97dd5730be"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Deduction",
+   "location": "",
+   "role": "Senior Data Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/deduction/7e8b0639-4fe6-4aec-b26a-8c425ca915ef"
   },
   {
    "appliedOn": "2026-09-20",
@@ -10869,6 +11079,16 @@
   },
   {
    "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Farsight",
+   "location": "",
+   "role": "AI Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/farsight/820c851b-ae40-45a7-af9b-03ec087aff6c"
+  },
+  {
+   "appliedOn": "2026-09-20",
    "ats": "lever",
    "bucket": "in-window",
    "company": "Filevine",
@@ -10876,6 +11096,16 @@
    "role": "Staff Software Development Engineer (Back-end)",
    "status": "applied",
    "url": "https://jobs.lever.co/filevine/d664b02b-dc9b-434d-87ae-dd5bb7bb5651"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Finch",
+   "location": "",
+   "role": "Member of Technical Staff, Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/finch-legal/f6114324-da33-482c-a4cb-76589f9c16b9"
   },
   {
    "appliedOn": "2026-09-20",
@@ -10891,11 +11121,31 @@
    "appliedOn": "2026-09-20",
    "ats": "ashby",
    "bucket": "in-window",
+   "company": "Flox",
+   "location": "",
+   "role": "Security Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/flox/37ec9578-4fab-432f-88f1-c130ffe13ac8"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
    "company": "fomo Labs",
    "location": "",
    "role": "Staff Distributed Systems Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/fomo-labs/8ad45fa9-6fbc-455d-8c0b-4ab8bc99b8c8"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "lever",
+   "bucket": "in-window",
+   "company": "fun.xyz (Fun - Modern Payments)",
+   "location": "",
+   "role": "Backend Engineer",
+   "status": "applied",
+   "url": "https://jobs.lever.co/funxyz/a6764645-a33f-48e0-a82d-3496f9c8573d"
   },
   {
    "appliedOn": "2026-09-20",
@@ -10919,6 +11169,16 @@
   },
   {
    "appliedOn": "2026-09-20",
+   "ats": "lever",
+   "bucket": "in-window",
+   "company": "Happy Health",
+   "location": "",
+   "role": "Principal Backend Developer",
+   "status": "applied",
+   "url": "https://jobs.lever.co/happy-sleep/6c0a409f-35a2-4687-a9bd-ede3fb3c1c38"
+  },
+  {
+   "appliedOn": "2026-09-20",
    "ats": "ashby",
    "bucket": "in-window",
    "company": "Helios",
@@ -10926,6 +11186,56 @@
    "role": "Staff/Senior Distributed Systems Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/helios-intelligence-platforms/408ac07d-fc64-429c-a4f1-5a5687b22b86"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Helm.ai",
+   "location": "",
+   "role": "Senior Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/helm-ai/b28874b7-178f-444d-91c4-7b1182fc8859"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Helm.ai",
+   "location": "",
+   "role": "Staff Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/helm-ai/7111a01d-38c2-49de-8180-e6e75d25350b"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Hera",
+   "location": "",
+   "role": "Founding Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/hellohera/2e343c29-9f92-497a-b290-eee01b6c278c"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "lever",
+   "bucket": "in-window",
+   "company": "HHAeXchange",
+   "location": "",
+   "role": "Principal Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.lever.co/hhaexchange/334a6d25-85e9-40bb-9d62-1f95ea8ed72b"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "lever",
+   "bucket": "in-window",
+   "company": "ION Group (Lab49)",
+   "location": "",
+   "role": "Senior Agentic Developer, LLM-Native / Enterprise, NY",
+   "status": "applied",
+   "url": "https://jobs.lever.co/ion/f7bf6c5b-b70e-44d9-92b7-d9593f8220e6"
   },
   {
    "appliedOn": "2026-09-20",
@@ -10966,6 +11276,26 @@
    "role": "Infrastructure Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/knock/7597b34a-847a-4f51-9d4e-98479df5da7a"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Kontakt.io",
+   "location": "",
+   "role": "Senior Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/kontakt/e927dadc-0d0e-4ae5-806c-623f27322fb0"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Kubera Health",
+   "location": "",
+   "role": "Founding Engineer: AI Native HealthTech Startup",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/kubera-health/ae5b523d-657a-4bcb-8c35-685ec5167f44"
   },
   {
    "appliedOn": "2026-09-20",
@@ -11031,6 +11361,16 @@
    "appliedOn": "2026-09-20",
    "ats": "ashby",
    "bucket": "in-window",
+   "company": "Made (Made Card)",
+   "location": "",
+   "role": "Staff Backend Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/madecard/3b3c978e-d56b-4064-805e-d6a0856ef860"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
    "company": "Mandrel",
    "location": "",
    "role": "Staff / Senior Software Engineer",
@@ -11051,11 +11391,51 @@
    "appliedOn": "2026-09-20",
    "ats": "ashby",
    "bucket": "in-window",
+   "company": "MediCircle",
+   "location": "",
+   "role": "Lead Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/medicircle/2fe02a7e-0902-4051-8ad7-09d5108b207b"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Megazone Cloud US",
+   "location": "",
+   "role": "Tech Lead - MLOps & Infrastructure",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/megazone/8ac0983a-64a2-45c9-a206-a8280c63652d"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
    "company": "Merciv",
    "location": "",
    "role": "Senior Engineer, Agentic Infrastructure",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/merciv/cbc8dfb6-d945-4854-aeb4-679d460862af"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "monday.com",
+   "location": "",
+   "role": "Forward Deployed Engineer, Strategic Deployments",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/monday.com/004b8eae-05bc-4a62-9a3f-4ee3c982cedb"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Mysten Labs",
+   "location": "",
+   "role": "Staff Security Engineer, Walrus",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/mystenlabs/1c64c5ab-eb2c-40a2-a825-22ffb81a9736"
   },
   {
    "appliedOn": "2026-09-20",
@@ -11081,11 +11461,41 @@
    "appliedOn": "2026-09-20",
    "ats": "ashby",
    "bucket": "in-window",
+   "company": "Neara",
+   "location": "",
+   "role": "Forward Deployed Engineer - USA (NYC)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/neara/e62c195b-0cc6-4d40-a391-b79f31ac21ee"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Neptune",
+   "location": "",
+   "role": "Founding Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/neptune/c31c4f8b-1245-4482-8410-ec543934b1f4"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
    "company": "NetBox Labs",
    "location": "",
    "role": "Staff Software Backend Engineer, Tech Lead - Foundations",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/netboxlabs/f8093bde-80b6-47b7-b01e-eaa2cd42e272"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "NewForm",
+   "location": "",
+   "role": "Forward Deployed Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/newform/273b2bf4-a4c8-4a25-8340-b87807b97d0c"
   },
   {
    "appliedOn": "2026-09-20",
@@ -11101,11 +11511,41 @@
    "appliedOn": "2026-09-20",
    "ats": "ashby",
    "bucket": "in-window",
+   "company": "Nidus Technologies",
+   "location": "",
+   "role": "Backend Engineer (JD: Staff ML Backend Engineer)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/nidus-technologies/49c4c8c2-9b2e-413e-a9a9-daf9a61e731e"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "lever",
+   "bucket": "in-window",
+   "company": "Nitra",
+   "location": "",
+   "role": "Senior Backend Engineer",
+   "status": "applied",
+   "url": "https://jobs.lever.co/nitra/53ef11d4-6e54-4ee3-9133-c700166648b3"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
    "company": "Nova Intelligence",
    "location": "",
    "role": "Senior Software Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/novaintelligence/128d1ed2-e9f4-47f0-9c0b-c547c00577cf"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "lever",
+   "bucket": "in-window",
+   "company": "Novara",
+   "location": "",
+   "role": "Senior Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.lever.co/novara/85074085-a2f2-4342-be44-98999771e654"
   },
   {
    "appliedOn": "2026-09-20",
@@ -11126,6 +11566,16 @@
    "role": "Staff Software Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/opencall/b783683b-1d0c-4ffa-928f-91d196dcf43e/application"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Opus",
+   "location": "",
+   "role": "Senior/Staff Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/opus-training/17cb8955-f201-4978-b511-e3258ef0ab43"
   },
   {
    "appliedOn": "2026-09-20",
@@ -11171,11 +11621,51 @@
    "appliedOn": "2026-09-20",
    "ats": "ashby",
    "bucket": "in-window",
+   "company": "Parambil",
+   "location": "",
+   "role": "Senior Full-Stack Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/parambil/cc708973-ee67-459b-aba0-9c85ac189a00"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Pascal",
+   "location": "",
+   "role": "Founding Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/teampascal/92273e24-9e9e-4d1a-a808-eb35cf5f0645"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
    "company": "Patlytics",
    "location": "",
    "role": "Full Stack Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/patlytics/15f8c987-b446-44d4-bdd3-8acc56ef5ea2"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Plot",
+   "location": "",
+   "role": "Staff Data Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/plot/b28c9927-47cb-4355-bed9-39c4e48b82a0"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "lever",
+   "bucket": "in-window",
+   "company": "PortPro",
+   "location": "",
+   "role": "Staff Engineer",
+   "status": "applied",
+   "url": "https://jobs.lever.co/portpro/b8681c1c-88bb-4f1b-8758-8ea2b589cd2e"
   },
   {
    "appliedOn": "2026-09-20",
@@ -11216,6 +11706,26 @@
    "role": "Software Engineer, Security (all levels)",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/render/226a1b3b-5937-4880-817b-4beb1f72ecc6"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "lever",
+   "bucket": "in-window",
+   "company": "rePurpose Global",
+   "location": "",
+   "role": "Senior Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.lever.co/repurposeglobal/a87599f0-436e-4028-b05f-d2f9247ee1da"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Revin",
+   "location": "",
+   "role": "Senior Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/revin/6f6f8674-cb6c-47fd-9480-88cc9a3ae7d1"
   },
   {
    "appliedOn": "2026-09-20",
@@ -11271,6 +11781,16 @@
    "appliedOn": "2026-09-20",
    "ats": "ashby",
    "bucket": "in-window",
+   "company": "Sciemo",
+   "location": "",
+   "role": "Data Architect",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/sciemo/ce30b445-082a-49fc-90a9-048eac1f64dc"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
    "company": "Sequence",
    "location": "",
    "role": "AI Engineer - NYC",
@@ -11291,6 +11811,26 @@
    "appliedOn": "2026-09-20",
    "ats": "ashby",
    "bucket": "in-window",
+   "company": "Silna Health",
+   "location": "",
+   "role": "Software Engineering",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/silnahealth.com/1be7e643-cae8-4270-b998-f01d8d8e0389"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "SimSpace",
+   "location": "",
+   "role": "Staff Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/simspace-corporation/68824f16-73d0-407e-87e4-8bea99d7f234"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
    "company": "Siro",
    "location": "",
    "role": "Senior Software Engineer, Backend",
@@ -11301,11 +11841,41 @@
    "appliedOn": "2026-09-20",
    "ats": "ashby",
    "bucket": "in-window",
+   "company": "Solstice",
+   "location": "",
+   "role": "Member of Technical Staff (Data Engineering)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/solstice/57eeecdd-fb7c-481e-9594-f769c934eabc"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Sonar (now Vantom)",
+   "location": "",
+   "role": "Senior Software Engineer (Full Stack)",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/sonar-us/3e760f3d-e31b-4716-8be5-410fc8dbc8cf"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
    "company": "Span",
    "location": "",
    "role": "Platform Engineer",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/span.app/070905ca-b2e3-4afd-a854-a84d9ea16856"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Squad",
+   "location": "",
+   "role": "Applied AI Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/squadai/d1b9ea43-d0dc-40e4-b72e-1eabadb328b3"
   },
   {
    "appliedOn": "2026-09-20",
@@ -11326,6 +11896,56 @@
    "role": "Senior Software Engineer 2",
    "status": "applied",
    "url": "https://jobs.ashbyhq.com/stepful/227ebf1e-4d95-46cb-9b52-f7e6677db180"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "lever",
+   "bucket": "in-window",
+   "company": "Superstate",
+   "location": "",
+   "role": "Staff Infrastructure/DevOps Engineer",
+   "status": "applied",
+   "url": "https://jobs.lever.co/superstate/d1634337-c3e3-41c7-bc3e-0774c4b6ac3d"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "lever",
+   "bucket": "in-window",
+   "company": "Swiftly, Inc.",
+   "location": "",
+   "role": "Senior Software Engineer - Full-stack",
+   "status": "applied",
+   "url": "https://jobs.lever.co/goswift/ae7b1e71-b783-4677-9cfa-dcce51333dfa"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Sylvan",
+   "location": "",
+   "role": "Founding Forward Deployed Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/sylvan-labs/2621b304-05ce-4a11-a5ef-3c209b1571e3"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Tabbed",
+   "location": "",
+   "role": "Senior Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/tabbed/2de0f2fe-8b28-41c3-b991-f8d9de5e7439"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Talkiatry",
+   "location": "",
+   "role": "Staff AI Enablement Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/talkiatry/9acb1175-2b0a-461b-b736-477de6e21c4a"
   },
   {
    "appliedOn": "2026-09-20",
@@ -11359,6 +11979,16 @@
   },
   {
    "appliedOn": "2026-09-20",
+   "ats": "lever",
+   "bucket": "in-window",
+   "company": "TeamSnap",
+   "location": "",
+   "role": "Staff Backend Engineer",
+   "status": "applied",
+   "url": "https://jobs.lever.co/teamsnap/077075ce-80a4-4429-96ab-dd4c22b62136"
+  },
+  {
+   "appliedOn": "2026-09-20",
    "ats": "ashby",
    "bucket": "in-window",
    "company": "Tessera Labs",
@@ -11376,6 +12006,26 @@
    "role": "Senior Software Engineer, Agents",
    "status": "applied",
    "url": "https://apply.workable.com/j/FE8C506B20"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "The Browser Company",
+   "location": "",
+   "role": "Full Stack Software Engineer, Dia Enterprise",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/the%20browser%20company/8f66fbf3-9ec5-43a2-968a-5ac030492562"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "The Browser Company",
+   "location": "",
+   "role": "Staff Software Engineer, Developer Experience",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/the%20browser%20company/b1eb3bcb-6875-45c7-bb15-a9b2b697b95f"
   },
   {
    "appliedOn": "2026-09-20",
@@ -11401,6 +12051,26 @@
    "appliedOn": "2026-09-20",
    "ats": "ashby",
    "bucket": "in-window",
+   "company": "Tilt Finance",
+   "location": "",
+   "role": "Senior Software Engineer, Backend",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/tilthq/3ffa8cce-7b60-4708-9014-6d3c62637076"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Timely (K-12 master scheduling)",
+   "location": "",
+   "role": "Senior Software Engineer, Platform",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/timely/67925705-3ee5-416b-a36f-34caae7f498b"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
    "company": "TLDR",
    "location": "",
    "role": "Senior Software Engineer, Applied AI",
@@ -11419,6 +12089,16 @@
   },
   {
    "appliedOn": "2026-09-20",
+   "ats": "lever",
+   "bucket": "in-window",
+   "company": "True Zero Technologies",
+   "location": "",
+   "role": "Cloud Migration Engineer / Architect (R-00199)",
+   "status": "applied",
+   "url": "https://jobs.lever.co/truezerotech/d3dac5e9-18f9-4ddf-a2e2-2d9fae5e5059"
+  },
+  {
+   "appliedOn": "2026-09-20",
    "ats": "ashby",
    "bucket": "in-window",
    "company": "Twenty",
@@ -11429,6 +12109,16 @@
   },
   {
    "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Twin Prime",
+   "location": "",
+   "role": "Software Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/twinprime/98aa064e-6e7d-4a36-b590-49be82a9416e"
+  },
+  {
+   "appliedOn": "2026-09-20",
    "ats": "lever",
    "bucket": "in-window",
    "company": "TXSE Group Inc. (Texas Stock Exchange)",
@@ -11436,6 +12126,16 @@
    "role": "Senior Systems Architect",
    "status": "applied",
    "url": "https://jobs.lever.co/txse/d4977f8f-b711-416e-b016-0581908541cf"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Uncountable",
+   "location": "",
+   "role": "Senior Full-Stack Engineer",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/uncountable/53fd72eb-f82b-447d-8992-d44c5be9d90d"
   },
   {
    "appliedOn": "2026-09-20",
@@ -11461,6 +12161,26 @@
    "appliedOn": "2026-09-20",
    "ats": "ashby",
    "bucket": "in-window",
+   "company": "Valkai",
+   "location": "",
+   "role": "Member of Technical Staff - Platform",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/valkai/89eb79dd-9e4a-499e-a380-c914048851f6"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
+   "company": "Valkai",
+   "location": "",
+   "role": "Member of Technical Staff - Product Engineering",
+   "status": "applied",
+   "url": "https://jobs.ashbyhq.com/valkai/a2443339-6315-476a-92d3-f261b372eb02"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "ashby",
+   "bucket": "in-window",
    "company": "Wealth.com",
    "location": "",
    "role": "Senior Software Engineer, Applied AI",
@@ -11476,6 +12196,16 @@
    "role": "Staff Software Engineer, Platform & Solutions",
    "status": "applied",
    "url": "https://jobs.lever.co/wpromote/34100f7a-af60-4907-a849-1a52b0e4a9bd"
+  },
+  {
+   "appliedOn": "2026-09-20",
+   "ats": "lever",
+   "bucket": "in-window",
+   "company": "Zingtree",
+   "location": "",
+   "role": "Senior DevOps / Platform Reliability Engineer",
+   "status": "applied",
+   "url": "https://jobs.lever.co/zingtree/8cae8c0a-2f42-472c-9707-e70a69f81f54"
   }
  ],
  "generatedFor": "2026-09-20",
@@ -11509,7 +12239,7 @@
   "byAts": [
    [
     "ashby",
-    593
+    652
    ],
    [
     "greenhouse",
@@ -11517,7 +12247,7 @@
    ],
    [
     "lever",
-    66
+    80
    ],
    [
     "workable",
@@ -11680,8 +12410,8 @@
    ],
    [
     "2026-09-20",
-    86,
-    921
+    159,
+    994
    ]
   ],
   "latencies": [
@@ -11871,7 +12601,7 @@
  },
  "stats": {
   "clearing300k": 179,
-  "companies": 600,
+  "companies": 664,
   "medianBandTop": 270000.0,
   "rejectionLatency": {
    "max": 25,
@@ -11879,6 +12609,6 @@
    "n": 120,
    "p90": 13
   },
-  "total": 921
+  "total": 994
  }
 }
